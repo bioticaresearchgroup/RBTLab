@@ -751,3 +751,17 @@
   link: https://link.gale.com/apps/doc/A165363943/HRCA
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.actbio.2006.05.011
+  title: "Human osteosarcoma cell adhesion behaviour on hydroxyapatite integrated\
+    \ chitosan\u2013poly(acrylic acid) polyelectrolyte complex"
+  authors:
+  - G.S. Sailaja
+  - P. Ramesh
+  - T.V. Kumary
+  - H.K. Varma
+  publisher: Acta Biomaterialia
+  date: '2006-11-01'
+  link: https://doi.org/fnfgp9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
+  plugin: sources.py
+  file: sources.yaml
