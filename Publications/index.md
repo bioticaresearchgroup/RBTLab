@@ -5,9 +5,9 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %} Journal Publications
 
-Journal Publications
+We publish high-impact peer-reviewed research papers in leading journals across diverse topics,You can find a selection and all our publications below
 
 {% include section.html %}
 
