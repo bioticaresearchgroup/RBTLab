@@ -1,9 +1,9 @@
 ---
 ---
 
-# bioticaresearchgroup's Website
+# Innovative Solutions in Biomaterials Research
 
-An engaging 1-3 sentence description of your lab.
+At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
 
 {% include section.html %}
 
