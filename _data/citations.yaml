@@ -359,7 +359,7 @@
     \ which further benefits to the hyperthermia treatment."
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0025540825000479-ga1.jpg
   buttons:
-  - type: source
+  - type: website
     text: Manuscript Source
     link: https://www.sciencedirect.com/science/article/pii/S0025540825000479
   plugin: sources.py
