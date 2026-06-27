@@ -3,7 +3,7 @@
   group: featured
   image: images/project1.png
   link: 
-  description: "Funding:AICTE, Grant:35 Lakhs"
+  description: "Funding:AICTE,Grant:35 Lakhs"
   tags:
     - ongoing
 
@@ -12,7 +12,7 @@
   group: featured
   image: images/project2.png
   link: 
-  description: "Funding:RUSA, Grant:58 Lakhs"
+  description: "Funding:RUSA,Grant:58 Lakhs"
   repo: 
   tags:
     - ongoing
@@ -22,7 +22,7 @@
   group: ongoing
   image: images/project1.png
   link: 
-  description: "Funding:AICTE, Grant:35 Lakhs"
+  description: "Funding:AICTE,Grant:35 Lakhs"
   tags:
     - ongoing
 
@@ -31,7 +31,7 @@
   group: ongoing
   image: images/project2.png
   link: 
-  description: "Funding:RUSA, Grant:58 Lakhs"
+  description: "Funding:RUSA,Grant:58 Lakhs"
   repo: 
   tags:
     - ongoing
@@ -41,7 +41,7 @@
   group: ongoing
   image: images/project3.png
   link:
-  description: "Funding:Chancellors Award, Grant:5 Crore"
+  description: "Funding:Chancellors Award,Grant:5 Crore"
   repo: 
   tags:
     - ongoing
@@ -71,7 +71,7 @@
   group: completed
   image: images/project6.png
   link: 
-  description: "Funding:DBT, Grant:48 lakhs"
+  description: "Funding:DBT,Grant:48 lakhs"
   repo: 
   tags:
     - completed
@@ -81,7 +81,7 @@
   group: completed
   image: images/project7.png
   link: 
-  description: "Funding:DST SERB, Grant:33 lakhs"
+  description: "Funding:DST SERB,Grant:33 lakhs"
   repo: 
   tags:
     - completed
@@ -91,7 +91,7 @@
   group: completed
   image: images/project8.png
   link: 
-  description: "Funding:KSCSTE, Grant:22 lakhs"
+  description: "Funding:KSCSTE,Grant:22 lakhs"
   repo: 
   tags:
     - completed
