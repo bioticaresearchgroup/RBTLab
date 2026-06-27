@@ -767,7 +767,7 @@
   file: sources.yaml
 - title: A radiopaque brushite bone cement formulation and method of preparation thereof
   type: patent
-  description: Indian Patent - 580324
+  description: Indian Patent - 580324.
   authors:
   - Sailaja G. S.
   - K R Sneha
@@ -785,7 +785,7 @@
   - Sailaja G. S.
   - K R Sneha
   date: '2026-06-19'
-  number: 592787
+  description: Indian Patent - 592787
   publisher: Indian Patent Office
   image: null
   buttons:
@@ -802,7 +802,24 @@
   - Ananjana K
   - Irthasa Aazem
   date: '2023-08-17'
-  number: 445471
+  description: Indian Patent - 445471
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
+- title: In Situ Exfoliated Magnetic Layered Double Hydroxide (LDH) With Enhanced
+    Magnetic Hyperthermia Potential For Biomedical Applications
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Ananjana K
+  - Manoj Rama Varma
+  date: '2024-05-15'
+  description: Indian Patent - 538024
   publisher: Indian Patent Office
   image: null
   buttons:
