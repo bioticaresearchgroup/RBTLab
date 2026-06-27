@@ -811,3 +811,52 @@
     link: null
   plugin: sources.py
   file: sources.yaml
+- title: In Situ Exfoliated Magnetic Layered Double Hydroxide (LDH) With Enhanced
+    Magnetic Hyperthermia Potential For Biomedical Applications
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Ananjana K
+  - Manoj Rama Varma
+  date: '2024-05-15'
+  description: Indian Patent - 538024
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
+- title: Porous Biodegradable Scaffolds for Regenerative Bone Tissue Engineering
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Praseetha R. Nair
+  - S. Sreeja
+  date: '2022-12-23'
+  description: Indian Patent - Filed - 202141026897
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
+- title: Long-Lived Photoluminescent PMMA Silver Terephthalate Polymer Composite Films
+    with Antibacterial Activity
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Liz Hannah George
+  date: '2022-02-10'
+  description: Indian Patent - 388970
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
