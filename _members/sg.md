@@ -2,9 +2,7 @@
 name: G.S. Sailaja
 image: images/pi.jpg
 role: principal-investigator
-affiliation: Head of the Department
-Department of Polymer Science and Rubber Technology
-Cochin University of Science and Technology
+affiliation: Head of the Department, Department of Polymer Science and Rubber Technology, Cochin University of Science and Technology
 aliases:
   - Sailaja G.S. 
 links:
