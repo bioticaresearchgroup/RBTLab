@@ -2,7 +2,7 @@
 name: Deepthi Sankar
 image: images/nv.jpg
 role: postdoc
-affiliation: Postdoctoral Fellow
+affiliation: 
 aliases:
   - Deepthi 
 links:
@@ -11,7 +11,7 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- Postdoctoral Fellow
 
 
 
