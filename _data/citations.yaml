@@ -116,7 +116,7 @@
   orcid: 0000-0002-6406-7293
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10570-021-04288-6/MediaObjects/10570_2021_4288_Figa_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10570-021-04288-6/MediaObjects/10570_2021_4288_Figa_HTML.png
 - id: doi:10.1039/D2NJ00288D
   title: Lawsone-bentonite hybrid systems for pH-dependent sustained release of ciprofloxacin
   authors:
@@ -145,7 +145,7 @@
   orcid: 0000-0002-6406-7293
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12038-021-00206-x/MediaObjects/12038_2021_206_Figa_HTML.png?as=webp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12038-021-00206-x/MediaObjects/12038_2021_206_Figa_HTML.png
 - id: doi:10.1016/j.matchemphys.2021.125108
   title: A dual functional superparamagnetic system with pH-dependent drug release
     and hyperthermia potential for chemotherapeutic applications
