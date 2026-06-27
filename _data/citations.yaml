@@ -794,3 +794,20 @@
     link: null
   plugin: sources.py
   file: sources.yaml
+- title: Natural Rubber Latex Compound With Layered Double Hydroxide Nano Gel Non-Black
+    Reinforcing Filler
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Ananjana K
+  - Irthasa Aazem
+  date: '2023-08-17'
+  description: Indian Patent - 445471
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
