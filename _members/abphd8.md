@@ -7,7 +7,7 @@ aliases:
   - Swetha 
 links:
   email: swethapv@cusat.ac.in
-  linkedin: https://www.linkedin.com/in/swetha-valsan-bb1666269?trk=contact-info 
+  linkedin: swetha-valsan-bb1666269 
   google-scholar:  
   orcid: 
 ---
