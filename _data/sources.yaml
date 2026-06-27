@@ -243,3 +243,61 @@
     - type: website
       text: Patent Certificate
       link: 
+      
+- title: Anion Conducting Membrane from LDH
+  type: patent
+  authors:
+    - G.M. Anilkumar
+    - G.S. Sailaja
+    - P. Zhang
+    - T. Yamaguchi
+  date: 2017-11-28  
+  description: Japanese Patent - JP 6243312
+  publisher: Japan Patent Office
+  image: 
+  buttons:
+    - type: website
+      text: Patent Details
+      link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2014-205227/10/en
+
+- title: Silver Nanoparticles and Method of Processing the Same
+  type: patent
+  authors:
+    - Balagopal N. Nair
+    - G.S. Sailaja
+  date: 2013-02-12  
+  description: Japanese Patent - JP 5190420
+  publisher: Japan Patent Office
+  image: 
+  buttons:
+    - type: website
+      text: Patent Details
+      link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2009-167804/10/en
+
+- title: Platinum Nanoparticles and Method of Processing the Same
+  type: patent
+  authors:
+    - Balagopal N. Nair
+    - G.S. Sailaja
+  date: 2013-02-26  
+  description: Japanese Patent - JP 5197518
+  publisher: Japan Patent Office
+  image: 
+  buttons:
+    - type: website
+      text: Patent Details
+      link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2009-167803/10/en
+
+- title: Metallic Nano-Materials Made from Metallic Nanoparticles and Method of Processing the Same
+  type: patent
+  authors:
+    - Balagopal N. Nair
+    - G.S. Sailaja
+  date: 2013-08-6  
+  description: Japanese Patent - JP 5325037
+  publisher: Japan Patent Office
+  image: 
+  buttons:
+    - type: website
+      text: Patent Details
+      link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2009-167802/10/en
