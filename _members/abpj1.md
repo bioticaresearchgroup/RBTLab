@@ -2,7 +2,8 @@
 name: Musthafa Abdul Majeed
 image: images/mu.jpg
 role: undergrad1
-affiliation: 
+affiliation:
+group: alum
 aliases:
   - Musthafa
 links:
