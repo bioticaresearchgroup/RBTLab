@@ -2,7 +2,7 @@
 name: G.S. Sailaja
 image: images/pi.jpg
 role: principal-investigator
-affiliation: Cochin University of Science and Technology
+affiliation: 
 aliases:
   - Sailaja G.S. 
 links:
