@@ -2,15 +2,15 @@
 name: Arathy B.S.
 image: images/abs.jpeg
 role: phd
-affiliation: university srf
+affiliation: 
 aliases:
-  - Abhishek 
+  - Arathy 
 links:
   email: 
   linkedin: 
   google-scholar:  
   orcid: 
 ---
-
+- University SRF
 
 
