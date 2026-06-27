@@ -2,7 +2,7 @@
 name: Anna Sandra Jose
 image: images/asj.jpeg
 role: undergrad2
-affiliation: CIPET-IPT Kochi
+affiliation:
 aliases:
   - Anna
 links:
@@ -11,6 +11,6 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- CIPET-IPT Kochi
 
 
