@@ -7,7 +7,7 @@ aliases:
   - Aadithya 
 links:
   email: adithya797salbi@gmail.com
-  linkedin: https://www.linkedin.com/in/aadithya-salbi-b246691a0
+  linkedin: aadithya-salbi-b246691a0
   google-scholar:  
   orcid: 
 ---
