@@ -5,7 +5,7 @@ nav:
   tooltip: Facilities and Instruments
 ---
 
-# {% include icon.html icon="fa-solid fa-code" %}Facilities
+# {% include icon.html icon="fa-solid fa-microscope" %}Facilities
 
 
 {% include search-info.html %}
