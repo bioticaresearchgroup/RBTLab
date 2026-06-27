@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # bioticaresearchgroup's Website
+  # Regenerative Biomaterials and Theranostics Lab's Website
 
   Visit **[bioticaresearchgroup.github.io/RBTLab](https://bioticaresearchgroup.github.io/RBTLab)** 🚀
 
