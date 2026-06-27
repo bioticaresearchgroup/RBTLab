@@ -22,9 +22,7 @@ Alumini
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% endcapture %}
 
