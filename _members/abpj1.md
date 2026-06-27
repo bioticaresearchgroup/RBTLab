@@ -2,7 +2,7 @@
 name: Musthafa Abdul Majeed
 image: images/mu.jpg
 role: undergrad1
-affiliation: PS&RT CUSAT
+affiliation: 
 aliases:
   - Musthafa
 links:
@@ -11,6 +11,6 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- M.Tech Polymer Technology, PS&RT CUSAT
 
 
