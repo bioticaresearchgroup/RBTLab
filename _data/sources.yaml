@@ -1,7 +1,7 @@
 - id: doi:10.1016/j.materresbull.2025.113339
   type: paper
   description: Image guided therapeutics, a multimodal approach in cancer treatment where combinatorial imaging and therapy in a single system, has become highly pertinent contemporary chemotherapeutic approach. Herein, a bismuth/Fe3O4 metal organic framework nanocomposite system (BiTP/ Fe3O4) having high X-ray visibility (2981.8 HU) and saturation magnetization prepared by in situ synthesis is presented for computed tomography based imaging and magnetic hyperthermia therapy. Surface anchored Fe3O4 nanoparticles on MOF crystals enable magnetic targeting in the presence of external magnetic field and exhibit hyperthermia potential while bismuth serve as a potential contrast agent due to its intrinsic radiopaque properties. The synergistic effect generated in a single system has a hyperthermia time-temperature profile (42. 1 °C within 7 min) and X-ray visibility. Cytocompatibility of the system has been verified by MTT and live dead assay. Preferential uptake of BiTP/Fe3O4 by Human osteosarcoma cells was affirmed by prussian blue staining, which further benefits to the hyperthermia treatment.
-  date: 2025-6-1
+  date: 2025-06-1
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0025540825000479-ga1.jpg
   buttons:
     - type: website
@@ -157,3 +157,16 @@
 
 - id: doi:10.1016/j.actbio.2006.05.011
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
+
+- title: A radiopaque brushite bone cement formulation and method of preparation thereof
+  type: patent
+  description: Indian Patent - 580324
+  authors:
+    - Sailaja G. S.
+    - K R Sneha
+  publisher: Indian Patent Office 
+  date: 2026-02-10
+  buttons:
+    - type: website
+      text: Patent Certificate
+      link: 
