@@ -770,8 +770,9 @@
   authors:
   - Sailaja G. S.
   - K R Sneha
+  date: '2026-02-10'
   number: 580324
-  authority: Indian Patent Office
+  publisher: Indian Patent Office
   issued: 2026-2-10
   image: null
   buttons:
@@ -785,9 +786,26 @@
   authors:
   - Sailaja G. S.
   - K R Sneha
+  date: '2026-06-19'
   number: 592787
-  authority: Indian Patent Office
-  issued: 2026-6-19
+  publisher: Indian Patent Office
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
+- title: Natural Rubber Latex Compound With Layered Double Hydroxide Nano Gel Non-Black
+    Reinforcing Filler
+  type: patent
+  authors:
+  - Sailaja G. S.
+  - Ananjana K
+  - Irthasa Aazem
+  date: '2023-08-17'
+  number: 445471
+  publisher: Indian Patent Office
   image: null
   buttons:
   - type: website
