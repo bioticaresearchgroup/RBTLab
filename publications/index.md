@@ -5,9 +5,9 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %} Journal Publications
+# {% include icon.html icon="fa-solid fa-microscope" %} Publications
 
-We publish high-impact peer-reviewed research papers in leading journals across diverse topics,You can find a selection and all our publications below
+We publish national/internantonal patents and high-impact peer-reviewed research papers in leading journals across diverse topics including biomaterials and polymers for bone regenration, antibacterial formulations, nanomedicine, theranostic materials. You can find a selection and all our publications below
 
 {% include section.html %}
 
