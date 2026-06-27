@@ -2,7 +2,7 @@
 name: Navya Joseph
 image: images/nv.jpg
 role: postdoc
-affiliation: University Postdoctoral Fellow
+affiliation: 
 aliases:
   - Navya 
 links:
@@ -11,7 +11,7 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- University Postdoctoral Fellow
 
 
 
