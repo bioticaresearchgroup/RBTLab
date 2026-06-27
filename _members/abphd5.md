@@ -7,7 +7,7 @@ aliases:
   - Anagha 
 links:
   email: anaghaajith28@cusat.ac.in
-  linkedin: https://www.linkedin.com/in/anagha-ajith-23a674295
+  linkedin: anagha-ajith-23a674295
   google-scholar:  
   orcid: 
 ---
