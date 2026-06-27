@@ -7,7 +7,7 @@ aliases:
   - Saranya 
 links:
   email: saranyaskumar@cusat.ac.in
-  linkedin: https://www.linkedin.com/in/saranya-s-kumar-92a9b8269
+  linkedin: saranya-s-kumar-92a9b8269
   google-scholar:  
   orcid: 
 ---
