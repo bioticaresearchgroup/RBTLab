@@ -1,7 +1,7 @@
 ---
 name: Deepthi Sankar
 image: images/nv.jpg
-role: postdoc
+role: 
 affiliation: 
 aliases:
   - Deepthi 
