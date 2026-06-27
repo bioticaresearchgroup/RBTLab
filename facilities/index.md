@@ -10,4 +10,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="facilities"%}
+{% include list.html component="card" data="facilities" style="small"%}
