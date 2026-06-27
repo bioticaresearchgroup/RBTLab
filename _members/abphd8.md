@@ -1,6 +1,6 @@
 ---
 name: Swetha P.V.
-image: images/sw.jpg
+image: images/sw.JPG
 role: phd
 affiliation: university jrf
 aliases:
