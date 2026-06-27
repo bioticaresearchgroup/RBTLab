@@ -24,17 +24,3 @@ Journal Publications
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
-
-## Funding
-
-{% capture content %}
-[![Rashtriya Uchchattar Shiksha Abhiyan (RUSA)](/images/RUSAlogo.png)](https://www.education.gov.in/rusa)
-
-[![All India Council for Technical Education](/images/AICTE.png)](https://aicte.gov.in/)
-
-[![Science and Engineering Research Board](/images/SERB.png)](https://serb.gov.in/)
-
-[![Kerala State Council for Science, Technology and Environment](/images/KSCSTE.jpg)](https://kscste.kerala.gov.in/)
-
-[![Department of Biotechnology, Government of India](/images/DBT.png)](https://dbt.gov.in/)
-{% endcapture %}
