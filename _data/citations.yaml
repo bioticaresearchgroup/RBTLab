@@ -765,3 +765,33 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
   plugin: sources.py
   file: sources.yaml
+- type: patent
+  title: A radiopaque brushite bone cement formulation and method of preparation thereof
+  authors:
+  - Sailaja G. S.
+  - K R Sneha
+  number: 580324
+  authority: Indian Patent Office
+  issued: 2026-2-10
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
+- type: patent
+  title: A Radiopaque Surgical Suture And Method Of Preparation Thereof
+  authors:
+  - Sailaja G. S.
+  - K R Sneha
+  number: 592787
+  authority: Indian Patent Office
+  issued: 2026-6-19
+  image: null
+  buttons:
+  - type: website
+    text: Patent Certificate
+    link: null
+  plugin: sources.py
+  file: sources.yaml
