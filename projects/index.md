@@ -9,6 +9,7 @@ nav:
 
 A comprehensive overview of our completed and active research projects. Funded by key national agencies and  institutional grants.
 
+{% include tags.html tags="ongoing, completed" %}
 
 {% include search-info.html %}
 
@@ -20,6 +21,10 @@ A comprehensive overview of our completed and active research projects. Funded b
 
 {% include section.html %}
 
-## More
+## Ongoing
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" style="small" %}
+
+## Completed
+
+{% include list.html component="card" data="projects" filter="group == 'completed'" style="small" %}
