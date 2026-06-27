@@ -1,6 +1,6 @@
 ---
 name: Athira Johnson
-image: images/aj.jpg
+image: images/aj.jpeg
 role: postdoc
 affiliation: DST-WISE Postdoctoral Fellow
 aliases:
