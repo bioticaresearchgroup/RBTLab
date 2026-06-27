@@ -16,13 +16,29 @@ Meet our team:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Alumini
+We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
+
+{% include section.html %}
+
+## Alumni
+
+Gone but never forgotten.
+These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
+They have all made lasting contributions to science and to our hearts. ❤️
+
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include section.html %}
 
 {% capture content %}
-
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
 {% endcapture %}
 
