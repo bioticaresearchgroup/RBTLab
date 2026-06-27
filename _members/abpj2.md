@@ -2,7 +2,7 @@
 name: Swathilekshmi H
 image: images/sh.jpeg
 role: undergrad1
-affiliation: PS&RT CUSAT
+affiliation:
 aliases:
   - Swathilekshmi H
 links:
@@ -11,6 +11,6 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- M.Tech Polymer Technology, PS&RT CUSAT
 
 
