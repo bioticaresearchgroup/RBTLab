@@ -28,3 +28,16 @@ A comprehensive overview of our completed and active research projects. Funded b
 ## Completed
 
 {% include list.html component="card" data="projects" filter="group == 'completed'" style="small" %}
+
+## Funding
+
+[![Rashtriya Uchchattar Shiksha Abhiyan (RUSA)](/images/RUSAlogo.png)](https://www.education.gov.in/rusa)
+
+[![All India Council for Technical Education](/images/AICTE.png)](https://aicte.gov.in/)
+
+[![Science and Engineering Research Board](/images/SERB.png)](https://serb.gov.in/)
+
+[![Kerala State Council for Science, Technology and Environment](/images/KSCSTE.jpg)](https://kscste.kerala.gov.in/)
+
+[![Department of Biotechnology, Government of India](/images/DBT.png)](https://dbt.gov.in/)
+
