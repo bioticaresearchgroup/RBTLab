@@ -159,10 +159,14 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
 
 - id: indian-patent-580324
-  title: A radiopaque brushite bone cement formulation and method of preparation thereof
   type: patent
-  description:
-  date: 2026-2-10
+  title: A radiopaque brushite bone cement formulation and method of preparation thereof
+  authors:
+    - Sailaja G. S.
+    - K R Sneha
+  number: 580324
+  authority: Indian Patent Office 
+  issued: 2026-2-10
   image: 
   buttons:
     - type: website
