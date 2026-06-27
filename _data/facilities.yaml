@@ -16,7 +16,7 @@
 
 - title: Refrigerated Benchtop Centrifuge
   subtitle: Sorvall™ ST 8R 
-  image: images/software/cipipe.png
+  image: images/rc.jpg
   link: 
   description: A refrigerated benchtop centrifuge is a critical laboratory instrument designed to separate sample components by density while maintaining precise temperature control, typically between -20°C and +40°C. These compact, space-saving units are highly essential for protecting temperature-sensitive biological samples—such as DNA/RNA, proteins, cell cultures, and blood components—from the heat generated during high-speed spinning.
   repo: 
@@ -50,7 +50,7 @@
   subtitle: Eppendorf Cryocube F570
   image: images/df.jpg
   link: 
-  description: An (Ultra-Low Temperature) Deep Freezer is a highly specialized piece of laboratory and medical equipment engineered to maintain extreme thermal environments between -40°C and -86°C, specifically targeting a stable operating standard of -80°C. Unlike domestic chest freezers, these systems utilize sophisticated multi-stage refrigeration to safeguard critical biological, medical, and industrial materials.
+  description: An (Ultra-Low Temperature) Deep Freezer is a highly specialized piece of laboratory and medical equipment engineered to maintain extreme thermal environments between -40°C and -86°C, specifically targeting a stable operating standard of -80°C. These systems utilize sophisticated multi-stage refrigeration to safeguard critical biological, medical, and industrial materials.
   repo:
   tags:
 
