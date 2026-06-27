@@ -7,7 +7,7 @@ aliases:
   - Abhishek 
 links:
   email: mailtoabhishek97@gmail.com
-  linkedin: https://www.linkedin.com/in/abhishekajith/
+  linkedin: abhishekajith
   google-scholar:  
   orcid: 
 ---
