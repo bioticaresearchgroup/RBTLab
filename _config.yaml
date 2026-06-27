@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@bioticaresearchgroup.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: sailajags@cusat.ac.in
+  orcid: 0000-0002-6406-7293
+  google-scholar: JiTjSLEAAAAJ
   github: bioticaresearchgroup
-  twitter: bioticaresearchgroup
-  youtube: bioticaresearchgroup
+  twitter: RBTLab
+  youtube: RBTLab
 
 ### jekyll settings
 
