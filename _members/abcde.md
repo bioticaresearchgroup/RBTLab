@@ -4,7 +4,9 @@ image: images/pi.jpg
 role: principal-investigator
 affiliation: 
 aliases:
-  - Sailaja G.S. 
+  - Sailaja G.S.
+  - G.S. Sailaja
+  - Sailaja 
 links:
   home-page: https://gssailaja.org/
   orcid: 0000-0002-6406-7293
