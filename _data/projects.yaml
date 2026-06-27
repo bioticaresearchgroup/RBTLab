@@ -1,6 +1,6 @@
 - title: Early Osteogenic, X-ray visible, and 3D Printable Fixators for diabetic Orthopedic and Craniomaxillofacial repair with Tunable Biodegradability, Modulus and High Bone Regenerative Index
   subtitle: 2026-2029
-  group: featured, ongoing
+  group: featured
   image: images/photo.jpg
   link: 
   description: Funding AICTE, Grant 35 Lakhs
@@ -9,7 +9,7 @@
 
 - title: Development of an inherently radiopaque, biodegradable and cost-effective TACE system with liver regeneration potential for the treatment of Hepatocellular carcinoma
   subtitle: 2023-2025
-  group: featured, ongoing
+  group: featured
   image: images/photo.jpg
   link: 
   description: Funding RUSA, Grant 58 Lakhs
@@ -17,6 +17,25 @@
   tags:
     - ongoing
 
+- title: Early Osteogenic, X-ray visible, and 3D Printable Fixators for diabetic Orthopedic and Craniomaxillofacial repair with Tunable Biodegradability, Modulus and High Bone Regenerative Index
+  subtitle: 2026-2029
+  group: ongoing
+  image: images/photo.jpg
+  link: 
+  description: Funding AICTE, Grant 35 Lakhs
+  tags:
+    - ongoing
+
+- title: Development of an inherently radiopaque, biodegradable and cost-effective TACE system with liver regeneration potential for the treatment of Hepatocellular carcinoma
+  subtitle: 2023-2025
+  group: ongoing
+  image: images/photo.jpg
+  link: 
+  description: Funding RUSA, Grant 58 Lakhs
+  repo: 
+  tags:
+    - ongoing
+    
 - title: Biocompatible 3D Scaffolding through Femtosecond Laser Photo- polymerization for Tissue Engineering and Regenerative Medicine
   subtitle: 2020-2024
   group: ongoing
