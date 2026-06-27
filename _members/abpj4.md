@@ -2,7 +2,7 @@
 name: Pranav Krishna
 image: images/pk.jpeg
 role: undergrad2
-affiliation: IISER
+affiliation:
 aliases:
   - Pranav
 links:
@@ -11,6 +11,6 @@ links:
   google-scholar:  
   orcid: 
 ---
-
+- IISER
 
 
