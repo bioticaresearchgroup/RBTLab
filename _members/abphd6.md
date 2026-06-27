@@ -1,6 +1,6 @@
 ---
 name: Saranya S Kumar
-image: images/ana.jpg
+image: images/sa.jpeg
 role: phd
 affiliation:
 aliases:
