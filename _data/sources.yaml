@@ -158,8 +158,7 @@
 - id: doi:10.1016/j.actbio.2006.05.011
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
 
-- id: indian-patent-580324
-  type: patent
+- type: patent
   title: A radiopaque brushite bone cement formulation and method of preparation thereof
   authors:
     - Sailaja G. S.
@@ -173,8 +172,7 @@
       text: Patent Certificate
       link: 
 
-- id: indian-patent-592787
-  type: patent
+- type: patent
   title: A Radiopaque Surgical Suture And Method Of Preparation Thereof
   authors:
     - Sailaja G. S.
