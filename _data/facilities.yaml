@@ -1,0 +1,119 @@
+- title: Magnetic Hyperthermia Equipment
+  subtitle: nanotherics Magnatherm
+  image: images/mht.jpg
+  link: 
+  description: Magnetic Hyperthermia Equipment is designed to generate alternating magnetic fields (AMF) that interact with magnetic nanoparticles, causing them to heat up. This heat is used to target and destroy cancer cells or for targeted drug delivery.
+  repo: 
+  tags:
+
+- title: Digital Rotary Evaporator
+  subtitle: D-LAB RE100 Pro
+  image: images/re.jpg
+  link:
+  description: A digital rotary evaporator is a laboratory apparatus used for efficient, gentle solvent removal under reduced pressure. It utilizes a rotating flask to create a thin solvent film, while a vacuum system lowers the boiling point and a digital heating bath accelerates evaporation.
+  repo: 
+  tags:
+
+- title: Refrigerated Benchtop Centrifuge
+  subtitle: Sorvall™ ST 8R 
+  image: images/software/cipipe.png
+  link: 
+  description: A refrigerated benchtop centrifuge is a critical laboratory instrument designed to separate sample components by density while maintaining precise temperature control, typically between -20°C and +40°C. These compact, space-saving units are highly essential for protecting temperature-sensitive biological samples—such as DNA/RNA, proteins, cell cultures, and blood components—from the heat generated during high-speed spinning.
+  repo: 
+  tags:
+
+- title: Lyophiliser (Freeze Dryer)
+  subtitle: CHRIST 2-4 LD Plus
+  image: images/fd.jpg
+  link: 
+  description:  A compact, high-performance benchtop freeze dryer designed for universal laboratory tasks, such as R&D and scientific sample preparation. With an exceptionally low ice condenser temperature of -85°C, it is highly effective for drying samples with low eutectic points and solvent-containing specimens.
+  repo:
+  tags:
+
+- title: Universal Testing Machine (UTM)
+  subtitle: Shimadzu 
+  image: images/utm.jpg
+  link: 
+  description: This is a highly precise electromechanical [Universal Testing Machine (UTM)]used for R&D and quality control. It evaluates the mechanical properties of materials such as metals, polymers, and rubber by applying controlled tension, compression, bending, and shear forces.
+  repo:
+  tags:
+
+- title: Dynamic Mechanical Analyzer
+  subtitle: TA Instruments SQ800
+  image: images/dma.jpg
+  link: 
+  description: Dynamic Mechanical Analyzer is used to precisely measure the stiffness (modulus), damping, and viscoelastic properties of solids like polymers, composites, and alloys.
+  repo:
+  tags:
+
+- title: -80 Deep Freezer
+  subtitle: Eppendorf Cryocube F570
+  image: images/df.jpg
+  link: 
+  description: An (Ultra-Low Temperature) Deep Freezer is a highly specialized piece of laboratory and medical equipment engineered to maintain extreme thermal environments between -40°C and -86°C, specifically targeting a stable operating standard of -80°C. Unlike domestic chest freezers, these systems utilize sophisticated multi-stage refrigeration to safeguard critical biological, medical, and industrial materials.
+  repo:
+  tags:
+
+- title: UV Chamber
+  subtitle: KEMI
+  image: images/uv.jpg
+  link: 
+  description: A UV Chamber is a specialized laboratory and clinical device designed for visualization and to expose samples to specific UV wavelengths for compound analysis.
+  repo:
+  tags:
+ 
+- title: Vertical Planetary Ball Mill
+  subtitle: Biobase
+  image: images/vpbm.jpg
+  link: 
+  description: A Vertical Planetary Ball Mill is a high-energy laboratory instrument used for rapidly grinding, mixing, and homogenizing materials down to nano-sized particles.
+  repo:
+  tags:
+ 
+- title: Orbital Shaking Incubator
+  subtitle: Labline
+  image: images/si.jpg
+  link: 
+  description: An orbital shaking incubator is a vital laboratory instrument that combines temperature-controlled incubation with a circular shaking motion. It is specifically designed to facilitate the growth of microorganisms and cell cultures by providing constant aeration, uniform nutrient distribution, and optimal metabolic conditions.
+  repo:
+  tags:
+ 
+- title: FDM 3D Printer
+  subtitle: BambuLab A1
+  image: images/3dp.jpg
+  link: 
+  description: High-speed, desktop FDM 3D printer designed. 
+  repo:
+  tags:
+  
+- title: Brookfield viscometer
+  subtitle: Brookfiled LV
+  image: images/bvm.jpg
+  link: 
+  description: A Brookfield viscometer is the global industry standard for measuring fluid viscosity. It operates on the rotational principle, calculating a fluid's resistance to flow (in cP or mPa·s) by measuring the precise torque required to rotate an immersed spindle at a known, constant speed.
+  repo:
+  tags:
+  
+- title: Contact Angle Goniometer
+  subtitle: Rame-hart instruments co.
+  image: images/cag.jpg
+  link: 
+  description: A contact angle goniometer is an optical scientific instrument used to measure the contact angle θ between a liquid droplet and a solid surface. By capturing and analyzing droplet profiles using digital imaging software, it precisely quantifies surface wettability, hydrophobicity, hydrophilicity, and surface energy.
+  repo:
+  tags:
+  
+- title: Fourier Transform Infrared Spectroscopy
+  subtitle: PerkinElmer Spectrum Two
+  image: images/ftir.jpg
+  link: 
+  description: FTIR (Fourier Transform Infrared) spectroscopy is a chemical analysis technique used to identify materials and determine their molecular structure. It works by shining infrared light through or onto a sample; the molecules absorb specific frequencies of this light, creating a unique "molecular fingerprint" that reveals exactly what the material is
+  repo:
+  tags:
+  
+- title: High Pressure Homogenizer
+  subtitle: GEA PandaPlus 2000
+  image: images/hph.jpg
+  link: 
+  description: The Panda 2K is a tabletop, high-pressure homogenizer by GEA Niro Soavi, suitable for laboratory use and product testing in various industries. It utilizes high pressure to reduce particle size in fluids, even down to the nanoparticle range. The unit is designed for continuous operation and can process small sample volumes, making it ideal for research and development. 
+  repo:
+  tags:
