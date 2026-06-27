@@ -603,7 +603,7 @@
   publisher: Cancer Research
   date: '2012-04-01'
   link: https://doi.org/hb8vhh
-  image: null
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/1538-7445.AM2012-4758
@@ -618,7 +618,7 @@
   publisher: Cancer Research
   date: '2012-04-01'
   link: https://doi.org/hb8vhj
-  image: null
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10456-012-9301-1
@@ -680,7 +680,7 @@
   publisher: Tissue Engineering Part A
   date: '2009-10-01'
   link: https://doi.org/c29w2v
-  image: null
+  image: https://journals.sagepub.com/cms/asset/ceba358c-dc51-40a0-973f-a5ca746a53b5/teaa_32_13-14.largecover.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.actbio.2008.12.005
@@ -710,7 +710,7 @@
   publisher: Journal of Materials Science
   date: '2003-09-01'
   link: https://doi.org/dwk8qx
-  image: null
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10853?as=webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.4028/www.scientific.net/KEM.309-311.493
