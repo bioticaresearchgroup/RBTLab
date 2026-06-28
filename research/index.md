@@ -4,6 +4,8 @@ nav:
   order: 1
   tooltip: Learn about our research
 ---
+{% include icon.html icon="fa-solid fa-flask-vial" %}Research
+
 Our laboratory bridges the gap between fundamental macromolecular engineering and advanced clinical translation. Our research is strategically organized into four highly synergistic domains:
 
 ***
