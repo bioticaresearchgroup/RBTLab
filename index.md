@@ -26,11 +26,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/superp.jpg"
+  image="images/suture.jpg"
   link="research"
   title="Our Research"
   text=text
-  width="100%"
 %}
 
 {% capture text %}
@@ -56,7 +55,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-  width="100%"
 %}
 
 {% capture text %}
