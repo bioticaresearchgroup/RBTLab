@@ -1,1 +1,1 @@
-Sitemap: http://www.gssailaja.org/sitemap.xml
+Sitemap: https://www.gssailaja.org/sitemap.xml
