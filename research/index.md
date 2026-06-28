@@ -17,7 +17,7 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 * **Natural-Synthetic Hybrid Scaffolds:** Designing advanced polyelectrolyte complexes that dramatically optimize cell adhesion dynamics, architectural porosity, and mechanical stability.
 * **Osteoinductive Green Therapeutics:** Harnessing targeted traditional plant extracts, specifically analyzing the molecular *in vitro* biomineralization pathways of to embed potent biological cues directly into biodegradable scaffolds.
 {% include feature.html image="images/AICTE.png" text=text %}
-{% include feature.html image="images/AICTE.png" text=text %}
+{% capture content %} {% include feature.html image="images/AICTE.png" text=text %}{% endcapture %}
 ### Translational Benchmarks
 * *Acta Biomaterialia*, 2009 (Bioinspired mineralization on functionalized PVA films).
 * *Journal of Biomedical Science*, 2016 (Biomimetic approaches with smart interfaces).
