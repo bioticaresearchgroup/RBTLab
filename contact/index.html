@@ -624,6 +624,76 @@
   <dark>true</dark>
   <size>1</size>
 -->
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="glider-container">
+  <div class="glide">
+    <div class="glide__track" data-glide-el="track">
+      <div class="glide__slides">
+        <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/RBTLab/images/G1.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/RBTLab/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+        <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/RBTLab/images/G2.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/RBTLab/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+        <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/RBTLab/images/G3.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/RBTLab/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+        <figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/RBTLab/images/G4.jpg" style="
+        width: auto;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/RBTLab/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+      </div>
+    </div>
+    <div class="glide__arrows" data-glide-el="controls">
+      <button class="glide__arrow glide__arrow--left" data-glide-dir="&lt;"><i class="icon fa-solid fa-arrow-left"></i></button>
+      <button class="glide__arrow glide__arrow--right" data-glide-dir="&gt;"><i class="icon fa-solid fa-arrow-right"></i></button>
+    </div>
+  </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+
+<script>
+  const glide = new Glide('.glide', {
+    type: "carousel",
+    perView: 2,
+    breakpoints: {
+      600: { perView: 1 },
+      1200: { perView: 2 }
+    },
+    autoplay: 5000,
+    hoverpause: true,
+    focusAt: "center"
+  }).mount()
+</script>
   </section>
 
 
