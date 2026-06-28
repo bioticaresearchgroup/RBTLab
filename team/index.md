@@ -16,7 +16,7 @@ Meet our team:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
+*Interested in joining us? We are always looking for motivated Ph.D. candidates and post-doctoral researchers. Check our Contact page for application pathways.*
 
 {%
   include button.html
