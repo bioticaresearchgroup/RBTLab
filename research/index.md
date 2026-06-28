@@ -25,7 +25,7 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 {%
   include grid.html
   content=content
-  style="square"
+  width="100%"
 %}
 ### Translational Benchmarks
 * *Acta Biomaterialia*, 2009 (Bioinspired mineralization on functionalized PVA films).
