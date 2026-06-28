@@ -5,5 +5,5 @@
 
   # Regenerative Biomaterials and Theranostics Lab's Website
 
-  Visit **[www.gssailaja.org](http://www.gssailaja.org)** 🚀
+  Visit **[www.gssailaja.org](https://www.gssailaja.org)** 🚀
 
