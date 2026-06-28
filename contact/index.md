@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Cochin University of Science and Technology’s Department of Polymer Science and Rubber Technology.
+Our lab is part of the [Cochin University of Science and Technology](https://www.cusat.ac.in/)’s [Department of Polymer Science and Rubber Technology](https://psrt.cusat.ac.in/).
 
 {%
   include button.html
