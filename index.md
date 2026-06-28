@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/superp.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/project1.png"
   link="projects"
   title="Our Projects"
   flip=true
