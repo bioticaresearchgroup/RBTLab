@@ -80,7 +80,7 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
   text=text
 %}
 
-## Highlights
+## Gallery
 
 <div class="glider-container">
   <div class="glide">
