@@ -29,6 +29,8 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
   width="100%"
 %}
 ### Translational Benchmarks
+* *A radiopaque brushite bone cement formulation and method of preparation thereof*, 2026 (Indian Patent - 580324).
+* *Porous Biodegradable Scaffolds for Regenerative Bone Tissue Engineering*, 2022 (Indian Patent - Filed - 202141026897).
 * *Acta Biomaterialia*, 2009 (Bioinspired mineralization on functionalized PVA films).
 * *Journal of Biomedical Science*, 2016 (Biomimetic approaches with smart interfaces).
 * *Journal of Biosciences*, 2021 (Osteogenic regulation via *Cissus quadrangularis*).
@@ -54,6 +56,7 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 %}
 
 ### Translational Benchmarks
+* *In Situ Exfoliated Magnetic Layered Double Hydroxide (LDH) With Enhanced Magnetic Hyperthermia Potential For Biomedical Applications*, 2024 (Indian Patent - 538024).
 * *Biomaterials Advances*, 2022 (Multifunctional chitosan ferrogels for cancer therapy).
 * *ACS Omega*, 2021 (Degradation dependent delivery by magnetic porous microspheres).
 * *Materials Chemistry and Physics*, 2021 (Dual functional superparamagnetic systems).
@@ -79,6 +82,8 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 %}
 
 ### Translational Benchmarks
+* *A Radiopaque Surgical Suture And Method Of Preparation Thereof*, 2026 (Indian Patent - 592787).
+* *Long-Lived Photoluminescent PMMA Silver Terephthalate Polymer Composite Films with Antibacterial Activity*, 2022 (Indian Patent - 388970).
 * *Journal of Materials Chemistry B*, 2021 (Review on intrinsically radiopaque biomaterial principles).
 * *Biomaterials Science*, 2021 (Radiopaque, antimicrobial cellulose surgical sutures).
 * *Materials Science and Engineering: C*, 2020 (Surface transformed scaffolds for dual tissue repair and antibiotic delivery).
@@ -105,6 +110,8 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 %}
 
 ### Translational Benchmarks
+* *Natural Rubber Latex Compound With Layered Double Hydroxide Nano Gel Non-Black Reinforcing Filler*, 2023 (Indian Patent - 445471).
+* *Anion Conducting Membrane from LDH*, 2017 (Japanese Patent - JP 6243312).
 * *ACS Applied Materials & Interfaces*, 2015 (Anisotropically organized LDH on PVDF).
 * *Polymer Chemistry*, 2015 (Durable anion conducting membranes with aromatic backbones).
 * *ChemistrySelect*, 2017 (Metal organic polymer network electrocatalysts).
