@@ -18,7 +18,10 @@
   image: https://i.ibb.co/1GRr6FXP/chitosantempo.jpg
 
 - id: doi:10.1021/acsapm.3c01432
-  image: https://i.ibb.co/0jsg4N1p/osteo.gif
+  image: https://i.ibb.co/HTYdt21T/osteo.jpg
+
+- id: doi:10.1177/08839115231153823
+  image: https://i.ibb.co/78mwkLK/jbca-41-4-largecover.png
 
 - id: doi:10.1016/j.jlumin.2023.119899
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022231323002326-ga1.jpg
@@ -30,6 +33,7 @@
     - G. S. Sailaja
   publisher: The Society for Biomaterials and Artificial Organs (India)
   date: 2023-06-30
+  image: https://i.ibb.co/ZRhtKwp6/acqse.jpg
   link: https://www.biomaterials.org.in/tibao/index.php/tibao/article/view/135/58
 
 - id: doi:10.1039/D3TC01033C
