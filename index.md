@@ -5,8 +5,6 @@
 
 At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
 
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
