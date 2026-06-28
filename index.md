@@ -74,7 +74,7 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/G10.jpg"
   link="team"
   title="Our Team"
   text=text
