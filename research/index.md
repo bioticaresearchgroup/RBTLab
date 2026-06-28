@@ -18,8 +18,9 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 * **Osteoinductive Green Therapeutics:** Harnessing targeted traditional plant extracts, specifically analyzing the molecular *in vitro* biomineralization pathways of to embed potent biological cues directly into biodegradable scaffolds.
 
 {% capture content %}
-  {% include figure.html image="images/AICTE.png" %}
-  {% include figure.html image="images/AICTE.png" %}
+  {% include figure.html image="images/CQB1.jpg" %}
+  {% include figure.html image="images/PETB.jpg" %}
+  {% include figure.html image="images/PMMAB.jpg" %}
 {% endcapture %}
 
 {%
