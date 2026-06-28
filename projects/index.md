@@ -33,8 +33,9 @@ A comprehensive overview of our completed and active research projects. Funded b
 
 Our work is made possible by the following organizations.
 {%
-  include gallery.html
-  style="square"
+  include grid.html
+  content=content
+  width="100%"
   
   image1="images/funding/RUSAlogo.png"
   link1="https://www.education.gov.in"
