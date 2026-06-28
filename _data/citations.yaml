@@ -28,7 +28,7 @@
   orcid: 0000-0002-6406-7293
   plugin: sources.py
   file: sources.yaml
-  image: https://pubs.acs.org/cms/10.1021/acsapm.3c01654/asset/images/medium/ap3c01654_0010.gif
+  image: https://i.ibb.co/1GRr6FXP/chitosantempo.jpg
 - id: doi:10.1021/acsapm.3c01432
   title: "<i>In Vitro</i> Osteogenic Differentiation and Biomineralization Facet of\
     \ Phosphorylated Porous Poly(3-hydroxybutyrate-<i>co</i>-3-hydroxyvalerate)/Poly(\u03B5\
@@ -40,8 +40,9 @@
   date: '2023-09-09'
   link: https://doi.org/gssp8h
   orcid: 0000-0002-6406-7293
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/0jsg4N1p/osteo.gif
 - id: doi:10.1016/j.jlumin.2023.119899
   title: 'Room temperature synthesized metal organic frameworks of Lawsonia inermis:
     Potential candidates for sensing and cellular imaging'
