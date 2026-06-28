@@ -32,33 +32,19 @@ A comprehensive overview of our completed and active research projects. Funded b
 ## Funding
 
 Our work is made possible by the following organizations.
+{% capture content %}
+  {% include figure.html image="images/funding/RUSAlogo.png" link="https://www.education.gov.in" tooltip="Rashtriya Uchchattar Shiksha Abhiyan (RUSA)" %}
+  {% include figure.html image="images/funding/AICTE.png" link="https://aicte.gov.in" tooltip="All India Council for Technical Education" %}
+  {% include figure.html image="images/funding/SERB.png" link="https://serb.gov.in" tooltip="Science and Engineering Research Board" %}
+  {% include figure.html image="images/funding/KSCSTE.jpg" link="https://dbt.gov.in" tooltip="Kerala State Council for Science, Technology and Environment" %}
+  {% include figure.html image="images/funding/DBT.png" link="https://www.education.gov.in" tooltip="Department of Biotechnology, Government of India" %}
+{% endcapture %}
+
 {%
   include grid.html
   content=content
   width="100%"
-  
-  image1="images/funding/RUSAlogo.png"
-  link1="https://www.education.gov.in"
-  tooltip1="Rashtriya Uchchattar Shiksha Abhiyan (RUSA)"
-
-  image2="images/funding/AICTE.png"
-  link2="https://aicte.gov.in"
-  tooltip1="All India Council for Technical Education"
-
-  image3="images/funding/SERB.png"
-  link3="https://serb.gov.in"
-  tooltip1="Science and Engineering Research Board"
-
-  image4="images/funding/KSCSTE.jpg"
-  link4="https://kscste.kerala.gov.in"
-  tooltip1="Kerala State Council for Science, Technology and Environment"
-
-  image5="images/funding/DBT.png"
-  link5="https://dbt.gov.in"
-  tooltip1="Department of Biotechnology, Government of India"
 %}
-
-{% include section.html %}
 
 
 
