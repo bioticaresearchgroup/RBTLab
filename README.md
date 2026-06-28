@@ -5,5 +5,5 @@
 
   # Regenerative Biomaterials and Theranostics Lab's Website
 
-  Visit **[bioticaresearchgroup.github.io/RBTLab](https://bioticaresearchgroup.github.io/RBTLab)** 🚀
+  Visit **[gssailaja.org](http://gssailaja.org)** 🚀
 
