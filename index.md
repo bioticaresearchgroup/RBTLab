@@ -30,6 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="research"
   title="Our Research"
   text=text
+  width="100%"
 %}
 
 {% capture text %}
@@ -55,6 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
+  width="100%"
 %}
 
 {% capture text %}
