@@ -162,7 +162,7 @@
 - title: A radiopaque brushite bone cement formulation and method of preparation thereof
   type: patent
   description: Indian Patent - 580324
-  image: images/bcpc.jpg
+  image: https://i.ibb.co/ksDvTBgL/bcpc.jpg
   authors:
     - Sailaja G. S.
     - K R Sneha
@@ -181,7 +181,7 @@
   date: 2026-06-19
   description: Indian Patent - 592787
   publisher: Indian Patent Office 
-  image: images/suturepc.jpg
+  image: https://i.ibb.co/7xGtLj3d/suturepc.jpg
   buttons:
     - type: website
       text: Patent Certificate
@@ -196,7 +196,7 @@
   date: 2023-08-17  
   description: Indian Patent - 445471
   publisher: Indian Patent Office 
-  image: 
+  image: https://i.ibb.co/qhRysg7/latexldhpc.jpg
   buttons:
     - type: website
       text: Patent Certificate
@@ -211,7 +211,7 @@
   date: 2024-05-15  
   description: Indian Patent - 538024
   publisher: Indian Patent Office 
-  image: 
+  image: https://i.ibb.co/LhHwpB2y/ldhpc.jpg
   buttons:
     - type: website
       text: Patent Certificate
@@ -240,7 +240,7 @@
   date: 2022-02-10  
   description: Indian Patent - 388970
   publisher: Indian Patent Office 
-  image: 
+  image: https://i.ibb.co/ztTXfHv/pmmapc.jpg
   buttons:
     - type: website
       text: Patent Certificate
