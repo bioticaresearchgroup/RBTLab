@@ -40,6 +40,18 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 
 * **Smart Ferrogels & Microspheres:** Engineering crosslinked magnetic chitosan matrices engineered to execute degradation dependent or pH dependent kinetics for targeted drug release.
 * **Magnetically Triggered Hyperthermia:** Synthesizing superparamagnetic systems capable of generating localized therapeutic heat under alternating magnetic fields (AMF) to systematically achieve target cancer cell apoptosis.
+* 
+{% capture content %}
+  {% include figure.html image="images/areogel.jpg" %}
+  {% include figure.html image="images/micosphere.jpeg" %}
+  {% include figure.html image="images/superp.jpg" %}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  width="100%"
+%}
 
 ### Translational Benchmarks
 * *Biomaterials Advances*, 2022 (Multifunctional chitosan ferrogels for cancer therapy).
@@ -54,6 +66,18 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 * **Imageable Biomaterials:** Reviewing and developing the core physical principles governing X-ray visibility in advanced polymeric systems, ensuring clear post transplantation monitoring.
 * **Functionalized Antimicrobial Substrates:** Transforming surface architectures into consolidated medical grade components like surgical sutures capable of localized, sustained antibiotic elution to decisively prevent nosocomial infections.
 
+{% capture content %}
+  {% include figure.html image="images/PCLB.jpg" %}
+  {% include figure.html image="images/review.jpg" %}
+  {% include figure.html image="images/suture.jpg" %}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  width="100%"
+%}
+
 ### Translational Benchmarks
 * *Journal of Materials Chemistry B*, 2021 (Review on intrinsically radiopaque biomaterial principles).
 * *Biomaterials Science*, 2021 (Radiopaque, antimicrobial cellulose surgical sutures).
@@ -67,6 +91,18 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 * **Geometrically Templated Substrates:** Utilizing advanced electrospinning techniques to precisely build anisotropically organized Layered Double Hydroxide (LDH) networks over PVDF substrates for superior ion-exchange pathways.
 * **Alkaline Fuel Cell Architectures:** Developing exceptionally durable anion conducting membranes formulated with densely packed exchange sites and aromatic polymer backbones optimized for solid state operational longevity.
 * **Porously Doped Electrocatalysts:** Synthesizing metal organic network derived porous graphitic carbons engineered explicitly to accelerate the oxygen reduction reaction (ORR).
+
+{% capture content %}
+  {% include figure.html image="images/anion.jpg" %}
+  {% include figure.html image="images/mog.jpg" %}
+  {% include figure.html image="images/pvdf.jpeg" %}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=content
+  width="100%"
+%}
 
 ### Translational Benchmarks
 * *ACS Applied Materials & Interfaces*, 2015 (Anisotropically organized LDH on PVDF).
