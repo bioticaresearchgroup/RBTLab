@@ -11,7 +11,7 @@ At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biome
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The **Regenerative Biomaterials and Theranostics Laboratory** bridges fundamental macromolecular engineering with advanced clinical translation. Operating out of the Department of Polymer Science and Rubber Technology at CUSAT, our research focuses on designing high-performance, translationally viable synthetic-natural polymer matrices, functionalized nanocomposites, and responsive nanomedicines.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our laboratory manages a robust, highly translational pipeline of competitive externally funded and institutional research grants. These initiatives span active and completed phases, aggressively pushing the boundaries of regenerative engineering.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and project assistants working at the intersection of polymer science, biomaterials, and biotechnology. We maintain close structural ties and active consultancy packages with industrial collaborators to ensure our laboratory innovations successfully cross the threshold from the benchtop to clinical utility.
 
 {%
   include button.html
