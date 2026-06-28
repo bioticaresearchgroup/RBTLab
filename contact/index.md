@@ -49,4 +49,6 @@ Our lab is part of the [Cochin University of Science and Technology](https://www
 %}
 
 {% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
 
+{% include section.html dark=true %}
