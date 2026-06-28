@@ -1,1 +1,1 @@
-Sitemap: https://bioticaresearchgroup.github.io/RBTLab/sitemap.xml
+Sitemap: http://gssailaja.org/sitemap.xml
