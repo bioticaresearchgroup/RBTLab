@@ -34,8 +34,8 @@ Our lab is part of the Cochin University of Science and Technology’s Departmen
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/PSRT.jpg"
+  caption="Department of Polymer Science and Rubber Technology"
 %}
 
 {% endcapture %}
@@ -44,32 +44,9 @@ Our lab is part of the Cochin University of Science and Technology’s Departmen
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/CUSAT.jpg"
+  caption="Cochin University of Science and Technology"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
