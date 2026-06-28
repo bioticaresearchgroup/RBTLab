@@ -23,6 +23,9 @@
 - id: doi:10.1177/08839115231153823
   image: https://i.ibb.co/78mwkLK/jbca-41-4-largecover.png
 
+- id: doi:10.1088/1748-605X/ac37c5
+  image: https://i.ibb.co/yjQ532H/ihap.png
+
 - id: doi:10.1016/j.jlumin.2023.119899
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0022231323002326-ga1.jpg
 
@@ -52,16 +55,16 @@
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2NJ00288D&imageInfo.ImageIdentifier.Year=2022
 
 - id: doi:10.1007/s10570-021-04288-6
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10570-021-04288-6/MediaObjects/10570_2021_4288_Figa_HTML.png
+  image: https://i.ibb.co/zHJqSGmG/cqsdf.jpg
 
 - id: doi:10.1007/s12038-021-00206-x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs12038-021-00206-x/MediaObjects/12038_2021_206_Figa_HTML.png
+  image: https://i.ibb.co/mCKmnTF5/ivbm.jpg
 
 - id: doi:10.1016/j.matchemphys.2021.125108
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058421008919-ga1.jpg
 
 - id: doi:10.1021/acsomega.1c02303
-  image: https://pubs.acs.org/cms/10.1021/acsomega.1c02303/asset/images/medium/ao1c02303_0013.gif
+  image: https://i.ibb.co/7d7d11d7/1.jpg
 
 - id: doi:10.1093/mtomcs/mfab049
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/metallomics/13/8/10.1093_mtomcs_mfab049/2/m_mfab049gra.jpeg?Expires=1785322026&Signature=HXN~-xj47oLoNRaGB3R~35rNkybz6BHhQGXgCTV3-ClJB8ZhSwrItPc1SDtwEHjtJPJgap35dIcxcXDE~L~wEJSe1TAmeq5KiJM0W35ecjzpYdRaW6uvF81ByJtXAJ6hgpiq5csroanILHb5EYaHVAaTAmM2AkZdACWRO-msCkRrkGy~T0-EU7kxEnqPbnBmVStriA7tGMyUo3wSWhMUV0YsVBC3KXswtBE5C6n2ScMfbiVW8NFqVTxd7Hs6~gUme~8XJHIpN2TnABrh0aYjGb3MQ~Zqu6Q0Nnz-5oHxbc7c9v3HyWajBajz7gaHPb2hvyf3FSaKCE3ACB9dy2HAdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -73,7 +76,7 @@
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1BM01316E&imageInfo.ImageIdentifier.Year=2021
 
 - id: doi:10.1021/acsbiomaterials.0c01628
-  image: https://pubs.acs.org/cms/10.1021/acsbiomaterials.0c01628/asset/images/medium/ab0c01628_0016.gif
+  image: https://i.ibb.co/0pkz7QKd/2.jpg
 
 - id: doi:10.1016/j.msec.2019.110491
   image: https://ars.els-cdn.com/content/image/1-s2.0-S092849311932908X-ga1.jpg
@@ -94,13 +97,13 @@
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5PY01058F&imageInfo.ImageIdentifier.Year=2015
 
 - id: doi:10.1021/acsami.5b00532
-  image: https://pubs.acs.org/cms/10.1021/acsami.5b00532/asset/images/medium/am-2015-00532m_0005.gif
+  image: https://i.ibb.co/prGfX00R/5.jpg
 
 - id: doi:10.1186/s12929-016-0284-x
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12929-016-0284-x/MediaObjects/12929_2016_284_Fig1_HTML.gif
+  image: https://i.ibb.co/jPnDRJ02/4.jpg
 
 - id: doi:10.1002/slct.201701416
-  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0e6d21a8-0a14-4187-a003-0c98588d640f/slct201701416-toc-0001-m.png
+  image: https://i.ibb.co/GQkL3gnB/slct201701416-toc-0001-m.jpg
 
 - id: doi:10.1039/C8NJ03170C
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C8NJ03170C&imageInfo.ImageIdentifier.Year=2018
@@ -115,10 +118,10 @@
   image: https://pubs.rsc.org/image/article/2014/TA/c3ta13540c/c3ta13540c-f5.gif
 
 - id: doi:10.1007/s10856-010-3987-7
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10856-010-3987-7/MediaObjects/10856_2010_3987_Fig7_HTML.gif
+  image: https://i.ibb.co/nsR9d1BR/10856.jpg
 
 - id: doi:10.1002/app.34157
-  image: https://onlinelibrary.wiley.com/cms/asset/69cbe8fe-294b-4cbd-994a-4cfd6e87d1ed/mfig003.jpg
+  image: https://i.ibb.co/ksfQymxG/app-v121-6-cover.jpg
 
 - id: doi:10.1158/1538-7445.AM2012-4992
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -127,22 +130,19 @@
   image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
 - id: doi:10.1007/s10456-012-9301-1
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs10456-012-9301-1/MediaObjects/10456_2012_9301_Fig5_HTML.gif
+  image: https://i.ibb.co/0j3rCykB/6.jpg
 
 - id: doi:10.3892/ijo.2012.1678
   image: https://www.spandidos-publications.com/article_images/ijo/42/1/IJO-42-01-0188-g00.jpg
 
 - id: doi:10.1002/jbm.b.30725
-  image: https://onlinelibrary.wiley.com/cms/asset/3bd4e03d-5a9b-4c89-b461-05a2e91307c8/jbm.b.v114.6.cover.jpg
+  image: https://i.ibb.co/fdQP42zW/jbm-b-v114-6-cover.jpg
 
 - id: doi:10.1089/ten.tea.2008.0454
-  image: https://journals.sagepub.com/cms/asset/ceba358c-dc51-40a0-973f-a5ca746a53b5/teaa_32_13-14.largecover.png
+  image: https://i.ibb.co/kVhBpvZg/teaa-32-13-14-largecover.jpg
 
 - id: doi:10.1016/j.actbio.2008.12.005
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706108003826-gr3.jpg
-
-- id: doi:10.1089/ten.tea.2008.0454
-  image: https://journals.sagepub.com/cms/asset/ceba358c-dc51-40a0-973f-a5ca746a53b5/teaa_32_13-14.largecover.png
 
 - id: doi:10.1023/A:1025689701309
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10853?as=webp
@@ -151,7 +151,7 @@
   image: https://www.scientific.net/Image/TitleCover/542?width=190
 
 - id: doi:10.1002/app.23058
-  image: https://onlinelibrary.wiley.com/cms/asset/d6b1c6e5-fad7-43c1-814a-c51e8869745d/app.v143.29.cover.jpg
+  image: https://i.ibb.co/9Mz1nsB/app-v143-29-cover.jpg
 
 - title: Biomimetically modified Poly (2-hydroxy ethyl methacrylate-co-methyl methacrylate) microspheres for bone augmentation
   authors:
@@ -165,6 +165,12 @@
 
 - id: doi:10.1016/j.actbio.2006.05.011
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
+
+- id: doi:10.1088/1748-605X/ac01af
+  image: https://i.ibb.co/qSg2t90/3.jpg
+
+- id: doi:10.1002/app.49608
+  image: https://onlinelibrary.wiley.com/cms/asset/44795f84-14f6-4639-b7d4-c321889dfc6f/app.v138.1.cover.jpg
 
 - title: A radiopaque brushite bone cement formulation and method of preparation thereof
   type: patent
