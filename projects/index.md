@@ -17,17 +17,17 @@ A comprehensive overview of our completed and active research projects. Funded b
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" width="100%" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## Ongoing
 
-{% include list.html component="card" data="projects" filter="group == 'ongoing'" style="small" width="100%" %}
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" style="small" %}
 
 ## Completed
 
-{% include list.html component="card" data="projects" filter="group == 'completed'" style="small" width="100%" %}
+{% include list.html component="card" data="projects" filter="group == 'completed'" style="small" %}
 
 ## Funding
 
