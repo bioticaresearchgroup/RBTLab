@@ -40,7 +40,7 @@ Our laboratory bridges the gap between fundamental macromolecular engineering an
 
 * **Smart Ferrogels & Microspheres:** Engineering crosslinked magnetic chitosan matrices engineered to execute degradation dependent or pH dependent kinetics for targeted drug release.
 * **Magnetically Triggered Hyperthermia:** Synthesizing superparamagnetic systems capable of generating localized therapeutic heat under alternating magnetic fields (AMF) to systematically achieve target cancer cell apoptosis.
-* 
+
 {% capture content %}
   {% include figure.html image="images/areogel.jpg" %}
   {% include figure.html image="images/micosphere.jpeg" %}
