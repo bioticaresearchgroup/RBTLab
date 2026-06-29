@@ -3,26 +3,26 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
+  --primary: #005f73;
+  --secondary: #0a9396;
+  --text: #1a252c;
   --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --background-alt: #f4f7f6;
+  --light-gray: #e9ecef;
+  --gray: #94a3b8;
+  --dark-gray: #475569;
+  --overlay: rgba(26, 37, 44, 0.4);
 }
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #0a9396;
+  --secondary: #94d2bd;
+  --text: #f8fafc;
+  --background: #0f172a;
+  --background-alt: #1e293b;
+  --light-gray: #334155;
+  --gray: #64748b;
+  --dark-gray: #94a3b8;
+  --overlay: rgba(15, 23, 42, 0.7);
 }
 
 :root {
