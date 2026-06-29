@@ -12,7 +12,10 @@ Meet our team:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad1' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad2' and group != 'alum'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -34,7 +37,10 @@ Gone but never forgotten.
 These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
-{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad1' and group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad2' and group == 'alum'" %}
 
 {% include section.html %}
 
