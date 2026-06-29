@@ -1,7 +1,7 @@
 ---
 title: Publications
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
@@ -26,10 +26,6 @@ We publish national/internantonal patents and high-impact peer-reviewed research
 {% include list.html data="citations" component="citation" style="rich" %}
 
 ## Patents
-
-{% include search-box.html %}
-
-{% include search-info.html %}
 
 {% include list.html data="patents" component="citation" style="rich" %}
 
