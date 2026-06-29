@@ -79,16 +79,6 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
 %}
 
 
-## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
-
-{%
-  include list.html
-  data="news"
-  component="news"
-  filter="category == 'date'"
-  style="rich"
-%}
-
 ## Gallery
 
 <div class="glider-container">
