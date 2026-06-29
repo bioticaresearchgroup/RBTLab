@@ -79,9 +79,6 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
 %}
 
 
-{% include section.html %}
-
-{% capture col1 %}
 ## {% include icon.html icon="fa-solid fa-newspaper" %}Lab latest news
 
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
@@ -99,10 +96,6 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
             {% endif %}
     </div>
   </div>
-
-    {% endfor %}  
-  
-{% endcapture %}
 
 ## Gallery
 
