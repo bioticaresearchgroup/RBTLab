@@ -123,7 +123,7 @@
   repo:
   tags:
 
-  - title: Gas Permeability Tester
+- title: Gas Permeability Tester
   subtitle: GTR-7002
   image: images/facilities_gas-large.jpg
   link: 
@@ -131,7 +131,7 @@
   repo:
   tags:
 
-  - title: Thermogravimetric Analyser
+- title: Thermogravimetric Analyser
   subtitle: Q50 TA instruments
   image: images/facilities_thermogravimetric-large.jpg
   link: 
