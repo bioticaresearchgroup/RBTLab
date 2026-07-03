@@ -14,8 +14,6 @@ We publish national/internantonal patents and high-impact peer-reviewed research
 ## Highlighted
 
 {% include citation.html lookup="Bismuth/Fe3O4 in situ metal organic framework nanocomposite for image guided magnetic hyperthermia therapy" style="rich" %}
-{% include citation.html lookup="A radiopaque brushite bone cement formulation and method of preparation thereof" style="rich" %}
-{% include citation.html lookup="A Radiopaque Surgical Suture And Method Of Preparation Thereof" style="rich" %}
 
 {% include section.html %}
 
