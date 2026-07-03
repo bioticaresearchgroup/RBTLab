@@ -24,7 +24,7 @@
 
 - title: Lyophiliser (Freeze Dryer)
   subtitle: CHRIST 2-4 LD Plus
-  image: images/fd.jpg
+  image: images/facilities_deepfreezer-large.jpg
   link: 
   description: 
   repo:
@@ -48,7 +48,7 @@
 
 - title: -80 Deep Freezer
   subtitle: Eppendorf Cryocube F570
-  image: images/df.jpg
+  image: images/facilities_deepfreezer-large.jpg
   link: 
   description:
   repo:
@@ -93,7 +93,7 @@
   
 - title: Contact Angle Goniometer
   subtitle: Rame-hart instruments co.
-  image: images/cag.jpg
+  image: images/facilities_contact-large.jpg
   link: 
   description:
   repo:
@@ -110,6 +110,30 @@
 - title: High Pressure Homogenizer
   subtitle: GEA PandaPlus 2000
   image: images/hph.jpg
+  link: 
+  description: 
+  repo:
+  tags:
+
+- title: Atomic Adsorption Spectrometer
+  subtitle: Thermoscientific iCE 3000 series
+  image: images/facilities_atomicadsorption-large.jpg
+  link: 
+  description: 
+  repo:
+  tags:
+
+  - title: Gas Permeability Tester
+  subtitle: GTR-7002
+  image: images/facilities_gas-large.jpg
+  link: 
+  description: 
+  repo:
+  tags:
+
+  - title: Thermogravimetric Analyser
+  subtitle: Q50 TA instruments
+  image: images/facilities_thermogravimetric-large.jpg
   link: 
   description: 
   repo:
