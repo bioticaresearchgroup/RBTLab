@@ -3,7 +3,7 @@
   group: featured
   image: images/project1.png
   link: 
-  description: "Funding:AICTE,Grant:35 Lakhs"
+  description: "Funding:AICTE,Grant:31 Lakhs"
   tags:
     - ongoing
 
@@ -22,7 +22,7 @@
   group: ongoing
   image: images/project1.png
   link: 
-  description: "Funding:AICTE,Grant:35 Lakhs"
+  description: "Funding:AICTE,Grant:31 Lakhs"
   tags:
     - ongoing
 
