@@ -6,3 +6,59 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+/* The dark background overlay */
+.modal-overlay {
+  display: none; /* Hidden dynamically by JS on double page views */
+  position: fixed;
+  z-index: 99999; /* Sits completely on top of headers/navigation layers */
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8); /* Dimmed background */
+  justify-content: center;
+  align-items: center;
+}
+
+/* The frame containing the image and close button */
+.modal-content {
+  position: relative;
+  background-color: #fff;
+  padding: 8px;
+  border-radius: 6px;
+  max-width: 85%;
+  max-height: 85%;
+  box-shadow: 0 5px 25px rgba(0,0,0,0.5);
+}
+
+/* Fluid responsive layout for the AICTE announcement image */
+.modal-image {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh; /* Keeps it within the standard device viewport height */
+  height: auto;
+  border-radius: 2px;
+}
+
+/* The Close Button Circle */
+.modal-close-btn {
+  position: absolute;
+  top: -18px;
+  right: -18px;
+  color: #ffffff;
+  background-color: #222222;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 28px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+  transition: background-color 0.2s ease;
+}
+
+.modal-close-btn:hover {
+  background-color: #d93838; /* Changes to warning red on hover */
+}
