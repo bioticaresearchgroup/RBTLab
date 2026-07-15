@@ -381,6 +381,32 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    // 1. Check if the user has already seen the popup in this browser session
+    if (!sessionStorage.getItem('announcementSeen')) {
+      
+      // 2. Fire the SweetAlert2 popup
+      Swal.fire({
+        imageUrl: "/images/AICTENEWS.jpg",
+        imageAlt: "AICTE Announcement",
+        showConfirmButton: false, // Hides the default "OK" button
+        showCloseButton: true,    // Shows a clean "X" button in the top right
+        background: '#ffffff',    // Keeps the container background clean white
+        maxWidth: '85vw',         // Ensures it looks great and scales well on mobile screens
+        padding: '10px',
+        customClass: {
+          popup: 'home-announcement-popup'
+        }
+      });
+
+      // 3. Mark the session so it doesn't pop up again when they click back to Home
+      sessionStorage.setItem('announcementSeen', 'true');
+    }
+  });
+</script>
+
+
 </head>
 
   <body>
