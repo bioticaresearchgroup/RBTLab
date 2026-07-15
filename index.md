@@ -1,13 +1,5 @@
 ---
 ---
-<script src="https://unpkg.com/calerts@latest"></script>
-calert({
-  image: {
-    src: 'https://picsum.photos/200',
-    alt: 'Random Photos'
-  }
-})
-
 # Innovative Solutions in Biomaterials Research
 
 At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
