@@ -1,6 +1,6 @@
 ---
 ---
-
+import Swal from 'sweetalert2'
 # Innovative Solutions in Biomaterials Research
 
 At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
@@ -77,14 +77,12 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
   title="Our Team"
   text=text
 %}
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
 Swal.fire({
-  title: 'AICTE Reserach Grant',
-  text: 'Designing 3D Printable Bone Fixators.',
-  imageUrl: 'images/AICTENEWS.jpg'
-  imageWidth: 400,
-  imageHeight: 200,
-  imageAlt: 'Image showing grant award announcement',
+  title: "AICTE Reserach Grant",
+  text: "Designing 3D Printable Bone Fixators.",
+  imageUrl: "images/AICTENEWS.jpg",
+  imageAlt: "Image showing grant award announcemente"
 });
 
 ## Gallery
