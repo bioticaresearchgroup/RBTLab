@@ -78,6 +78,14 @@ Our team consists of dedicated post-doctoral researchers, Ph.D. scholars and pro
   text=text
 %}
 
+Swal.fire({
+  title: 'AICTE Reserach Grant',
+  text: 'Designing 3D Printable Bone Fixators.',
+  imageUrl: 'images/AICTENEWS.jpg'
+  imageWidth: 400,
+  imageHeight: 200,
+  imageAlt: 'Image showing grant award announcement',
+});
 
 ## Gallery
 
