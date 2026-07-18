@@ -25,8 +25,3 @@ We publish national/internantonal patents and high-impact peer-reviewed research
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
-## Patents
-
-{% include list.html data="patents" component="citation" style="rich" %}
-
-
