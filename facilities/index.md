@@ -1,7 +1,7 @@
 ---
 title: Facilities
 nav:
-  order: 5
+  order: 6
   tooltip: Facilities and Instruments
 ---
 
