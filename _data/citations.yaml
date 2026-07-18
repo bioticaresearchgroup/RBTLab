@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1177/20412479261468650
+  title: Harnessing the potential of antibiotic functionalized coir nanocellulose
+    in sustainable wound management
+  authors:
+  - M. G. Geena
+  - Ajith Sudhakaran
+  - K. P. Akhila
+  - Anita Das Ravindranath
+  - Rahul Rajan
+  - Athira Johnson
+  - G. S. Sailaja
+  publisher: Polymers from Renewable Resources
+  date: '2026-07-17'
+  link: https://doi.org/hcb246
+  orcid: 0000-0002-6406-7293
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.phyplu.2024.100668
   title: Cissus quadrangularis L. hexane extract infused glyoxal cross-linked chitosan-collagen
     scaffold elicits early osteoinduction
