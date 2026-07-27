@@ -10,8 +10,8 @@
   <script src="{{ script.path | relative_url }}"></script>
 {% endfor %}
 
-//{% if page.url == "/" or page.url == "/index.html" %}
-//<script>
+{% if page.url == "/" or page.url == "/index.html" %}
+<script>
  // window.addEventListener('DOMContentLoaded', () => {
     // 1. Check if the user has already seen the popup in this browser session
   //  if (!sessionStorage.getItem('announcementSeen')) {
@@ -33,6 +33,6 @@
       // 3. Mark the session so it doesn't pop up again when they click back to Home
  //     sessionStorage.setItem('announcementSeen', 'true');
  //   }
-//  });
-//</script>
+});
+</script>
 //{% endif %}
