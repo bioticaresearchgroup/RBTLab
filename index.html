@@ -379,37 +379,41 @@
   <script src="/_scripts/table-wrap.js"></script>
 
   <script src="/_scripts/tooltip.js"></script>
+</head>
+<body>
+<p>
 
 
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
+//
+//<script>
+ // window.addEventListener('DOMContentLoaded', () => {
     // 1. Check if the user has already seen the popup in this browser session
-    if (!sessionStorage.getItem('announcementSeen')) {
+  //  if (!sessionStorage.getItem('announcementSeen')) {
       
       // 2. Fire the SweetAlert2 popup
-      Swal.fire({
-        imageUrl: "/images/AICTENEWS.jpg",
-        imageAlt: "AICTE Announcement",
-        showConfirmButton: false, // Hides the default "OK" button
-        showCloseButton: true,    // Shows a clean "X" button in the top right
-        background: '#ffffff',    // Keeps the container background clean white
-        maxWidth: '85vw',         // Ensures it looks great and scales well on mobile screens
-        padding: '10px',
-        customClass: {
-          popup: 'home-announcement-popup'
-        }
-      });
+   //   Swal.fire({
+     //   imageUrl: "/images/AICTENEWS.jpg",
+     //   imageAlt: "AICTE Announcement",
+     //   showConfirmButton: false, // Hides the default "OK" button
+   //     showCloseButton: true,    // Shows a clean "X" button in the top right
+   //     background: '#ffffff',    // Keeps the container background clean white
+   //     maxWidth: '85vw',         // Ensures it looks great and scales well on mobile screens
+   //     padding: '10px',
+    //    customClass: {
+   //       popup: 'home-announcement-popup'
+  //      }
+  //    });
 
       // 3. Mark the session so it doesn't pop up again when they click back to Home
-      sessionStorage.setItem('announcementSeen', 'true');
-    }
-  });
-</script>
+ //     sessionStorage.setItem('announcementSeen', 'true');
+ //   }
+//  });
+//</script>
+//
 
 
-</head>
 
-  <body>
+  </p>
     
 
 
@@ -853,5 +857,6 @@
   <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
 </footer>
 
-  </body>
+  
+</body>
 </html>
