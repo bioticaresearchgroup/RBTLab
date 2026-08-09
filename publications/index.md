@@ -1,4 +1,7 @@
 ---
+# PUBLICATIONS PAGE
+# One highlighted rich citation, then a search box + tag filter strip
+# (tags gathered from _data/citation-tags.yaml) over the full citation list.
 title: Papers
 nav:
   order: 2

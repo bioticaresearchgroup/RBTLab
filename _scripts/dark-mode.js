@@ -1,5 +1,11 @@
 /*
-  manages light/dark mode.
+  DARK-MODE.JS
+  Manages light/dark theme.
+  - Reads the saved preference from localStorage BEFORE first paint and
+    sets <html data-dark="true|false">, which drives all theme CSS.
+  - Keeps every .dark-toggle checkbox in sync.
+  - Exposes window.onDarkToggleChange() used by the toggle control in
+    the header; saves the choice back to localStorage.
 */
 
 {

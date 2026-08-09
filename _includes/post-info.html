@@ -1,3 +1,10 @@
+{% comment %}
+  POST INFO (author/date chips)
+  Renders meta for a blog post: author links (shows the member small
+  portrait when the author slug matches a site.member, else a plain name),
+  published date, last-updated date (if different) and tags.
+  Used by post-excerpt.html and _layouts/post.html.
+{% endcomment %}
 <div class="post-info">
   {% if include.author %}
     {% assign authors = include.author

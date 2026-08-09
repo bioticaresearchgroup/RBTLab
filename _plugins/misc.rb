@@ -1,3 +1,8 @@
+# MISC.RB — miscellaneous Liquid filters + a post-build HTML proofer.
+# Filters: is_nil, object_items, safe_var_name, data_filter (a simple
+# Ruby-expression filter used by list.html), google_fonts.
+# Bottom block registers a Jekyll hook that runs HTMLProofer on the built
+# site unless _config.yaml sets `proofer: false`.
 require 'liquid'
 require 'html-proofer'
 
@@ -18,7 +23,6 @@ module Jekyll
       return object
     end
 
- 
     def empty_binding
       binding
     end
@@ -53,12 +57,13 @@ module Jekyll
         keep = true
         while true
           begin
-            # evaluate expression as true/false
+            # evaluate expression as true/false,
+            # e.g. filter="group == 'current'"
             keep = !!eval(filter, b)
             break
           # if a var in expression isn't a field on item
           rescue NameError => e
-            # define it and re-evaluate
+            # define it as nil and re-evaluate
             b.local_variable_set(safe_var_name(e.name), nil)
           end
         end
@@ -95,7 +100,6 @@ module Jekyll
         options = {
           allow_missing_href: true,
           enforce_https: false,
-          ignore_files: [/.*testbed.html/],
           ignore_urls: [
             /fonts\.gstatic\.com/,
             /localhost:/,

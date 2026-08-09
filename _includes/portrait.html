@@ -1,3 +1,12 @@
+{% comment %}
+  MEMBER PORTRAIT (team card)
+  Renders one member card: photo, name and role description (role text
+  comes from _data/types.yaml). If include.lookup is set, the member is
+  resolved from site.members by slug; otherwise include fields are used
+  directly (list.html passes member fields inline).
+  Usage: {% include portrait.html lookup="g-s-sailaja" %}
+  Optional: include.style (e.g. "tiny") to select a portrait card style.
+{% endcomment %}
 {% if include.lookup %}
   {% assign member = site.members 
     | where_exp: "member", "member.slug == include.lookup"

@@ -1,3 +1,9 @@
+{% comment %}
+  FLOAT (floating aside block)
+  Renders include.content (markdown) inside a visually separate floating
+  panel that text can wrap around. include.flip / include.clear toggle
+  layout modifiers in _styles/float.scss. Used on member pages.
+{% endcomment %}
 <div
   class="float"
   {% if include.flip %}

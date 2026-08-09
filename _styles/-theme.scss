@@ -1,6 +1,14 @@
 ---
 ---
 
+// -THEME.SCSS — global CSS custom properties (design tokens).
+// Central place for the site's colors, fonts, sizes, spacing, shadows and
+// rounding. SCSS variables in the other files reference these --var names.
+// Two color schemes are defined: [data-dark="false"] (light, default) and
+// [data-dark="true"] (dark); dark-mode.js toggles the data-dark attribute
+// on <html>. The "imperial/tsl palette" block near the bottom holds the
+// Transport Systems Lab accent colors reused by the RBTLab theme.
+
 // color scheme (light)
 [data-dark="false"] {
   --primary: #003e74;

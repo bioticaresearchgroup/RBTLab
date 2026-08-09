@@ -1,4 +1,7 @@
-require 'liquid'
+# REGEX.RB — custom Liquid filters for regular expressions.
+# Used widely: regex_scan pulls image/dark/size markers out of page content
+# (content.html), regex_strip cleans text for aria-labels and search data.
+require 'json'
 
 module Jekyll
   module RegexFilters
@@ -13,7 +16,7 @@ module Jekyll
       end
     end
 
-    # find regex capture group in string and replace 
+    # find regex capture group in string and replace
     def regex_replace(string, search, replace)
       return string.gsub(/#{search}/m, replace)
     end

@@ -1,3 +1,10 @@
+{% comment %}
+  BUTTON / LINK (ICON + TEXT)
+  Renders a single anchor styled as a button. Defaults (icon, tooltip,
+  link) can come from _data/types.yaml keyed by include.type. Optional
+  include.style ("bare" etc.) and include.flip (inverted layout).
+  Usage: {% include button.html type="orcid" link="0000-..." text="ORCID" %}
+{% endcomment %}
 {% assign button = include %}
 {% assign button = button | hash_default: site.data.types[include.type] %}
 

@@ -1,3 +1,16 @@
+# PROJECTS — research projects shown on the Projects page
+# (see projects/index.md, _includes/project.html, _styles/project.scss).
+# Each entry:
+#   title        project title (heading)
+#   subtitle     funding period, e.g. "2026-2029"
+#   group        featured | ongoing | completed  (used to split sections)
+#   image        image in images/
+#   link         optional external link for the title
+#   description  markdown paragraph
+#   funders      list; names must match the lookup in _includes/project.html
+#                (AICTE, RUSA, Chancellor's Award, DBT, DST, KSCSTE) which
+#                maps each funder to a logo image.
+#   tags         searchable topic tags (filtered by search.js)
 - title: Early Osteogenic, X-ray visible, and 3D Printable Fixators for diabetic Orthopedic and Craniomaxillofacial repair with Tunable Biodegradability, Modulus and High Bone Regenerative Index
   subtitle: 2026-2029
   group: featured

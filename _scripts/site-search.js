@@ -1,5 +1,8 @@
 /*
-  for site search component. searches site/domain via google.
+  SITE-SEARCH.JS
+  Powers the site-wide search form (see _includes/site-search.html).
+  On submit it redirects the visitor to a Google search restricted to the
+  current site domain: https://www.google.com/search?q=site:<domain> <query>
 */
 
 {

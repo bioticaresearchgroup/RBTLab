@@ -1,3 +1,11 @@
+{% comment %}
+  POST EXCERPT (blog card)
+  Renders a single blog post as a card: optional image, title, author
+  meta (post-info) and body excerpt. Excerpt text is either the content
+  between <!-- excerpt start --> / <!-- excerpt end --> markers or the
+  default Jekyll excerpt; a data-search (plain text) attribute feeds the
+  inline search box.
+{% endcomment %}
 {% if include.lookup %}
   {% assign post = site.posts 
     | where_exp: "post", "post.slug == include.lookup"

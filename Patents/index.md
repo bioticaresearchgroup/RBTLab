@@ -1,4 +1,7 @@
 ---
+# PATENTS PAGE
+# Search box + search info line, then all patents rendered as rich citations
+# from _data/patents.yaml.
 title: Patents
 nav:
   order: 6

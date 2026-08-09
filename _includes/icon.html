@@ -1,3 +1,10 @@
+{% comment %}
+  ICON RENDERER
+  If include.icon points to a local ".svg" file it injects that file's
+  inline SVG; otherwise it treats include.icon as a Font Awesome class
+  (e.g. "fa-solid fa-envelope").
+  Usage: {% include icon.html icon="fa-solid fa-envelope" %}
+{% endcomment %}
 {%- if include.icon contains ".svg" -%}
   {%- capture inline -%}
     {%- include {{ include.icon }} -%}

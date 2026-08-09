@@ -1,4 +1,8 @@
 ---
+# HOME PAGE
+# Landing page: hero headline (with colored keyword spans), 6 research-area
+# cards, latest news, recent-projects + lab-highlights carousels, featured
+# papers, and the full team portrait grid.
 title: Home
 nav:
   order: 0

@@ -1,3 +1,8 @@
+# SOURCES — supplementary publication metadata (cover images etc.)
+# Used by the orcid.py updater to attach figure images to the otherwise
+# auto-generated citations.yaml entries. Each entry is matched to a
+# citation by `id` (DOI) or by exact `title`; the `image` field (usually a
+# hot-linked publisher URL) becomes that paper's thumbnail in rich mode.
 - id: doi:10.1016/j.materresbull.2025.113339
   type: paper
   description: We present a bismuth/Fe3O4 metal-organic framework (BiTP/Fe3O4) nanocomposite designed for synergistic, image-guided cancer therapy. This system integrates CT imaging-leveraging the high radiopacity of bismuth (2981.8 HU) with magnetic hyperthermia via surface-anchored Fe3O4 nanoparticles (reaching 42.1°C within 7 min). The nanocomposite demonstrates excellent cytocompatibility, with Prussian blue staining confirming preferential uptake in human osteosarcoma cells, validating its potential for targeted magnetic hyperthermia applications.

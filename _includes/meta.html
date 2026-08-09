@@ -1,3 +1,12 @@
+{% comment %}
+  META TAGS + STRUCTURED DATA
+  Builds the <title>, description, Open Graph / Twitter card tags and a
+  JSON-LD snippet for each page. Title logic: uses page.name unless the
+  page has an explicit name, else page.title. Enrich final with subtitle
+  for the description. See SEO TODO notes in _config.yaml / this file.
+  NOTE: og:url currently only uses site.url + site.baseurl (no page.url),
+  so when site.url is empty these are missing in the built site.
+{% endcomment %}
 {% assign filename = page.path | split: "/" | last %}
 {% if page.name and page.name != filename %}
   {% assign title = page.name %}

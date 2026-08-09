@@ -1,4 +1,7 @@
 ---
+# FACILITIES PAGE
+# Intro line, then every instrument rendered via facility.html from
+# _data/facilities.yaml. Ends with an instrumentation-request CTA.
 title: Facilities
 nav:
   order: 5

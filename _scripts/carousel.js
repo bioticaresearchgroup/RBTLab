@@ -1,4 +1,11 @@
-/* Card carousel - item-based px translate with loop, autoplay, touch swipe (Transport Systems Lab style) */
+/*
+  CAROUSEL.JS
+  Drives the homepage carousel(s) (see _includes/carousel.html).
+  - Item-based paged scrolling: translates the track by one item width.
+  - Loops around, autoplays every 8 s, pauses while hovered, supports
+    touch swipe (>40 px), prev/next buttons, counter ("1 / N"), and
+    recomputes max pages on window resize.
+*/
 {
   const init = () => {
     document.querySelectorAll("[data-carousel]").forEach((el) => {

@@ -1,3 +1,7 @@
+# HIGHLIGHTS — the homepage "Lab highlights" carousel
+# (see index.md -> {% include carousel.html data="highlights" ... %},
+# _includes/carousel.html, _styles/carousel.scss, _scripts/carousel.js).
+# Each entry: base image plus a short caption shown under the photo.
 - title: Lab activity
   image: images/G3.jpg
 - title: Research in progress

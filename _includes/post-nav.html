@@ -1,3 +1,9 @@
+{% comment %}
+  POST NAVIGATION
+  Prev / Next post links at the bottom of a blog post, driven by Jekyll's
+  built-in include.post.previous / include.post.next.
+  Usage: {% include post-nav.html post=page %}
+{% endcomment %}
 <div class="post-nav">
   <span>
     {% if include.post.previous %}

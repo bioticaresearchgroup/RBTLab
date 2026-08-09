@@ -1,4 +1,8 @@
 ---
+# JOIN US PAGE
+# how-to-apply info for the lab: PhD admission process & criteria, current
+# research priority areas, scholarships/fellowships, postdoc + internship
+# routes, all pointing back to the director email.
 title: Join us
 nav:
   order: 8

@@ -1,3 +1,10 @@
+{% comment %}
+  MULTI-COLUMN TEXT
+  Splits unnamed include params into N equal columns (one per param).
+  Example (2 cols):
+    {% include cols.html col1="left **text**" col2="right text" %}
+  Each param key becomes a column and its value is markdown-rendered.
+{% endcomment %}
 <div class="cols" style="--cols: {{ include | object_items | size }}">
   {% for param in include %}
     {% assign key = param[0] %}

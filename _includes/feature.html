@@ -1,3 +1,9 @@
+{% comment %}
+  FEATURE (image aside + text)
+  Two-part block: clickable image on one side, markdown text on the other.
+  Optional include.flip swaps the side. Used for research-area intros etc.
+  Usage: {% include feature.html image="..." title="..." text="..." link="..." flip %}
+{% endcomment %}
 <div
   class="feature"
   {% if include.flip %}

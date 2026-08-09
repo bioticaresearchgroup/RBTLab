@@ -1,3 +1,13 @@
+# =====================================================================
+# RBTLAB SITE CONFIGURATION (_config.yaml)
+# Central Jekyll configuration for the Regenerative Biomaterials and
+# Theranostics Laboratory site. All site-wide metadata (title, description,
+# header/footer images, contact links), collection layout defaults,
+# sass/plugin settings and include/exclude rules live here.
+# NOTE: site.url / site.baseurl are intentionally not set (GitHub Pages
+# serves from a sub-path); see SEO audit notes for the pending fix.
+# =====================================================================
+
 # site properties and page defaults
 title: Regenerative Biomaterials and Theranostics Laboratory
 subtitle:

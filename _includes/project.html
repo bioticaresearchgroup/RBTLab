@@ -1,3 +1,10 @@
+{% comment %}
+  PROJECT CARD (single research project)
+  Renders one item from _data/projects.yaml: title (linked if p.link),
+  topic tags, markdown description, funders line, image column and a row
+  of funder logos (case-mapped to images/ logos). Styling lives in
+  _styles/project.scss.
+{% endcomment %}
 {% assign p = include.project %}
 <article class="project-card" id="{{ p.title | slugify }}">
   <h2 class="project-title">

@@ -1,4 +1,8 @@
 ---
+# PROJECTS PAGE
+# Intro text, project tag filter strip (tags from _data/projects.yaml),
+# search info line, then every project rendered via project.html from
+# _data/projects.yaml. Ends with a link to the publications page.
 title: Projects
 nav:
   order: 3

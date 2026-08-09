@@ -1,7 +1,14 @@
 /*
-  filters elements on page based on url or search box.
-  syntax: term1 term2 "full phrase 1" "full phrase 2" "tag: tag 1"
-  match if: all terms AND at least one phrase AND at least one tag
+  SEARCH.JS
+  Client-side filter used by Publications, Projects, Facilities and Blog
+  pages (see _includes/search-box.html + search-info.html + tags.html).
+  - Search syntax: term1 term2 "full phrase" "tag: some tag"
+    An item is shown iff ALL bare terms match, AND at least one phrase
+    matches, AND at least one tag matches.
+  - Text is searched in visible text + data-tooltip + data-search.
+  - Includes Mark.js highlighting (mark.js loaded in scripts.html).
+  - Syncs the ?search= URL parameter (so results are shareable) and
+    toggles matching tags to data-active.
 */
 {
   // elements to filter

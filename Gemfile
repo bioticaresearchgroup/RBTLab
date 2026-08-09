@@ -1,3 +1,7 @@
+# RBTLAB SITE GEMFILE
+# Ruby dependency manifest for the Jekyll build. Core jekyll + webrick
+# (needed for `bundle exec jekyll serve` on Ruby >= 3), html-proofer for
+# link checks, and the plugin gems listed in _config.yaml plugins.
 source "https://rubygems.org"
 
 # jekyll

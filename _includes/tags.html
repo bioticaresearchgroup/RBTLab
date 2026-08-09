@@ -1,3 +1,11 @@
+{% comment %}
+  TAG CHIPS
+  Normalizes include.tags (single or list, any case) into lowercase
+  hyphenated chip links. Each chip filters the current page to it via the
+  ?search="tag: <tag>" box (search.js). Optional include.repo adds a
+  GitHub repo icon/link. include.link selects the search target page
+  (defaults to current page's directory).
+{% endcomment %}
 {% assign tags = include.tags
   | object_items
   | join: ","

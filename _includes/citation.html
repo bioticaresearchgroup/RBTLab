@@ -1,3 +1,12 @@
+{% comment %}
+  CITATION ENTRY (one paper)
+  Renders a single publication. Either receives the citation data inline
+  (from list.html) or looks one up from _data/citations.yaml via
+  include.lookup (DOI id or title substring). Tags are merged from the
+  _data/citation-tags.yaml sidecar if not already present on the entry
+  (so citations.yaml stays auto-generated/clean). In "rich" style also
+  shows image, description, action buttons and tags.
+{% endcomment %}
 {% if include.lookup %}
   {% assign citation = site.data.citations
     | where_exp: "citation",

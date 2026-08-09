@@ -1,1 +1,4 @@
+# ORCID — list of ORCID identifiers to scrape publications from.
+# The build fetches _data/citations.yaml from these via the orcid.py
+# updater. Keep the PI's ORCID iD here.
 - orcid: 0000-0002-6406-7293

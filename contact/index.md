@@ -1,4 +1,8 @@
 ---
+# CONTACT PAGE
+# Contact methods as buttons (email / phone / address), a one-block address
+# card for the lab, and two photos (department + university campus) side by
+# side.
 title: Contact
 nav:
   order: 7

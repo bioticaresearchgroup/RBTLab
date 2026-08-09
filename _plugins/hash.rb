@@ -1,3 +1,6 @@
+# HASH.RB — custom Liquid filter for merging config-style hashes.
+# Used by _includes/button.html to let a button's inline parameters be
+# overridden by (or fall back to) defaults looked up in _data/types.yaml.
 require 'liquid'
 
 module Jekyll
@@ -9,6 +12,7 @@ module Jekyll
       end
       defaults.each do |key, value|
         # substitute main string into default string and set main item
+        # (e.g. default link "https://orcid.org/$VALUE" + value "0000-..." )
         if value.is_a?(String) and value.include?"$VALUE"
           if hash[key].is_a?(String)
             hash[key] = value.sub"$VALUE", hash[key]

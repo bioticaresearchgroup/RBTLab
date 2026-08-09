@@ -1,5 +1,12 @@
 /*
-  creates link next to each heading that links to that section.
+  ANCHORS.JS
+  Runs on every page load.
+  1) Adds a small "#" link next to every heading that has an id (h1-h6)
+     so readers can deep-link to sections.
+  2) If a heading is the first child of a <section>, its id is promoted
+     to the <section> itself.
+  3) Scrolls smoothly to the element named in the URL hash (#foo) on load
+     and whenever the hash changes, offsetting by the header height.
 */
 
 {

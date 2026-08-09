@@ -1,4 +1,9 @@
 ---
+# RESEARCH PAGE
+# The four research areas: (1) bone tissue engineering, (2) magnetic
+# nanomedicine & theranostics, (3) radiopaque & antimicrobial formulations,
+# (4) anion-conducting membranes / electrocatalysts. Each area lists its
+# sub-themes, a figure grid, and translational benchmarks (patents + pubs).
 title: Research
 nav:
   order: 4

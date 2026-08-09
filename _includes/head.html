@@ -1,3 +1,9 @@
+{% comment %}
+  HEAD AGGREGATOR
+  Assembles everything that goes inside <head>: analytics, search-engine
+  verification, meta tags (title/OG/Twitter/JSON-LD), fonts, stylesheets,
+  and scripts. Included once by _layouts/default.html.
+{% endcomment %}
 <head>
   {% include analytics.html %}
   {% include verification.html %}

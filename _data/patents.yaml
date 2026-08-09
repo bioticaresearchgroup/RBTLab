@@ -1,3 +1,8 @@
+# PATENTS — patents shown on the Patents page.
+# Rendered by list.html -> citation.html (same card layout as papers).
+# Fields: title, type ("patent"), description (patent no.), authors,
+# publisher (patent office), date, image, buttons (certificate links).
+# Searchable via the inline search box (title/authors/tags).
 - title: A radiopaque brushite bone cement formulation and method of preparation thereof
   type: patent
   description: Indian Patent - 580324

@@ -1,3 +1,9 @@
+{% comment %}
+  FACILITY CARD (single equipment entry)
+  Renders one item from _data/facilities.yaml as a project-style card:
+  title, model subtitle, markdown description and an image column.
+  Shared styling reuses project-card / project-content classes.
+{% endcomment %}
 {% assign f = include.facility %}
 <article class="project-card" id="{{ f.title | slugify }}">
   <h2 class="project-title">{{ f.title }}</h2>

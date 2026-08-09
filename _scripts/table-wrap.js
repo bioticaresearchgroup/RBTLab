@@ -1,5 +1,8 @@
 /*
-  put a wrapper around each table to allow scrolling.
+  TABLE-WRAP.JS
+  Wraps every top-level <table> in a horizontally scrollable <div> so wide
+  tables don't break the page layout on small screens. Also resets
+  overflow-wrap so the browser's normal text wrapping is restored inside.
 */
 
 {

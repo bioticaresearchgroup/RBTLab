@@ -1,3 +1,9 @@
+{% comment %}
+  FIGURE (research image with caption)
+  Greater-article image wrapper: linked optional, inline width/height
+  override via include.width / include.height, caption in markdown.
+  Usage: {% include figure.html image="..." caption="Fig 1. ..." %}
+{% endcomment %}
 <figure class="figure">
   <a
     {% if include.link %}

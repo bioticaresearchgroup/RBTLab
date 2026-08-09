@@ -1,3 +1,11 @@
+{% comment %}
+  TOP NAVBAR
+  Site header: logo (inline SVG preferred, else png/jpg fallback from
+  images/logo.*), optional title/subtitle text, a responsive nav-toggle
+  checkbox, and main navigation links. Nav items are auto-built from
+  content pages with "nav:" front matter, sorted by nav.order; the item
+  matching the current URL gets aria-current="page".
+{% endcomment %}
 {% assign svg = "images/logo.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
 {% assign jpg = "images/logo.jpg" | file_exists %}

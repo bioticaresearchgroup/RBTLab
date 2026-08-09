@@ -1,3 +1,14 @@
+{% comment %}
+  CAROUSEL (image slider)
+  Renders the items of a _data list as a scrollable carousel with prev/next
+  controls and a "1 / N" counter. Images come from item.image, captions
+  from item.title. Uses carousel.js for behavior.
+  Usage:
+    {% include carousel.html data="highlights" link_base="projects/" %}
+  Options: include.data (key in _data/, default "projects"),
+           include.link_base ("" disables link wrapping),
+           include.captions ("" disables caption text)
+{% endcomment %}
 {% assign carousel_data = include.data | default: "projects" %}
 {% assign carousel_linked = true %}
 {% if include.link_base == "" %}

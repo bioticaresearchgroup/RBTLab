@@ -1,3 +1,11 @@
+{% comment %}
+  CARD (image + text block)
+  Generic content card: image on top, then title / subtitle / description
+  (markdown) and optional searchable tags. Used by list.html when
+  render="card".
+  Params: include.image, include.title, include.subtitle,
+          include.description, include.tags, include.repo, include.style
+{% endcomment %}
 {{ " " }}
 <div class="card" data-style="{{ include.style }}">
   <div class="card-image">

@@ -1,4 +1,8 @@
 ---
+# TEAM PAGE
+# Director block (director.html), active members grouped by role in portrait
+# grids (postdoc / PhD / project student / intern), then alumni in the same
+# role groups shown with small portraits. Closes with a "Join the Team" CTA.
 title: Team
 nav:
   order: 1

@@ -1,3 +1,8 @@
+{% comment %}
+  SITE-WIDE SEARCH FORM (Google powered)
+  Simple form that submits to Google site search. Behavior handled by
+  onSiteSearchSubmit in _scripts/site-search.js.
+{% endcomment %}
 <form onsubmit="onSiteSearchSubmit(event)">
   <input type="text" name="query" placeholder="Search site with Google" />
   <button type="submit" class="button" aria-label="search site">

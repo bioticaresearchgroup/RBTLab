@@ -1,3 +1,9 @@
+{% comment %}
+  GRID WRAPPER
+  Minimal pass-through that wraps content in <div class="grid"> with a
+  style attribute (include.style). Styling lives in _styles/grid.scss.
+  Usage: {% include grid.html style="..." content="Markdown items" %}
+{% endcomment %}
 <div class="grid" data-style="{{ include.style }}">
   {{ include.content | markdownify }}
 </div>

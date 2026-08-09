@@ -1,6 +1,13 @@
 ---
 ---
 
+// tsl.scss — RBTLab "Transport Systems Lab" inspired stylesheet.
+// Homepage hero, section headers, card grids, compact publication list,
+// committee/facility layouts and contact grid. Everything that makes the
+// site look like TSL lives here; generic components (buttons, tables,
+// figures, etc.) have their own scss files below and are auto-included
+// via _includes/styles.html.
+
 // Shared layout container (max-width column)
 .wrap {
   max-width: var(--maxw);

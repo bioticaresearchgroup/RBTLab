@@ -1,3 +1,9 @@
+{% comment %}
+  DIRECTOR / PRINCIPAL INVESTIGATOR PROFILE
+  Finds the current (non-alumni) principal-investigator member and renders
+  a large featured profile card (photo, name, role, bio, links). Used on
+  the homepage. The "bio" is the member's own _members/*.md body text.
+{% endcomment %}
 {% assign director = site.members
   | where_exp: "member", "member.role == 'principal-investigator'"
   | where_exp: "member", "member.group != 'alum'"

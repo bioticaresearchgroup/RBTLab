@@ -1,1 +1,8 @@
+﻿{%- comment -%}
+  FALLBACK IMAGE HANDLER
+  Inline fragment used inside <img> tags across the site (e.g. portrait,
+  card, figure, one-pager images). If the main image fails to load, the
+  browser swaps in images/fallback.svg and then stops retrying.
+  Usage:  {% include fallback.html %}
+{%- endcomment -%}
 onerror="this.src = '{{ "images/fallback.svg" | relative_url }}'; this.onerror = null;"

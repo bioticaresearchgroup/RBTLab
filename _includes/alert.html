@@ -1,3 +1,9 @@
+{% comment %}
+  ALERT CALL-OUT BOX
+  Renders a colored notice/prompt box. Color and icon are pulled from
+  _data/types.yaml looked up by include.type, with safe defaults.
+  Usage: {% include alert.html type="type-key" content="Markdown text" %}
+{% endcomment %}
 {% assign color = site.data.types[include.type].color | default: "#808080" %}
 <div class="alert" style="--color: {{ color }}">
   {% assign icon = site.data.types[include.type].icon
