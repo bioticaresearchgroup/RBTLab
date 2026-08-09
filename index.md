@@ -3,6 +3,7 @@
 # Landing page: hero headline (with colored keyword spans), 6 research-area
 # cards, latest news, recent-projects + lab-highlights carousels, featured
 # papers, and the full team portrait grid.
+description: Biomaterials, nanomedicine and theranostics engineered for clinical translation at the Regenerative Biomaterials and Theranostics Laboratory, CUSAT.
 title: Home
 nav:
   order: 0

@@ -3,6 +3,7 @@
 # Intro text, project tag filter strip (tags from _data/projects.yaml),
 # search info line, then every project rendered via project.html from
 # _data/projects.yaml. Ends with a link to the publications page.
+description: Current and completed research projects and grants at the RBCT Lab — image-guided bone implants, cancer theranostics, regenerative scaffolds and antimicrobial materials.
 title: Projects
 nav:
   order: 3

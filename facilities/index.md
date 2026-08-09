@@ -2,6 +2,7 @@
 # FACILITIES PAGE
 # Intro line, then every instrument rendered via facility.html from
 # _data/facilities.yaml. Ends with an instrumentation-request CTA.
+description: Instrumentation for polymer processing, nanomaterial synthesis, mechanical and thermal characterization, and biological evaluation.
 title: Facilities
 nav:
   order: 5

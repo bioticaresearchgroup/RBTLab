@@ -4,11 +4,14 @@
 # Theranostics Laboratory site. All site-wide metadata (title, description,
 # header/footer images, contact links), collection layout defaults,
 # sass/plugin settings and include/exclude rules live here.
-# NOTE: site.url / site.baseurl are intentionally not set (GitHub Pages
-# serves from a sub-path); see SEO audit notes for the pending fix.
+# url/baseurl: production site root used by jekyll-sitemap, canonical
+# links, og:url and the RSS feed. baseurl is empty because the site is
+# served from the domain root (custom domain on GitHub Pages).
 # =====================================================================
 
 # site properties and page defaults
+url: "https://www.gssailaja.org"
+baseurl: ""
 title: Regenerative Biomaterials and Theranostics Laboratory
 subtitle:
 description: At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.

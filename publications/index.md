@@ -2,6 +2,7 @@
 # PUBLICATIONS PAGE
 # One highlighted rich citation, then a search box + tag filter strip
 # (tags gathered from _data/citation-tags.yaml) over the full citation list.
+description: Peer-reviewed papers and patents from the Regenerative Biomaterials and Theranostics Laboratory on bone regeneration, nanomedicine, hyperthermia, radiopaque and antimicrobial biomaterials.
 title: Papers
 nav:
   order: 2

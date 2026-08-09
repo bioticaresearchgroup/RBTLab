@@ -3,6 +3,7 @@
 # how-to-apply info for the lab: PhD admission process & criteria, current
 # research priority areas, scholarships/fellowships, postdoc + internship
 # routes, all pointing back to the director email.
+description: How to join the lab — PhD admission at CUSAT, postdoc fellowships, internships, and what to include in an application.
 title: Join us
 nav:
   order: 8

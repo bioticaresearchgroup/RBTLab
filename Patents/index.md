@@ -2,6 +2,7 @@
 # PATENTS PAGE
 # Search box + search info line, then all patents rendered as rich citations
 # from _data/patents.yaml.
+description: Indian and Japanese patents filed by the Regenerative Biomaterials and Theranostics Laboratory.
 title: Patents
 nav:
   order: 6

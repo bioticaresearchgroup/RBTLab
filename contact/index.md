@@ -3,6 +3,7 @@
 # Contact methods as buttons (email / phone / address), a one-block address
 # card for the lab, and two photos (department + university campus) side by
 # side.
+description: Contact the Regenerative Biomaterials and Theranostics Laboratory at CUSAT, Kochi, Kerala for collaborations, Ph.D. and postdoc inquiries.
 title: Contact
 nav:
   order: 7

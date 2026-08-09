@@ -4,6 +4,7 @@
 # nanomedicine & theranostics, (3) radiopaque & antimicrobial formulations,
 # (4) anion-conducting membranes / electrocatalysts. Each area lists its
 # sub-themes, a figure grid, and translational benchmarks (patents + pubs).
+description: Four research areas — bone tissue engineering, magnetic nanomedicine, radiopaque and antimicrobial biomaterials, and anion-conducting membranes — with key publications and patents.
 title: Research
 nav:
   order: 4
