@@ -1,0 +1,76 @@
+<footer>
+  <div class="wrap footer-grid">
+
+    <div class="footer-lockup">
+      <div class="footer-title">{{ site.title }}</div>
+      {% if site.subtitle and site.subtitle != "" %}
+        <div class="footer-subtitle">{{ site.subtitle }}</div>
+      {% endif %}
+      <p class="footer-address">
+        Department of Polymer Science and Rubber Technology<br>
+        Cochin University of Science and Technology (CUSAT)<br>
+        Kochi, Kerala 682022, India
+      </p>
+    </div>
+
+    <nav class="footer-group" aria-label="Explore">
+      <h5>Explore</h5>
+      <ul>
+        {% assign explore_titles = "Team, Papers, Projects, Research, Facilities, Patents" | split: ", " %}
+        {% assign pages = site.pages
+          | where_exp: "page", "page.nav"
+          | sort: "nav.order"
+        %}
+        {% for item in pages %}
+          {% if item.nav and explore_titles contains item.title %}
+            <li>
+              <a href="{{ item.dir | relative_url | uri_escape }}">
+                {{ item.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <nav class="footer-group" aria-label="Engage">
+      <h5>Engage</h5>
+      <ul>
+        {% assign engage_titles = "Contact, Join us" | split: ", " %}
+        {% for item in pages %}
+          {% if item.nav and engage_titles contains item.title %}
+            <li>
+              <a href="{{ item.dir | relative_url | uri_escape }}">
+                {{ item.title }}
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <nav class="footer-group" aria-label="Find us">
+      <h5>Find us</h5>
+      <ul>
+        {% if site.links.email %}
+          <li><a href="mailto:{{ site.links.email }}">Email the lab</a></li>
+        {% endif %}
+        {% if site.links.orcid %}
+          <li><a href="https://orcid.org/{{ site.links.orcid }}">ORCID</a></li>
+        {% endif %}
+        {% if site.links.google-scholar %}
+          <li>
+            <a href="https://scholar.google.com/citations?user={{ site.links.google-scholar }}">
+              Google Scholar
+            </a>
+          </li>
+        {% endif %}
+      </ul>
+    </nav>
+
+  </div>
+
+  <div class="wrap footer-colophon">
+    <span>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</span>
+  </div>
+</footer>

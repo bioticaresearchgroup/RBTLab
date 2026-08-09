@@ -1,0 +1,62 @@
+---
+---
+
+button {
+  cursor: pointer;
+}
+
+.button-wrapper {
+  display: contents;
+}
+
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  max-width: calc(100% - 5px - 5px);
+  margin: 5px;
+  padding: 12px 22px;
+  border: 1px solid var(--primary);
+  border-radius: 999px;
+  background: var(--primary);
+  color: var(--background);
+  text-align: center;
+  font: inherit;
+  font-family: var(--body);
+  font-size: var(--fs-15);
+  font-weight: var(--semi-bold);
+  text-decoration: none;
+  vertical-align: middle;
+  appearance: none;
+  transition: background var(--transition), color var(--transition),
+    transform var(--transition);
+}
+
+.button:hover {
+  background: var(--secondary);
+  border-color: var(--secondary);
+  color: var(--background);
+  transform: translateY(-1px);
+}
+
+.button[data-style="bare"] {
+  padding: 8px 4px;
+  border: none;
+  background: none;
+  color: var(--primary);
+  border-radius: 0;
+
+  &:hover {
+    color: var(--secondary);
+    transform: none;
+  }
+}
+
+.button[data-style="bare"][data-flip] .icon {
+  margin-left: 4px;
+}
+
+.button[data-flip] {
+  flex-direction: row-reverse;
+}

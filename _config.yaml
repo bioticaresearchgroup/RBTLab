@@ -1,0 +1,78 @@
+# site properties and page defaults
+title: Regenerative Biomaterials and Theranostics Laboratory
+subtitle:
+description: At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
+header: images/bg-dna.jpg
+footer: images/footer.png
+proofer: false
+
+# site social media and other links
+links:
+  email: sailajags@cusat.ac.in
+  orcid: 0000-0002-6406-7293
+  google-scholar: JiTjSLEAAAAJ
+  twitter: RBTLab
+  youtube: RBTLab
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
+
+# configure jekyll spaceship
+jekyll-spaceship:
+  mathjax-processor:
+    src:
+      - https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js

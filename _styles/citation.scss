@@ -1,0 +1,132 @@
+---
+---
+
+$thumb-size: 150px;
+$wrap: 800px;
+
+.citation-container {
+  container-type: inline-size;
+}
+
+.citation {
+  display: flex;
+  margin: 16px 0;
+  border-radius: var(--rounded);
+  background: var(--elevated);
+  border: 1px solid var(--hairline);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.citation:hover {
+  box-shadow: var(--shadow);
+}
+
+.citation-image {
+  position: relative;
+  width: $thumb-size;
+  flex-shrink: 0;
+}
+
+.citation-image img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.citation-text {
+  position: relative;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-width: 100%;
+  height: min-content;
+  padding: 22px 24px;
+  text-align: left;
+  overflow-wrap: break-word;
+  z-index: 0;
+}
+
+.citation-title,
+.citation-authors,
+.citation-details,
+.citation-description {
+  width: 100%;
+}
+
+.citation-title {
+  font-family: var(--heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--fs-18);
+  letter-spacing: -0.01em;
+  line-height: var(--line-snug);
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.citation-title:hover {
+  color: var(--primary);
+}
+
+.citation-text > .icon {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+  color: var(--primary);
+  opacity: 0.15;
+  font-size: 28px;
+  z-index: -1;
+}
+
+.citation-authors {
+  color: var(--muted);
+  font-size: var(--fs-15);
+  line-height: var(--line-normal);
+}
+
+.citation-details {
+  color: var(--gray);
+  font-size: var(--fs-14);
+}
+
+.citation-publisher {
+  text-transform: capitalize;
+  font-weight: var(--semi-bold);
+  color: var(--primary);
+}
+
+.citation-description {
+  color: var(--gray);
+  font-size: var(--fs-15);
+}
+
+.citation-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.citation-buttons .button {
+  margin: 0;
+}
+
+.citation-text > .tags {
+  display: inline-flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+
+@container (max-width: #{$wrap}) {
+  .citation {
+    flex-direction: column;
+  }
+
+  .citation-image {
+    width: unset;
+    height: $thumb-size;
+  }
+}

@@ -1,0 +1,43 @@
+---
+---
+
+{% assign carousel_data = include.data | default: "projects" %}
+{% assign carousel_linked = true %}
+{% if include.link_base == "" %}
+  {% assign carousel_linked = false %}
+{% endif %}
+{% assign carousel_items = site.data[carousel_data] %}
+
+<div class="carousel-container" data-carousel>
+  <div class="carousel-wrapper">
+    <div class="carousel" data-carousel-track>
+      {% for item in carousel_items %}
+      <div class="carousel-item">
+        {% if carousel_linked %}
+        <a class="carousel-link" href="{{ include.link_base | default: "projects/" | relative_url }}">
+        {% endif %}
+          <div class="carousel-image-container">
+            {% if item.image %}
+            <img class="carousel-image" src="{{ item.image | relative_url }}" alt="{{ item.title }}" loading="lazy">
+            {% endif %}
+          </div>
+          <div class="carousel-caption">
+            <h3>{{ item.title }}</h3>
+          </div>
+        {% if carousel_linked %}
+        </a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="carousel-controls">
+    <button class="carousel-control" type="button" data-carousel-prev aria-label="Previous">
+      <span class="icon fa-solid fa-angle-left" aria-hidden="true"></span>
+    </button>
+    <span class="carousel-counter" data-carousel-count>1 / {{ carousel_items.size }}</span>
+    <button class="carousel-control" type="button" data-carousel-next aria-label="Next">
+      <span class="icon fa-solid fa-angle-right" aria-hidden="true"></span>
+    </button>
+  </div>
+</div>

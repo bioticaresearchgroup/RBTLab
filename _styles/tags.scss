@@ -1,0 +1,39 @@
+---
+---
+
+.tags {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-width: 100%;
+  margin: 16px 0;
+}
+
+.tag {
+  max-width: 100%;
+  margin: 0;
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--secondary) 40%, transparent);
+  background: color-mix(in srgb, var(--secondary) 10%, transparent);
+  color: var(--primary);
+  text-decoration: none;
+  font-size: var(--fs-14);
+  font-weight: var(--semi-bold);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: background var(--transition), color var(--transition);
+}
+
+.tag:hover {
+  background: var(--secondary);
+  color: var(--background);
+}
+
+.tag[data-active] {
+  background: var(--secondary);
+  color: var(--background);
+}

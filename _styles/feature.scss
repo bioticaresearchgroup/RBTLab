@@ -1,0 +1,64 @@
+---
+---
+
+$wrap: 800px;
+
+.feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 40px 0;
+}
+
+.feature-image {
+  flex-shrink: 0;
+  width: 42%;
+  aspect-ratio: 3 / 2;
+  border-radius: var(--rounded);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--light-gray);
+}
+
+.feature-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform var(--transition);
+}
+
+.feature:hover .feature-image img {
+  transform: scale(1.02);
+}
+
+.feature-text {
+  flex-grow: 1;
+  text-align: left;
+}
+
+.feature-title {
+  font-size: var(--fs-30);
+  font-weight: var(--weight-medium);
+  text-align: left;
+  font-family: var(--heading);
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin-bottom: 8px;
+}
+
+.feature[data-flip] {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: $wrap) {
+  .feature {
+    flex-direction: column !important;
+  }
+
+  .feature-image {
+    width: 100%;
+    max-width: calc($wrap / 2);
+  }
+}

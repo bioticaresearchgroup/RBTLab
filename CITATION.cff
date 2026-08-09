@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or website, please cite it as below."
+title: "Regenerative Biomaterials and Theranostics Laboratory Website"
+version: 1.0.0
+date-released: 2026-08-08
+url: "https://www.gssailaja.org"
+authors:
+  - family-names: "Sailaja"
+    given-names: "G.S."
+    affiliation: "Cochin University of Science and Technology"
+  - family-names: "RBTLab"
+    given-names: "Regenerative Biomaterials and Theranostics Laboratory"
+    affiliation: "Cochin University of Science and Technology"

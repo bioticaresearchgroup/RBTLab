@@ -1,0 +1,49 @@
+{% assign director = site.members
+  | where_exp: "member", "member.role == 'principal-investigator'"
+  | where_exp: "member", "member.group != 'alum'"
+  | first
+%}
+
+{% if director %}
+  <div class="director">
+    <a
+      class="director-photo"
+      href="{{ director.url | relative_url | uri_escape }}"
+      aria-label="{{ director.name | regex_strip }}"
+    >
+      <img
+        src="{{ director.image | relative_url | uri_escape }}"
+        alt=""
+        loading="lazy"
+        {% include fallback.html %}
+      >
+    </a>
+
+    <div class="director-info">
+      <h2 class="director-name">
+        <a href="{{ director.url | relative_url | uri_escape }}">
+          {{ director.name }}
+        </a>
+      </h2>
+
+      {% assign type = site.data.types[director.role] %}
+      {% if type %}
+        <div class="director-role">{{ type.description }}</div>
+      {% endif %}
+
+      <div class="director-bio">
+        {{ director.content | markdownify }}
+      </div>
+
+      {% if director.links %}
+        <div class="director-links">
+          {% for link in director.links %}
+            {% assign key = link[0] %}
+            {% assign value = link[1] %}
+            {% include button.html type=key link=value style="bare" %}&nbsp;
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}

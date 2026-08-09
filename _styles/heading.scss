@@ -1,0 +1,61 @@
+---
+---
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 32px 0 16px 0;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  text-align: left;
+  letter-spacing: -0.015em;
+  line-height: var(--line-snug);
+  color: var(--ink);
+}
+
+h1 {
+  margin: 24px 0 20px 0;
+  font-size: var(--fs-38);
+  font-weight: var(--weight-medium);
+  text-transform: none;
+  text-align: left;
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  font-size: var(--fs-30);
+  font-weight: var(--semi-bold);
+  margin-top: 48px;
+  letter-spacing: -0.02em;
+}
+
+h3 {
+  font-size: var(--fs-24);
+  font-weight: var(--semi-bold);
+  letter-spacing: -0.01em;
+}
+
+h4 {
+  font-size: var(--fs-20);
+  letter-spacing: -0.005em;
+}
+
+h5 {
+  font-size: var(--fs-18);
+}
+
+h6 {
+  font-size: var(--fs-16);
+}
+
+section:first-of-type h1 {
+  margin-top: 8px;
+}
+
+:where(h1, h2, h3, h4, h5, h6) > .icon {
+  margin-right: 0.6em;
+  color: var(--primary);
+}

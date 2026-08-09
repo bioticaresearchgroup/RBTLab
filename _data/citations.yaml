@@ -1,0 +1,784 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1177/20412479261468650
+  title: Harnessing the potential of antibiotic functionalized coir nanocellulose
+    in sustainable wound management
+  authors:
+  - M. G. Geena
+  - Ajith Sudhakaran
+  - K. P. Akhila
+  - Anita Das Ravindranath
+  - Rahul Rajan
+  - Athira Johnson
+  - G. S. Sailaja
+  publisher: Polymers from Renewable Resources
+  date: '2026-07-17'
+  link: https://doi.org/hcb246
+  orcid: 0000-0002-6406-7293
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.phyplu.2024.100668
+  title: Cissus quadrangularis L. hexane extract infused glyoxal cross-linked chitosan-collagen
+    scaffold elicits early osteoinduction
+  authors:
+  - Praseetha R. Nair
+  - P.S. Unnikrishnan
+  - Sachin J. Shenoy
+  - G.S. Sailaja
+  publisher: Phytomedicine Plus
+  date: '2025-02-01'
+  link: https://doi.org/hb8t9f
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0141813024010122-ga1.jpg
+- id: doi:10.1021/acsapm.3c01654
+  title: Chitosan-TEMPO-Oxidized Nanocellulose Magnetic Responsive Patches with Hyperthermia
+    Potential for Smart Melanoma Therapy
+  authors:
+  - N. S. Sumitha
+  - Nidhi G. Krishna
+  - G. S. Sailaja
+  publisher: ACS Applied Polymer Materials
+  date: '2023-10-19'
+  link: https://doi.org/gswt7q
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/1GRr6FXP/chitosantempo.jpg
+- id: doi:10.1021/acsapm.3c01432
+  title: "<i>In Vitro</i> Osteogenic Differentiation and Biomineralization Facet of\
+    \ Phosphorylated Porous Poly(3-hydroxybutyrate-<i>co</i>-3-hydroxyvalerate)/Poly(\u03B5\
+    -caprolactone): an Osteogenic Platform for Regenerative Bone Tissue Engineering"
+  authors:
+  - Sumangala Devi Sreeja
+  - Gopalakrishnanchettiyar Sivakamiammal Sailaja
+  publisher: ACS Applied Polymer Materials
+  date: '2023-09-09'
+  link: https://doi.org/gssp8h
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/HTYdt21T/osteo.jpg
+- id: doi:10.1016/j.jlumin.2023.119899
+  title: 'Room temperature synthesized metal organic frameworks of Lawsonia inermis:
+    Potential candidates for sensing and cellular imaging'
+  authors:
+  - P. Sirajunnisa
+  - S. Sreelakshmi
+  - S. Prathapan
+  - G.S. Sailaja
+  publisher: Journal of Luminescence
+  date: '2023-09-01'
+  link: https://doi.org/gssp8k
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0022231323002326-ga1.jpg
+- id: doi:10.1177/08839115231153823
+  title: "Natural rubber latex films with effective growth inhibition against\n  \
+    \                  <i>S. aureus</i>\n                    via surface conjugated\
+    \ gentamicin"
+  authors:
+  - Aswin Arakkal
+  - Paramban Sirajunnisa
+  - Gopalakrishnanchettiar Sivakamiammal Sailaja
+  publisher: Journal of Bioactive and Compatible Polymers
+  date: '2023-03-06'
+  link: https://doi.org/gssp8m
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/78mwkLK/jbca-41-4-largecover.png
+- id: doi:10.1039/D3TC01033C
+  title: 'A long-lived photoluminescent silver nanocluster-infused silver terephthalate
+    metal organic framework with antibacterial and biofilm inhibition activity: a
+    high functional resource'
+  authors:
+  - Liz Hannah George
+  - Sreedharan Prathapan
+  - Narayanapillai Manoj
+  - Prasanth Rathinam
+  - Salbi Aadithya
+  - G. S. Sailaja
+  publisher: Journal of Materials Chemistry C
+  date: '2023-01-01'
+  link: https://doi.org/gssp8p
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/image/article/2023/TC/d3tc01033c/d3tc01033c-f1.gif
+- id: doi:10.1088/1748-605X/ac37c5
+  title: Injectable polyelectrolyte complex-nascent HAP biodegradable antibiotic delivery
+    system for the treatment of osteomyelitis
+  authors:
+  - Liz Hannah George
+  - Aswin Arakkal
+  - Prathapan Sreedharan
+  - G S Sailaja
+  publisher: Biomedical Materials
+  date: '2021-12-08'
+  link: https://doi.org/gssp8r
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/yjQ532H/ihap.png
+- id: doi:10.1007/s10570-021-04288-6
+  title: 'Cissus quadrangularis stem derived fiber: a natural osteoinductive substrate
+    for regenerative bone tissue engineering'
+  authors:
+  - Praseetha R. Nair
+  - S. Sreeja
+  - G. S. Sailaja
+  publisher: Cellulose
+  date: '2021-11-10'
+  link: https://doi.org/gssp8s
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/zHJqSGmG/cqsdf.jpg
+- id: doi:10.1039/D2NJ00288D
+  title: Lawsone-bentonite hybrid systems for pH-dependent sustained release of ciprofloxacin
+  authors:
+  - P. Sirajunnisa
+  - Cheemadan Sabna
+  - A. Aswin
+  - S. Prathapan
+  - G. S. Sailaja
+  publisher: New Journal of Chemistry
+  date: '2022-01-01'
+  link: https://doi.org/gssp8t
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2NJ00288D&imageInfo.ImageIdentifier.Year=2022
+- id: doi:10.1007/s12038-021-00206-x
+  title: 'In vitro biomineralization and osteogenesis of Cissus quadrangularis stem
+    extracts: An osteogenic regulator for bone tissue engineering'
+  authors:
+  - Praseetha R. Nair
+  - S. Sreeja
+  - G. S. Sailaja
+  publisher: Journal of Biosciences
+  date: '2021-09-08'
+  link: https://doi.org/gssp8v
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/mCKmnTF5/ivbm.jpg
+- id: doi:10.1016/j.matchemphys.2021.125108
+  title: A dual functional superparamagnetic system with pH-dependent drug release
+    and hyperthermia potential for chemotherapeutic applications
+  authors:
+  - N.S. Sumitha
+  - S. Sreeja
+  - P.J. George Varghese
+  - G.S. Sailaja
+  publisher: Materials Chemistry and Physics
+  date: '2021-11-01'
+  link: https://doi.org/gssp8w
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0254058421008919-ga1.jpg
+- id: doi:10.1021/acsomega.1c02303
+  title: Degradation-Dependent Controlled Delivery of Doxorubicin by Glyoxal Cross-Linked
+    Magnetic and Porous Chitosan Microspheres
+  authors:
+  - Nechikkottil Sivadasan Sumitha
+  - Prabha Prakash
+  - Balagopal N. Nair
+  - Gopalakrishnanchettiar Sivakamiammal Sailaja
+  publisher: ACS Omega
+  date: '2021-08-09'
+  link: https://doi.org/gssp8x
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/7d7d11d7/1.jpg
+- id: doi:10.1093/mtomcs/mfab049
+  title: 'Active bayerite underpinned Ag2O/Ag: an efficient antibacterial nanohybrid
+    combating microbial contamination'
+  authors:
+  - Irthasa Aazem
+  - Prasanth Rathinam
+  - Saju Pillai
+  - Gopinathan Honey
+  - Ajith Vengellur
+  - Sarita G Bhat
+  - G S Sailaja
+  publisher: Metallomics
+  date: '2021-08-01'
+  link: https://doi.org/gssp8z
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/metallomics/13/8/10.1093_mtomcs_mfab049/2/m_mfab049gra.jpeg?Expires=1785322026&Signature=HXN~-xj47oLoNRaGB3R~35rNkybz6BHhQGXgCTV3-ClJB8ZhSwrItPc1SDtwEHjtJPJgap35dIcxcXDE~L~wEJSe1TAmeq5KiJM0W35ecjzpYdRaW6uvF81ByJtXAJ6hgpiq5csroanILHb5EYaHVAaTAmM2AkZdACWRO-msCkRrkGy~T0-EU7kxEnqPbnBmVStriA7tGMyUo3wSWhMUV0YsVBC3KXswtBE5C6n2ScMfbiVW8NFqVTxd7Hs6~gUme~8XJHIpN2TnABrh0aYjGb3MQ~Zqu6Q0Nnz-5oHxbc7c9v3HyWajBajz7gaHPb2hvyf3FSaKCE3ACB9dy2HAdQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1088/1748-605X/ac01af
+  title: "Radiopacity endowed magnetic nanocomposite with hyperthermia and\n     \
+    \               <i>in vitro</i>\n                    mineralization potential:\
+    \ a combinatorial therapeutic system for osteosarcoma"
+  authors:
+  - K R Sneha
+  - S Sreeja
+  - G S Sailaja
+  publisher: Biomedical Materials
+  date: '2021-05-28'
+  link: https://doi.org/gsrgjd
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/qSg2t90/3.jpg
+- id: doi:10.1021/acsbiomaterials.0c01628
+  title: Hierarchically Porous Osteoinductive Poly(hydroxyethyl methacrylate-<i>co</i>-methyl
+    methacrylate) Scaffold with Sustained Doxorubicin Delivery for Consolidated Osteosarcoma
+    Treatment and Bone Defect Repair
+  authors:
+  - S. Sreeja
+  - Ramesh Parameshwar
+  - P. R. Harikrishna Varma
+  - G. S. Sailaja
+  publisher: ACS Biomaterials Science &amp; Engineering
+  date: '2021-01-04'
+  link: https://doi.org/gssp82
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://i.ibb.co/0pkz7QKd/2.jpg
+- id: doi:10.1002/app.49608
+  title: Antibacterial Polyelectrolytic chitosan derivatives conjugated natural rubber
+    latex films with minimized bacterial adhesion
+  authors:
+  - Aswin Arakkal
+  - Irthasa Aazem
+  - Gopinathan Honey
+  - Ajith Vengellur
+  - Sarita G. Bhat
+  - Gopalakrishnan Chettiar S. Sailaja
+  publisher: Journal of Applied Polymer Science
+  date: '2020-07-14'
+  link: https://doi.org/gnk8f9
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/44795f84-14f6-4639-b7d4-c321889dfc6f/app.v138.1.cover.jpg
+- id: doi:10.1039/D1NJ03687D
+  title: "Early biomineralizing chitosan\u2013collagen hybrid scaffold with <i>Cissus\
+    \ quadrangularis</i> extract for regenerative bone tissue engineering"
+  authors:
+  - Praseetha R. Nair
+  - S. Sreeja
+  - G. S. Sailaja
+  publisher: New Journal of Chemistry
+  date: '2021-01-01'
+  link: https://doi.org/gssp83
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1NJ03687D&imageInfo.ImageIdentifier.Year=2021
+- id: doi:10.1039/D1BM01316E
+  title: Intrinsically radiopaque and antimicrobial cellulose based surgical sutures
+    from mechanically powerful<i>Agave sisalana</i>plant leaf fibers
+  authors:
+  - K. R. Sneha
+  - P. S. Steny
+  - G. S. Sailaja
+  publisher: Biomaterials Science
+  date: '2021-01-01'
+  link: https://doi.org/gssp84
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1BM01316E&imageInfo.ImageIdentifier.Year=2021
+- id: doi:10.1039/D1TB01513C
+  title: 'Intrinsically radiopaque biomaterial assortments: a short review on the
+    physical principles, X-ray imageability, and state-of-the-art developments'
+  authors:
+  - K. R. Sneha
+  - G. S. Sailaja
+  publisher: Journal of Materials Chemistry B
+  date: '2021-01-01'
+  link: https://doi.org/gssp85
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1TB01513C&imageInfo.ImageIdentifier.Year=2021
+- id: doi:10.1039/D1NJ01913A
+  title: Lawsone derived Zn(<scp>ii</scp>) and Fe(<scp>iii</scp>) metal organic frameworks
+    with pH dependent emission for controlled drug delivery
+  authors:
+  - P. Sirajunnisa
+  - Liz Hannah George
+  - N. Manoj
+  - S. Prathapan
+  - G. S. Sailaja
+  publisher: New Journal of Chemistry
+  date: '2021-01-01'
+  link: https://doi.org/gsrb2k
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1NJ01913A&imageInfo.ImageIdentifier.Year=2021
+- id: doi:10.1039/D1NJ01262B
+  title: Natural rubber latex assisted shape-attuned synthesis of intrinsically radiopaque
+    and magnetic bioceramic nanocomposite with hyperthermia potential for cancer therapeutics
+  authors:
+  - K. R. Sneha
+  - Neenu Benny
+  - Balagopal N. Nair
+  - G. S. Sailaja
+  publisher: New Journal of Chemistry
+  date: '2021-01-01'
+  link: https://doi.org/gssp86
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1NJ01262B&imageInfo.ImageIdentifier.Year=2021
+- id: doi:10.1039/C9NJ05343C
+  title: Amino acid inspired tunable superparamagnetic iron oxide (SPION) nanostructures
+    with high magnetic hyperthermia potential for biofunctional applications
+  authors:
+  - Ananjana K.
+  - Swetha S.
+  - Prabha Prakash
+  - K. V. Nishad
+  - Manoj Komath
+  - Balagopal N. Nair
+  - Sailaja G. S.
+  publisher: New Journal of Chemistry
+  date: '2020-01-01'
+  link: https://doi.org/gj33nt
+  orcid: 0000-0002-6406-7293
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9NJ05343C&imageInfo.ImageIdentifier.Year=2020
+- id: doi:10.1016/j.materresbull.2025.113339
+  title: Bismuth/Fe3O4 in situ metal organic framework nanocomposite for image guided
+    magnetic hyperthermia therapy
+  authors:
+  - Liz Hannah George
+  - S. Prathapan
+  - "Nishad K\u2024 V\u2024"
+  - Manoj Komath
+  - G.S. Sailaja
+  publisher: Materials Research Bulletin
+  date: '2025-06-01'
+  link: https://doi.org/hb8t9b
+  type: paper
+  description: "We present a bismuth/Fe3O4 metal-organic framework (BiTP/Fe3O4) nanocomposite\
+    \ designed for synergistic, image-guided cancer therapy. This system integrates\
+    \ CT imaging-leveraging the high radiopacity of bismuth (2981.8 HU) with magnetic\
+    \ hyperthermia via surface-anchored Fe3O4 nanoparticles (reaching 42.1\xB0C within\
+    \ 7 min). The nanocomposite demonstrates excellent cytocompatibility, with Prussian\
+    \ blue staining confirming preferential uptake in human osteosarcoma cells, validating\
+    \ its potential for targeted magnetic hyperthermia applications."
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0025540825000479-ga1.jpg
+  buttons:
+  - type: website
+    text: Manuscript Source
+    link: https://www.sciencedirect.com/science/article/pii/S0025540825000479
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ijbiomac.2024.130209
+  title: 'Lawsonia inermis-organically modified chitosan intercalated bentonite clay:
+    A multifunctional nanotheranostic system for controlled drug delivery, sensing
+    and cellular imaging'
+  authors:
+  - P. Sirajunnisa
+  - S. Sreelakshmi
+  - G.S. Sailaja
+  publisher: International Journal of Biological Macromolecules
+  date: '2024-03-01'
+  link: https://doi.org/hb8vg7
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0141813024010122-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Aqueous Cissus quadrangularis Stem Extract Integrated Biodegradable Tissue
+    Engineering Scaffold Augments Early Biomimetic and Biomineralization In Vitroe
+  authors:
+  - Praseetha R. Nair
+  - S. Sreeja
+  - G. S. Sailaja
+  publisher: The Society for Biomaterials and Artificial Organs (India)
+  date: '2023-06-30'
+  image: https://i.ibb.co/ZRhtKwp6/acqse.jpg
+  link: https://www.biomaterials.org.in/tibao/index.php/tibao/article/view/135/58
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bioadv.2022.213137
+  title: Multifunctional chitosan ferrogels for targeted cancer therapy by on-demand
+    magnetically triggered drug delivery and hyperthermia
+  authors:
+  - N.S. Sumitha
+  - Nidhi G. Krishna
+  - G.S. Sailaja
+  publisher: Biomaterials Advances
+  date: '2022-11-01'
+  link: https://doi.org/hb8vg8
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2772950822004149-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.matlet.2020.127365
+  title: Fe3+ stabilized 3D cross-linked glycine-melamine formaldehyde networks as
+    precursor for highly efficient oxygen reduction catalyst in alkaline media
+  authors:
+  - Shijina Kottarathil
+  - Rajith Illathvalappil
+  - Nisa S.
+  - Sailaja G.S.
+  - Peer Mohamed A.
+  - Balagopal N. Nair
+  - Anilkumar Gopinathan M.
+  - Sreekumar Kurungot
+  - Takeo Yamaguchi
+  - Hareesh U.S.
+  publisher: Materials Letters
+  date: '2020-04-01'
+  link: https://doi.org/hb8vg9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0167577X20300707-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.reactfunctpolym.2022.105190
+  title: Antibacterial natural rubber latex films with surface-anchored quaternary
+    poly(4-vinylpyridine) polyelectrolyte
+  authors:
+  - Aswin Arakkal
+  - Prasanth Rathinam
+  - P. Sirajunnisa
+  - Honey Gopinathan
+  - Ajith Vengellur
+  - Sarita G. Bhat
+  - G.S. Sailaja
+  publisher: Reactive and Functional Polymers
+  date: '2022-03-01'
+  link: https://doi.org/hb8vhb
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1381514822000323-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.msec.2019.110491
+  title: Surface-transformed osteoinductive polyethylene terephthalate scaffold as
+    a dual system for bone tissue regeneration with localized antibiotic delivery
+  authors:
+  - S. Sreeja
+  - C.V. Muraleedharan
+  - P.R. Harikrishna Varma
+  - G.S. Sailaja
+  publisher: 'Materials Science and Engineering: C'
+  date: '2020-04-01'
+  link: https://doi.org/gjsjbm
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S092849311932908X-ga1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C5PY01058F
+  title: A durable anion conducting membrane with packed anion-exchange sites and
+    an aromatic backbone for solid-state alkaline fuel cells
+  authors:
+  - G. S. Sailaja
+  - Shoji Miyanishi
+  - Takeo Yamaguchi
+  publisher: Polymer Chemistry
+  date: '2015-01-01'
+  link: https://doi.org/hb8vhc
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C5PY01058F&imageInfo.ImageIdentifier.Year=2015
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acsami.5b00532
+  title: 'Aniosotropically Organized LDH on PVDF: A Geometrically Templated Electrospun
+    Substrate for Advanced Anion Conducting Membranes'
+  authors:
+  - G. S. Sailaja
+  - Peilin Zhang
+  - Gopinathan M. Anilkumar
+  - Takeo Yamaguchi
+  publisher: ACS Applied Materials &amp; Interfaces
+  date: '2015-03-18'
+  link: https://doi.org/gnbzdz
+  image: https://i.ibb.co/prGfX00R/5.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12929-016-0284-x
+  title: Biomimetic approaches with smart interfaces for bone regeneration
+  authors:
+  - G. S. Sailaja
+  - P. Ramesh
+  - Sajith Vellappally
+  - Sukumaran Anil
+  - H. K. Varma
+  publisher: Journal of Biomedical Science
+  date: '2016-11-05'
+  link: https://doi.org/f9b29j
+  image: https://i.ibb.co/jPnDRJ02/4.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/slct.201701416
+  title: "Chitosan Intercalated Metal Organic Gel as a Green Precursor of Fe Entrenched\
+    \ and Fe Distributed N\u2010Doped Mesoporous Graphitic Carbon for Oxygen Reduction\
+    \ Reaction"
+  authors:
+  - Kottarathil Shijina
+  - Rajith Illathvalappil
+  - Sreekumar Kurungot
+  - Balagopal N. Nair
+  - A. Peer Mohamed
+  - Takeo Yamaguchi
+  - Gopinathan M. Anilkumar
+  - U. S. Hareesh
+  - G. S. Sailaja
+  publisher: ChemistrySelect
+  date: '2017-09-29'
+  link: https://doi.org/gb4gh8
+  image: https://i.ibb.co/GQkL3gnB/slct201701416-toc-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C8NJ03170C
+  title: "Melamine formaldehyde\u2013metal organic gel interpenetrating polymer network\
+    \ derived intrinsic Fe\u2013N-doped porous graphitic carbon electrocatalysts for\
+    \ oxygen reduction reaction"
+  authors:
+  - Kottarathil Shijina
+  - Rajith Illathvalappil
+  - N. S. Sumitha
+  - G. S. Sailaja
+  - Sreekumar Kurungot
+  - Balagopal N. Nair
+  - A. Peer Mohamed
+  - Gopinathan M. Anilkumar
+  - Takeo Yamaguchi
+  - U. S. Hareesh
+  publisher: New Journal of Chemistry
+  date: '2018-01-01'
+  link: https://doi.org/hb8vhd
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C8NJ03170C&imageInfo.ImageIdentifier.Year=2018
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C8CY02232A
+  title: "Electro-oxidation competency of palladium nanocatalysts over ceria\u2013\
+    carbon composite supports during alkaline ethylene glycol oxidation"
+  authors:
+  - Sasidharan Sankar
+  - Naoto Watanabe
+  - Gopinathan M. Anilkumar
+  - Balagopal N. Nair
+  - Sailaja G. Sivakamiammal
+  - Takanori Tamaki
+  - Takeo Yamaguchi
+  publisher: Catalysis Science &amp; Technology
+  date: '2019-01-01'
+  link: https://doi.org/hb8vhf
+  image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C8CY02232A&imageInfo.ImageIdentifier.Year=2019
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C3TA13540C
+  title: Amino acid inspired microscale organization of metallic nanocrystals
+  authors:
+  - G. S. Sailaja
+  - Balagopal N. Nair
+  - Julian D. Gale
+  - Takeo Yamaguchi
+  publisher: J. Mater. Chem. A
+  date: '2014-01-01'
+  link: https://doi.org/hb8vhg
+  image: https://pubs.rsc.org/image/article/2014/TA/c3ta13540c/c3ta13540c-f5.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10856-010-3987-7
+  title: Ultrastructural evaluation of in vitro mineralized calcium phosphate phase
+    on surface phosphorylated poly(hydroxy ethyl methacrylate-co-methyl methacrylate)
+  authors:
+  - G. S. Sailaja
+  - P. Ramesh
+  - H. K. Varma
+  publisher: 'Journal of Materials Science: Materials in Medicine'
+  date: '2010-01-23'
+  link: https://doi.org/bc5hn3
+  image: https://i.ibb.co/nsR9d1BR/10856.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/app.34157
+  title: Effect of surface functionalization on the physicomechanical properties of
+    a novel biofunctional copolymer
+  authors:
+  - Gopalakrishnanchettiar Sivakamiammal Sailaja
+  - Parameswar Ramesh
+  - Harikrishna Varma
+  publisher: Journal of Applied Polymer Science
+  date: '2011-04-12'
+  link: https://doi.org/dk3j7q
+  image: https://i.ibb.co/ksfQymxG/app-v121-6-cover.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/1538-7445.AM2012-4992
+  title: 'Abstract 4992: SPARC overexpression induces ER stress leading to autophagy-mediated
+    apoptosis in neuroblastoma cells'
+  authors:
+  - G. S. Sailaja
+  - Praveen Bhoopathi
+  - Bharathi Gorantla
+  - Andrew J. Tsung
+  - Jasti S. Rao
+  publisher: Cancer Research
+  date: '2012-04-01'
+  link: https://doi.org/hb8vhh
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/1538-7445.AM2012-4758
+  title: 'Abstract 4758: Self-assembled superparamagnetic iron oxide nanoparticles
+    for targeted cancer therapy'
+  authors:
+  - G. S. Sailaja
+  - Christopher S. Gondi
+  - Praveen Bhoopathi
+  - Bharathi Gorantla
+  - Jasti S. Rao
+  publisher: Cancer Research
+  date: '2012-04-01'
+  link: https://doi.org/hb8vhj
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/cancerres/issue/72/8_supplement/127/m_cover.gif?Expires=1785558221&Signature=umPoFDukoY~IiXB6ObioFkbyYWrVTf~7vj3n2W4sE262M7g5Njjtbm-HikzasKXLSYMdXRiJpomzZi6NpA-ZGv~HGR733J~86HSrY0zE1~6lt3suPi4arD5d--R4HPx7HGUAD5F7Et7mZWMMNqKHs6AU4jB8DNhvS7dM0lDKeje-zB-sPu9-QaEVp5hoP980c2Y672ets34YG0BKavw-fCINS6NfIKBY-c11JlMLgyrNf~NVQ~T9IZBudK93U5AIEKNWa5SVJLscuFp5MPAJe4CrlxaLMsMPlpdItypuvzU5Vv0BNKeZF-0QcMrIQFFe7DX4i56sdFb0o-BlOuPwDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10456-012-9301-1
+  title: Notch signaling regulates tumor-induced angiogenesis in SPARC-overexpressed
+    neuroblastoma
+  authors:
+  - Bharathi Gorantla
+  - Praveen Bhoopathi
+  - Chandramu Chetty
+  - Venkateswara Rao Gogineni
+  - G. S. Sailaja
+  - Christopher S. Gondi
+  - Jasti S. Rao
+  publisher: Angiogenesis
+  date: '2012-09-06'
+  link: https://doi.org/f4f9rd
+  image: https://i.ibb.co/0j3rCykB/6.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3892/ijo.2012.1678
+  title: The secreted protein acidic and rich in cysteine (SPARC) induces endoplasmic
+    reticulum stress leading to autophagy-mediated apoptosis in neuroblastoma
+  authors:
+  - G.S. SAILAJA
+  - PRAVEEN BHOOPATHI
+  - BHARATHI GORANTLA
+  - CHANDRAMU CHETTY
+  - VENKATESWARA RAO GOGINENI
+  - KIRAN KUMAR VELPULA
+  - CHRISTOPHER S. GONDI
+  - JASTI S. RAO
+  publisher: International Journal of Oncology
+  date: '2012-10-24'
+  link: https://doi.org/hb8vhk
+  image: https://www.spandidos-publications.com/article_images/ijo/42/1/IJO-42-01-0188-g00.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/jbm.b.30725
+  title: Hydroxyapatite moldable formulation using natural rubber latex as binder
+  authors:
+  - G. S. Sailaja
+  - P. Ramesh
+  - H. K. Varma
+  publisher: 'Journal of Biomedical Materials Research Part B: Applied Biomaterials'
+  date: '2007-06-06'
+  link: https://doi.org/dbp8sd
+  image: https://i.ibb.co/fdQP42zW/jbm-b-v114-6-cover.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/ten.tea.2008.0454
+  title: Surface-Phosphorylated Copolymer Promotes Direct Bone Bonding
+  authors:
+  - Sailaja S. Gopalakrishnanchettiyar
+  - Mira Mohanty
+  - Thrikkovil V. Kumary
+  - Mohanan P. Valappil
+  - Ramesh Parameshwaran
+  - Harikrishna K. Varma
+  publisher: Tissue Engineering Part A
+  date: '2009-10-01'
+  link: https://doi.org/c29w2v
+  image: https://i.ibb.co/kVhBpvZg/teaa-32-13-14-largecover.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.actbio.2008.12.005
+  title: Bioinspired mineralization and cell adhesion on surface functionalized poly(vinyl
+    alcohol) films
+  authors:
+  - G.S. Sailaja
+  - K. Sreenivasan
+  - Y. Yokogawa
+  - T.V. Kumary
+  - H.K. Varma
+  publisher: Acta Biomaterialia
+  date: '2009-06-01'
+  link: https://doi.org/cqngrj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706108003826-gr3.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1023/A:1025689701309
+  title: Hydroxyapatite filled chitosan-polyacrylic acid polyelectrolyte complexes
+  authors:
+  - G. S. Sailaja
+  - S. Velayudhan
+  - M. C. Sunny
+  - K. Sreenivasan
+  - H. K. Varma
+  - P. Ramesh
+  publisher: Journal of Materials Science
+  date: '2003-09-01'
+  link: https://doi.org/dwk8qx
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/10853?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4028/www.scientific.net/KEM.309-311.493
+  title: In Vitro Mineralization and Cell Adhesion on Surface Modified Poly (2 - hydroxy
+    ethyl methacrylate-co-methyl methacrylate
+  authors:
+  - G.S. Sailaja
+  - T.V. Kumari
+  - Yoshiyuki Yokogawa
+  - H.K. Varma
+  publisher: Key Engineering Materials
+  date: '2006-05-01'
+  link: https://doi.org/dhzrq4
+  image: https://www.scientific.net/Image/TitleCover/542?width=190
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/app.23058
+  title: "Swelling behavior of hydroxyapatite\u2010filled chitosan\u2013poly(acrylic\
+    \ acid) polyelectrolyte complexes"
+  authors:
+  - G. S. Sailaja
+  - P. Ramesh
+  - H. K. Varma
+  publisher: Journal of Applied Polymer Science
+  date: '2006-03-29'
+  link: https://doi.org/d7qdf2
+  image: https://i.ibb.co/9Mz1nsB/app-v143-29-cover.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Biomimetically modified Poly (2-hydroxy ethyl methacrylate-co-methyl methacrylate)
+    microspheres for bone augmentation
+  authors:
+  - Sailaja G. S.
+  - Kumary T. V.
+  - Varma H. K.
+  publisher: Society for Biomaterials and Artificial Organs
+  date: '2006-07-30'
+  link: https://link.gale.com/apps/doc/A165363943/HRCA
+  image: https://www.biomaterials.org.in/tibao/public/site/images/admin/journalthumbnail-en-us.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.actbio.2006.05.011
+  title: "Human osteosarcoma cell adhesion behaviour on hydroxyapatite integrated\
+    \ chitosan\u2013poly(acrylic acid) polyelectrolyte complex"
+  authors:
+  - G.S. Sailaja
+  - P. Ramesh
+  - T.V. Kumary
+  - H.K. Varma
+  publisher: Acta Biomaterialia
+  date: '2006-11-01'
+  link: https://doi.org/fnfgp9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1742706106000626-gr7.sml
+  plugin: sources.py
+  file: sources.yaml

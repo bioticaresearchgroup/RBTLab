@@ -1,0 +1,41 @@
+{{ " " }}
+<div class="papers">
+  {% assign papers = site.data.citations
+    | default: ""
+    | sort: "date"
+    | reverse
+    | slice: 0, 5
+  %}
+  {% for paper in papers %}
+    <div class="pub">
+      <div class="pub-year">{{ paper.date | date: "%Y" }}</div>
+      <div class="pub-body">
+        <a
+          class="pub-title"
+          {% if paper.link %}
+            href="{{ paper.link | relative_url | xml_escape }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener"
+        >
+          {{ paper.title }}
+        </a>
+        <div class="pub-authors">
+          {{
+            paper.authors
+            | join: ","
+            | split: ","
+            | array_carve: 5
+            | join: ", "
+            | markdownify
+            | remove: "<p>"
+            | remove: "</p>"
+          }}
+          {% if paper.publisher %}
+            <span class="pub-venue">{{ paper.publisher }}</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>

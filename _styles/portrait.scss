@@ -1,0 +1,280 @@
+---
+---
+
+.portrait-wrapper {
+  display: contents;
+}
+
+.portrait-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-lg);
+  margin: var(--space-xl) 0;
+}
+
+.portrait-grid--compact {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: var(--space-md);
+}
+
+.portrait {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  padding: var(--space-xl);
+  text-decoration: none;
+  border-radius: var(--rounded);
+  transition: background var(--transition);
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.portrait:hover {
+  background: var(--elevated);
+}
+
+.portrait-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: var(--hairline);
+  margin-bottom: var(--space-lg);
+  overflow: hidden;
+  border-radius: 0;
+  position: relative;
+}
+
+.portrait-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  filter: sepia(0.22) saturate(0.92);
+  transition: filter var(--transition);
+}
+
+.portrait:hover .portrait-image {
+  filter: none;
+}
+
+.portrait-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.portrait-name {
+  font-family: var(--heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--fs-16);
+  letter-spacing: -0.005em;
+  color: var(--ink);
+  margin-bottom: var(--space-xs);
+}
+
+.portrait:hover .portrait-name {
+  color: var(--imperial);
+}
+
+.portrait-role {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: var(--fs-14);
+  color: var(--muted);
+  margin-bottom: var(--space-md);
+}
+
+.portrait-desc {
+  font-family: var(--body);
+  font-size: var(--fs-14);
+  color: var(--text);
+  line-height: var(--line-normal);
+}
+
+// compact variant (homepage members row)
+.portrait-grid--compact .portrait {
+  padding: var(--space-md);
+}
+
+.portrait-grid--compact .portrait-photo {
+  margin-bottom: var(--space-sm);
+}
+
+.portrait-grid--compact .portrait-name {
+  font-size: var(--fs-14);
+  margin-bottom: 2px;
+  line-height: var(--line-snug);
+}
+
+.portrait-grid--compact .portrait-role {
+  font-size: var(--fs-14);
+  margin-bottom: 0;
+}
+
+.portrait-grid--compact .portrait-desc {
+  display: none;
+}
+
+// small variant (alumni)
+.portrait[data-style="small"] {
+  padding: var(--space-lg);
+}
+
+.portrait[data-style="small"] .portrait-photo {
+  margin-bottom: var(--space-md);
+}
+
+.portrait[data-style="small"] .portrait-name {
+  font-size: var(--fs-15);
+}
+
+.portrait[data-style="small"] .portrait-icon,
+.portrait[data-style="small"] .portrait-role {
+  display: none;
+}
+
+// tiny variant
+.portrait[data-style="tiny"] {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+}
+
+.portrait[data-style="tiny"] .portrait-photo {
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+  margin-bottom: 0;
+}
+
+.portrait[data-style="tiny"] .portrait-role,
+.portrait[data-style="tiny"] .portrait-desc {
+  display: none;
+}
+
+.portrait[data-style="tiny"] .portrait-name {
+  font-size: var(--fs-14);
+  margin-bottom: 0;
+}
+
+.portrait {
+  margin: 0;
+}
+
+// Director block (team page top)
+.director {
+  display: grid;
+  grid-template-columns: minmax(0, 400px) minmax(0, 1fr);
+  gap: var(--space-3xl);
+  align-items: start;
+  margin: var(--space-xl) 0 var(--space-2xl);
+}
+
+.director-photo {
+  display: block;
+  border-radius: var(--rounded);
+  overflow: hidden;
+  background: var(--hairline);
+  border: 1px solid var(--hairline);
+}
+
+.director-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  display: block;
+  border-radius: 0;
+  filter: sepia(0.22) saturate(0.92);
+  transition: filter var(--transition);
+}
+
+.director-photo:hover img {
+  filter: none;
+}
+
+.director-name {
+  margin: 0 0 var(--space-xs) 0;
+  font-family: var(--heading);
+  font-size: var(--fs-30);
+  font-weight: var(--weight-medium);
+  letter-spacing: -0.02em;
+  line-height: var(--line-snug);
+  color: var(--ink);
+}
+
+.director-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.director-name a:hover {
+  color: var(--imperial);
+}
+
+.director-role {
+  font-family: var(--body);
+  font-style: italic;
+  font-size: var(--fs-16);
+  color: var(--muted);
+  margin-bottom: var(--space-lg);
+}
+
+.director-bio {
+  font-size: var(--fs-16);
+  line-height: var(--line-normal);
+  color: var(--text);
+}
+
+.director-bio p {
+  margin: 0 0 var(--space-md) 0;
+}
+
+.director-bio ul {
+  margin: 0 0 var(--space-md) 0;
+  padding-left: var(--space-xl);
+}
+
+.director-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+  margin-top: var(--space-lg);
+}
+
+@media (max-width: 860px) {
+  .director {
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-lg);
+  }
+}
+
+@media (max-width: 1100px) {
+  .portrait-grid--compact {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 860px) {
+  .portrait-grid,
+  .portrait-grid--compact {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-md);
+  }
+}
+
+@media (max-width: 640px) {
+  .portrait-grid,
+  .portrait-grid--compact {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 420px) {
+  .portrait-grid,
+  .portrait-grid--compact {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

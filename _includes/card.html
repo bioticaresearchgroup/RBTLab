@@ -1,0 +1,31 @@
+{{ " " }}
+<div class="card" data-style="{{ include.style }}">
+  <div class="card-image">
+    <img
+      src="{{ include.image | relative_url | uri_escape }}"
+      alt="{{ include.title | default: "card image" | regex_strip }}"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+  </div>
+
+  <div class="card-text">
+    {% if include.title %}
+      <div class="card-title">{{ include.title }}</div>
+    {% endif %}
+
+    {% if include.subtitle %}
+      <span class="card-subtitle">{{ include.subtitle }}</span>
+    {% endif %}
+
+    {% if include.description %}
+      <p>
+        {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+      </p>
+    {% endif %}
+
+    {% if include.tags or include.repo %}
+      {% include tags.html tags=include.tags repo=include.repo %}
+    {% endif %}
+  </div>
+</div>

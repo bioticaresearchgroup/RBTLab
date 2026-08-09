@@ -1,0 +1,124 @@
+- title: Early Osteogenic, X-ray visible, and 3D Printable Fixators for diabetic Orthopedic and Craniomaxillofacial repair with Tunable Biodegradability, Modulus and High Bone Regenerative Index
+  subtitle: 2026-2029
+  group: featured
+  image: images/project1.png
+  link: 
+  description: Development of early-osteogenic, intrinsically radiopaque bone fixators engineered for diabetic orthopedic and craniomaxillofacial repair. The fixatives couple tunable biodegradability and mechanical modulus with a high bone-regenerative index, and are processable by 3D printing for patient-matched geometries.
+  funders:
+    - AICTE
+  tags:
+    - orthopedic
+    - osteogenesis
+    - 3d-printing
+    - radiopaque
+    - ongoing
+
+- title: Development of an inherently radiopaque, biodegradable and cost-effective TACE system with liver regeneration potential for the treatment of Hepatocellular carcinoma
+  subtitle: 2023-2025
+  group: featured
+  image: images/project2.png
+  link: 
+  description: Development of a transarterial chemoembolization (TACE) system that is inherently radiopaque and biodegradable, combining chemoembolization of hepatocellular carcinoma with promotion of liver regeneration in a cost-effective manner.
+  funders:
+    - RUSA
+  repo: 
+  tags:
+    - chemoembolization
+    - liver-cancer
+    - radiopaque
+    - nanomedicine
+    - ongoing
+
+- title: Biocompatible 3D Scaffolding through Femtosecond Laser Photo-polymerization for Tissue Engineering and Regenerative Medicine
+  subtitle: 2020-2024
+  group: ongoing
+  image: images/project3.png
+  link:
+  description: Fabrication of biocompatible three-dimensional scaffolds via femtosecond laser photo-polymerization, delivering high-resolution architectures for tissue engineering and regenerative medicine applications.
+  funders:
+    - Chancellor's Award
+  repo: 
+  tags:
+    - 3d-printing
+    - femtosecond-laser
+    - tissue-engineering
+    - scaffolds
+    - ongoing
+
+- title: Development of Cerium Oxide Nanoparticle Approach for Enhancing Radio Iodide Avidity in Papillary Thyroid Carcinoma by Augmenting the Expression of the Sodium Iodide Symporter
+  subtitle: 2023-2025
+  group: ongoing
+  image: images/project4.png
+  link: 
+  description: A cerium oxide nanoparticle strategy to heighten radioiodine avidity in papillary thyroid carcinoma by upregulating sodium-iodide symporter expression, seeking to improve theranostic outcomes of radioiodine therapy.
+  funders:
+    - RUSA
+  repo: 
+  tags:
+    - thyroid-carcinoma
+    - nanomaterials
+    - radioiodine
+    - nanomedicine
+    - ongoing
+
+- title: Optimization and Transplantation of Rat Blood-Derived Stem Cells Using a Novel Biodegradable Scaffold for Treating Parkinsons Disease (PD)
+  subtitle: 2023-2025
+  group: ongoing
+  image: images/project5.png
+  link: 
+  description: Optimization and transplantation of blood-derived stem cells within a novel biodegradable scaffold for the treatment of Parkinson's disease, targeting glial-scar-bred, cell-based neuroregeneration.
+  funders:
+    - RUSA
+  repo: 
+  tags:
+    - stem-cells
+    - parkinsons-disease
+    - scaffolds
+    - regenerative-medicine
+    - ongoing
+
+- title: Development of antibacterial formulations for preventing nosocomial infections from therapeutically modulated natural rubber latex formulations
+  subtitle: 2017-2021
+  group: completed
+  image: images/project6.png
+  link: 
+  description: Antibacterial formulations derived from therapeutically modulated natural rubber latex, engineered to prevent nosocomial (hospital-acquired) infections.
+  funders:
+    - DBT
+  repo: 
+  tags:
+    - antibacterial
+    - latex
+    - nosocomial-infections
+    - completed
+
+- title: Development of Magnetically modulated therapeutically active layered double hydroxide as a nanomedicine with hyperthermia potential for cancer theranostics
+  subtitle: 2016-2019
+  group: completed
+  image: images/project7.png
+  link: 
+  description: Magnetically modulated, therapeutically active layered double hydroxide (LDH) engineered as a nanomedicine with magnetic hyperthermia potential for combined cancer imaging and therapy.
+  funders:
+    - DST
+  repo: 
+  tags:
+    - nanomedicine
+    - hyperthermia
+    - cancer-theranostics
+    - layered-double-hydroxide
+    - completed
+
+- title: Preparation and characterization of Cissus Quandrangularis Linn plant extract incorporated chitosan collagen scaffold for bone regeneration
+  subtitle: 2017-2020
+  group: completed
+  image: images/project8.png
+  link: 
+  description: Preparation and characterization of a Cissus quadrangularis plant extract-incorporated hydroxyapatite-chitosan-collagen scaffold for bone regeneration.
+  funders:
+    - KSCSTE
+  repo: 
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - cissus-quandrangularis
+    - completed

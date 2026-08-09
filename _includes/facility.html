@@ -1,0 +1,25 @@
+{% assign f = include.facility %}
+<article class="project-card" id="{{ f.title | slugify }}">
+  <h2 class="project-title">{{ f.title }}</h2>
+  <div class="project-content">
+    <div class="project-text">
+      {% if f.subtitle %}
+        <span class="facility-model">{{ f.subtitle }}</span>
+      {% endif %}
+      {% if f.description %}
+        <p class="project-description">{{ f.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      {% endif %}
+    </div>
+    <div class="project-image-container">
+      {% if f.image %}
+        <img
+          class="project-image"
+          src="{{ f.image | relative_url | uri_escape }}"
+          alt="{{ f.title | xml_escape }}"
+          loading="lazy"
+        >
+      {% endif %}
+    </div>
+  </div>
+  <hr class="project-divider">
+</article>

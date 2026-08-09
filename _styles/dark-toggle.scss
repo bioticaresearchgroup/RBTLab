@@ -1,0 +1,38 @@
+---
+---
+
+.dark-toggle {
+  position: relative;
+  width: 42px;
+  height: 24px;
+  margin: 0;
+  border-radius: 999px;
+  background: var(--light-gray);
+  border: 1px solid var(--light-gray);
+  appearance: none;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.dark-toggle:after {
+  content: "\f185";
+  position: absolute;
+  left: 13px;
+  top: 50%;
+  color: var(--text);
+  font-size: 13px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  transform: translate(-50%, -50%);
+  transition: left var(--transition);
+}
+
+.dark-toggle:checked {
+  background: var(--primary);
+  border-color: var(--primary);
+}
+
+.dark-toggle:checked:after {
+  content: "\f186";
+  left: calc(100% - 13px);
+}

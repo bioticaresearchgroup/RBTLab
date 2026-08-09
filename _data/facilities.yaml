@@ -1,0 +1,143 @@
+- title: Magnetic Hyperthermia Equipment
+  subtitle: nanoTherics Magnatherm
+  image: images/mht.jpg
+  link: 
+  description: Alternating magnetic field applicator for magnetic hyperthermia studies, used to evaluate heat generation by magnetic nanoparticles for cancer theranostics.
+  repo: 
+  tags:
+
+- title: Digital Rotary Evaporator
+  subtitle: D-LAB RE100 Pro
+  image: images/re.jpg
+  link:
+  description: Solvent removal and sample concentration under reduced pressure for polymer, nanoparticle, and biomaterial processing.
+  repo: 
+  tags:
+
+- title: Refrigerated Benchtop Centrifuge
+  subtitle: Sorvall™ ST 8R 
+  image: images/rc.jpg
+  link: 
+  description: High-capacity refrigerated centrifugation for sedimentation and purification of cells, nanoparticles, and polymer dispersions.
+  repo: 
+  tags:
+
+- title: Lyophiliser (Freeze Dryer)
+  subtitle: CHRIST 2-4 LD Plus
+  image: images/facilities_lyophilizer-large.jpg
+  link: 
+  description: Freeze-drying of hydrogels, scaffolds, and nanoparticle formulations to preserve structure and stability for storage and application.
+  repo:
+  tags:
+
+- title: Universal Testing Machine (UTM)
+  subtitle: Shimadzu 
+  image: images/utm.jpg
+  link: 
+  description: Mechanical characterization of polymers, scaffolds, and implants under tensile, compression, and flexural loading to assess biomechanical performance.
+  repo:
+  tags:
+
+- title: Dynamic Mechanical Analyzer
+  subtitle: TA Instruments SQ800
+  image: images/dma.jpg
+  link: 
+  description: Measurement of viscoelastic properties (storage/loss modulus, tan delta) across temperature and frequency for polymer and hydrogel systems.
+  repo:
+  tags:
+
+- title: -80 Deep Freezer
+  subtitle: Eppendorf CryoCube F570
+  image: images/facilities_deepfreezer-large.jpg
+  link: 
+  description: Ultra-low-temperature preservation of cells, biological scaffolds, and temperature-sensitive reagents at -80 degC.
+  repo:
+  tags:
+
+- title: UV Chamber
+  subtitle: KEMI
+  image: images/uv.jpg
+  link: 
+  description: Controlled UV irradiation chamber for photo-crosslinking, sterilization, and photocuring of polymeric and hydrogel materials.
+  repo:
+  tags:
+
+- title: Vertical Planetary Ball Mill
+  subtitle: Biobase
+  image: images/vpbm.jpg
+  link: 
+  description: High-energy milling for fine grinding and homogeneous mixing of powders and nanomaterials used in composite fabrication.
+  repo:
+  tags:
+
+- title: Orbital Shaking Incubator
+  subtitle: Labline
+  image: images/si.jpg
+  link:
+  description: Temperature-controlled orbital shaking for cell culture, microbial growth, and solution-phase synthesis under optimized conditions.
+  repo:
+  tags:
+
+- title: FDM 3D Printer
+  subtitle: BambuLab A1
+  image: images/3dp.jpg
+  link: 
+  description: Fused deposition modelling of patient-matched scaffolds and implant architectures from biodegradable polymer filaments.
+  repo:
+  tags:
+
+- title: Brookfield Viscometer
+  subtitle: Brookfield LV
+  image: images/bvm.jpg
+  link: 
+  description: Rotational viscometry to quantify the flow behaviour and viscosity of polymer solutions, gels, and dispersions.
+  repo:
+  tags:
+
+- title: Contact Angle Goniometer
+  subtitle: Rame-hart instruments co.
+  image: images/facilities_contact-large.jpg
+  link: 
+  description: Surface wettability and interfacial energy analysis of biomaterial films, coatings, and scaffolds.
+  repo:
+  tags:
+
+- title: Fourier Transform Infrared Spectroscopy
+  subtitle: PerkinElmer Spectrum Two
+  image: images/ftir.jpg
+  link: 
+  description: FTIR spectral analysis for chemical identification, functional group characterisation, and confirmation of polymer/nanocomposite structure.
+  repo:
+  tags:
+
+- title: High Pressure Homogenizer
+  subtitle: GEA PandaPlus 2000
+  image: images/hph.jpg
+  link: 
+  description: High-pressure homogenisation for nanoemulsion and nanoparticle size reduction with uniform dispersion for drug delivery formulations.
+  repo:
+  tags:
+
+- title: Atomic Adsorption Spectrometer
+  subtitle: Thermo Scientific iCE 3000 series
+  image: images/facilities_atomicadsorption-large.jpg
+  link: 
+  description: Quantitative trace-metal analysis (e.g., drug release quantities and elemental composition) for quality control of formulations.
+  repo:
+  tags:
+
+- title: Gas Permeability Tester
+  subtitle: GTR-7002
+  image: images/facilities_gas-large.jpg
+  link: 
+  description: Determination of gas transmission rates across polymer films and membranes for packaging and barrier applications.
+  repo:
+  tags:
+
+- title: Thermogravimetric Analyser
+  subtitle: Q50 TA instruments
+  image: images/facilities_thermogravimetric-large.jpg
+  link: 
+  description: Thermal stability, decomposition, and composition profiling of polymers, nanotubes, and composites under controlled heating.
+  repo:
+  tags:

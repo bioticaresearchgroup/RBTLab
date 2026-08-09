@@ -1,0 +1,60 @@
+{% assign p = include.project %}
+<article class="project-card" id="{{ p.title | slugify }}">
+  <h2 class="project-title">
+    {% if p.link %}
+      <a href="{{ p.link }}" target="_blank" rel="noopener noreferrer">{{ p.title }}</a>
+    {% else %}
+      {{ p.title }}
+    {% endif %}
+  </h2>
+  <div class="project-content">
+    <div class="project-text">
+      <div class="project-tags">
+        {% for tag in p.tags %}
+          <span class="project-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      <p class="project-description">{{ p.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <p class="project-collaborators">
+        <em>
+          {% if p.funders %}
+            Funders: {{ p.funders | join: ", " }} &middot; {{ p.subtitle }}
+          {% else %}
+            {{ p.subtitle }}
+          {% endif %}
+        </em>
+      </p>
+    </div>
+    <div class="project-image-container">
+      <img
+        class="project-image"
+        src="{{ p.image | relative_url | uri_escape }}"
+        alt="{{ p.title | xml_escape }}"
+        loading="lazy"
+      >
+    </div>
+  </div>
+  <div class="collaborator-icons">
+    {% for funder in p.funders %}
+      {% assign logo = "" %}
+      {% case funder %}
+        {% when "AICTE" %}{% assign logo = "images/AICTE.png" %}
+        {% when "RUSA" %}{% assign logo = "images/RUSAlogo.png" %}
+        {% when "Chancellor's Award" %}{% assign logo = "images/CUSAT-logo.png" %}
+        {% when "DBT" %}{% assign logo = "images/DBT.png" %}
+        {% when "DST" %}{% assign logo = "images/ANRF.png" %}
+        {% when "KSCSTE" %}{% assign logo = "images/KSCSTE.png" %}
+      {% endcase %}
+      {% if logo %}
+        <img
+          class="collaborator-icon"
+          src="{{ logo | relative_url | uri_escape }}"
+          alt="{{ funder | xml_escape }}"
+          title="{{ funder | xml_escape }}"
+          loading="lazy"
+        >
+      {% endif %}
+    {% endfor %}
+  </div>
+  <hr class="project-divider">
+</article>
