@@ -21,6 +21,16 @@ We publish national/international patents and high-impact peer-reviewed research
 
 {% include search-box.html %}
 
+[//]: # "collect all distinct citation tags for the filter strip"
+{% assign citation_tags = "" | split: "," %}
+{% for entry in site.data.citation-tags %}
+  {% assign citation_tags = citation_tags | concat: entry.tags %}
+{% endfor %}
+{% assign citation_tags = citation_tags | uniq | join: ", " %}
+
+<strong>Filter by tag</strong>
+{% include tags.html tags=citation_tags %}
+
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}

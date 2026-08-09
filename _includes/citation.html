@@ -8,6 +8,20 @@
   {% assign citation = include %}
 {% endif %}
 
+{% assign citation_tags = citation.tags %}
+{% if citation_tags == nil %}
+  {% assign citation_tags = nil %}
+  {% if citation.id %}
+    {% assign citation_tags = site.data.citation-tags | where: "id", citation.id | first %}
+  {% endif %}
+  {% if citation_tags == nil %}
+    {% assign citation_tags = site.data.citation-tags | where: "title", citation.title | first %}
+  {% endif %}
+  {% if citation_tags %}
+    {% assign citation_tags = citation_tags.tags %}
+  {% endif %}
+{% endif %}
+
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
@@ -100,8 +114,8 @@
           </div>
         {% endif %}
 
-        {% if citation.tags.size > 0 or citation.repo %}
-          {% include tags.html tags=citation.tags repo=citation.repo %}
+        {% if citation_tags.size > 0 or citation.repo %}
+          {% include tags.html tags=citation_tags repo=citation.repo %}
         {% endif %}
       {% endif %}
     </div>

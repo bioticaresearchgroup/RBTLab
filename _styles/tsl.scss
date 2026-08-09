@@ -53,6 +53,23 @@
   font-weight: var(--weight-medium);
 }
 
+.hero h1 .kw-autonomy {
+  color: var(--success);
+  font-family: var(--body);
+  letter-spacing: -0.005em;
+  font-weight: var(--weight-medium);
+}
+
+.hero h1 .kw-terminals {
+  color: var(--burgundy);
+  font-weight: var(--weight-medium);
+}
+
+.hero h1 .kw-maritime {
+  color: var(--imperial);
+  font-weight: var(--weight-medium);
+}
+
 .hero .lede {
   margin: 0;
   max-width: 54ch;
@@ -90,8 +107,6 @@
   justify-content: space-between;
   gap: var(--space-lg);
   margin: 0 0 var(--space-xl) 0;
-  padding-bottom: var(--space-md);
-  border-bottom: 1px solid var(--hairline-2);
 }
 
 .section-head h2 {
@@ -119,6 +134,21 @@
   color: var(--ink);
   border-bottom-color: var(--ink);
   text-decoration: none;
+}
+
+// Sub-heading for role groups within a section
+.section-head.sub {
+  margin: 0 0 var(--space-lg) 0;
+}
+
+.section-head.sub h3 {
+  margin: 0;
+  font-family: var(--body);
+  font-size: var(--fs-18);
+  font-weight: var(--semi-bold);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
 // Card grid + card
@@ -272,7 +302,8 @@
 // Contact page
 .contact-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 720px;
   gap: var(--space-lg);
   margin: 0 0 var(--space-2xl) 0;
 }

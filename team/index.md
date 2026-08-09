@@ -12,7 +12,7 @@ Meet our team:
 {% include section.html %}
 
 <div class="section-head">
-  <h2>Director</h2>
+  <h2>Principal Investigator</h2>
 </div>
 
 {% include director.html %}
@@ -23,9 +23,51 @@ Meet our team:
   <h2>Members</h2>
 </div>
 
-<div class="portrait-grid">
-  {% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
-</div>
+{% assign current = site.members | where_exp: "m", "m.group != 'alum'" %}
+
+{% assign current_postdoc = current | where: "role", "postdoc" %}
+{% if current_postdoc.size > 0 %}
+  <div class="section-head sub">
+    <h3>Postdoctoral Researchers</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
+  </div>
+{% endif %}
+
+{% assign current_phd = current | where: "role", "phd" %}
+{% if current_phd.size > 0 %}
+  <div class="section-head sub">
+    <h3>PhD Students</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+  </div>
+{% endif %}
+
+{% assign current_undergrad1 = current | where: "role", "undergrad1" %}
+{% if current_undergrad1.size > 0 %}
+  <div class="section-head sub">
+    <h3>Project Students</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'undergrad1' and group != 'alum'" %}
+  </div>
+{% endif %}
+
+{% assign current_undergrad2 = current | where: "role", "undergrad2" %}
+{% if current_undergrad2.size > 0 %}
+  <div class="section-head sub">
+    <h3>Interns</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'undergrad2' and group != 'alum'" %}
+  </div>
+{% endif %}
 
 {% include section.html %}
 
@@ -35,9 +77,50 @@ Meet our team:
 
 Gone but never forgotten. These are past lab members who have moved on to new positions, schools, or elsewhere. They have all made lasting contributions to science and to our hearts.
 
-<div class="portrait-grid">
-  {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
-</div>
+{% assign alumnus = site.members | where: "group", "alum" %}
+{% assign alumni_postdoc = alumnus | where: "role", "postdoc" %}
+{% if alumni_postdoc.size > 0 %}
+  <div class="section-head sub">
+    <h3>Postdoctoral Researchers</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group == 'alum'" style="small" %}
+  </div>
+{% endif %}
+
+{% assign alumni_phd = alumnus | where: "role", "phd" %}
+{% if alumni_phd.size > 0 %}
+  <div class="section-head sub">
+    <h3>PhD Students</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'phd' and group == 'alum'" style="small" %}
+  </div>
+{% endif %}
+
+{% assign alumni_undergrad1 = alumnus | where: "role", "undergrad1" %}
+{% if alumni_undergrad1.size > 0 %}
+  <div class="section-head sub">
+    <h3>Project Students</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'undergrad1' and group == 'alum'" style="small" %}
+  </div>
+{% endif %}
+
+{% assign alumni_undergrad2 = alumnus | where: "role", "undergrad2" %}
+{% if alumni_undergrad2.size > 0 %}
+  <div class="section-head sub">
+    <h3>Interns</h3>
+  </div>
+
+  <div class="portrait-grid">
+    {% include list.html data="members" component="portrait" filter="role == 'undergrad2' and group == 'alum'" style="small" %}
+  </div>
+{% endif %}
 
 {% include section.html %}
 

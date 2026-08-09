@@ -21,13 +21,12 @@ Applications are assessed through an **informal discussion with the principal in
 
 ### What are your current research priority areas?
 
-Our work is organised around the projects currently running in the lab, concentrated in biomaterials and nanomedicine for clinical translation:
+Our research is organised into four synergistic domains, broadly spanning biomaterials engineering and clinical translation:
 
-1. Orthopedic and craniomaxillofacial (CMF) implants and bone fixators
-2. Transarterial chemoembolization (TACE) systems for hepatocellular carcinoma
-3. Nanomedicine platforms based on layered double hydroxides, cerium oxide, and magnetic nanoparticles
-4. 3D-printed scaffolds and femtosecond-laser fabrication for tissue engineering
-5. Bone regeneration and regenerative scaffolds from natural-synthetic polymer blends
+1. **Bone tissue engineering & smart biomimetic interfaces** — bioinspired mineralization, natural–synthetic hybrid scaffolds, and osteoinductive green therapeutics for guided bone regeneration.
+2. **Magnetic nanomedicine & controlled theranostics** — smart ferrogels, microspheres, and magnetically triggered hyperthermia for targeted drug delivery.
+3. **Intrinsically radiopaque & antimicrobial formulations** — X-ray-visible polymeric implants and functionalized antimicrobial substrates for safe post-surgical monitoring.
+4. **Anion conducting membranes & graphitic electrocatalysts** — electromechanical polymer frameworks and porous doped carbons for energy conversion.
 
 Our [list of projects]({{ "projects/" | relative_url }}) and [research areas]({{ "research/" | relative_url }}) provide a fuller picture of the topics we currently pursue.
 

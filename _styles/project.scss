@@ -28,7 +28,7 @@
 
 .project-content {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr) 250px;
   gap: var(--space-xl);
   align-items: start;
 }

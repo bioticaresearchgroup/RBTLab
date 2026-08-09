@@ -43,44 +43,7 @@ The lab is part of the [Department of Polymer Science and Rubber Technology](htt
       Cochin 682 022, Kerala, India
     </p>
   </div>
-  <div class="contact-block">
-    <h2>Contact details</h2>
-    <ul class="contact-list">
-      <li>
-        <span class="contact-label">Lab email</span>
-        <a class="contact-value" href="mailto:sailajags@cusat.ac.in">sailajags@cusat.ac.in</a>
-      </li>
-      <li>
-        <span class="contact-label">Lab phone</span>
-        <a class="contact-value" href="tel:+9197444799643">+91 97447 99643</a>
-      </li>
-      <li>
-        <span class="contact-label">Department head</span>
-        <a class="contact-value" href="mailto:hodpsrt@cusat.ac.in">hodpsrt@cusat.ac.in</a>
-      </li>
-      <li>
-        <span class="contact-label">Department phone</span>
-        <a class="contact-value" href="tel:+914142575723">+91 484 2575723</a>
-      </li>
-      <li>
-        <span class="contact-label">Department fax</span>
-        <a class="contact-value" href="tel:+914142577747">+91 484 2577747</a>
-      </li>
-      <li>
-        <span class="contact-label">University</span>
-        <a class="contact-value" href="mailto:registrar@cusat.ac.in">registrar@cusat.ac.in</a>
-      </li>
-    </ul>
-  </div>
 </div>
-
-{% include section.html %}
-
-<div class="section-head">
-  <h2>University</h2>
-</div>
-
-The [Cochin University of Science and Technology](https://www.cusat.ac.in/) (CUSAT) is a state university established in 1971. Its main campus is at South Kalamassery, Thrikkakara, about 1.5 km off National Highway 47 in the city of Kochi.
 
 {% include section.html %}
 

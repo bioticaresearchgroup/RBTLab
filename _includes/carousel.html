@@ -1,10 +1,11 @@
----
----
-
 {% assign carousel_data = include.data | default: "projects" %}
 {% assign carousel_linked = true %}
 {% if include.link_base == "" %}
   {% assign carousel_linked = false %}
+{% endif %}
+{% assign carousel_captions = true %}
+{% if include.captions == "" %}
+  {% assign carousel_captions = false %}
 {% endif %}
 {% assign carousel_items = site.data[carousel_data] %}
 
@@ -21,9 +22,11 @@
             <img class="carousel-image" src="{{ item.image | relative_url }}" alt="{{ item.title }}" loading="lazy">
             {% endif %}
           </div>
+          {% if carousel_captions %}
           <div class="carousel-caption">
             <h3>{{ item.title }}</h3>
           </div>
+          {% endif %}
         {% if carousel_linked %}
         </a>
         {% endif %}

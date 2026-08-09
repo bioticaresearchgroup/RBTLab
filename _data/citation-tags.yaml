@@ -1,0 +1,288 @@
+# Tags lookup for citations. Keyed by citation `id` (DOI) or, for records
+# without an id, by the exact citation `title`. Kept separate from
+# citations.yaml which is generated automatically.
+
+- id: doi:10.1177/20412479261468650
+  tags:
+    - antimicrobial
+    - wound-healing
+    - nanocellulose
+
+- id: doi:10.1016/j.phyplu.2024.100668
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - osteogenesis
+
+- id: doi:10.1021/acsapm.3c01654
+  tags:
+    - nanomedicine
+    - magnetic
+    - hyperthermia
+    - melanoma
+
+- id: doi:10.1021/acsapm.3c01432
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - osteogenesis
+
+- id: doi:10.1016/j.jlumin.2023.119899
+  tags:
+    - metal-organic-frameworks
+    - sensors
+    - imaging
+
+- id: doi:10.1177/08839115231153823
+  tags:
+    - antimicrobial
+    - natural-rubber-latex
+
+- id: doi:10.1039/D3TC01033C
+  tags:
+    - antimicrobial
+    - metal-organic-frameworks
+
+- id: doi:10.1088/1748-605X/ac37c5
+  tags:
+    - bone-regeneration
+    - antimicrobial
+    - drug-delivery
+
+- id: doi:10.1007/s10570-021-04288-6
+  tags:
+    - bone-regeneration
+    - cellulose
+    - scaffolds
+
+- id: doi:10.1039/D2NJ00288D
+  tags:
+    - drug-delivery
+    - antimicrobial
+
+- id: doi:10.1007/s12038-021-00206-x
+  tags:
+    - bone-regeneration
+    - osteogenesis
+
+- id: doi:10.1016/j.matchemphys.2021.125108
+  tags:
+    - nanomedicine
+    - magnetic
+    - hyperthermia
+    - drug-delivery
+
+- id: doi:10.1021/acsomega.1c02303
+  tags:
+    - drug-delivery
+    - magnetic
+    - microspheres
+
+- id: doi:10.1093/mtomcs/mfab049
+  tags:
+    - antimicrobial
+    - silver
+
+- id: doi:10.1088/1748-605X/ac01af
+  tags:
+    - radiopaque
+    - magnetic
+    - hyperthermia
+    - osteosarcoma
+
+- id: doi:10.1021/acsbiomaterials.0c01628
+  tags:
+    - scaffolds
+    - drug-delivery
+    - osteosarcoma
+    - bone-regeneration
+
+- id: doi:10.1002/app.49608
+  tags:
+    - antimicrobial
+    - natural-rubber-latex
+    - chitosan
+
+- id: doi:10.1039/D1NJ03687D
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - tissue-engineering
+
+- id: doi:10.1039/D1BM01316E
+  tags:
+    - radiopaque
+    - antimicrobial
+    - sutures
+
+- id: doi:10.1039/D1TB01513C
+  tags:
+    - radiopaque
+    - review
+
+- id: doi:10.1039/D1NJ01913A
+  tags:
+    - metal-organic-frameworks
+    - drug-delivery
+
+- id: doi:10.1039/D1NJ01262B
+  tags:
+    - radiopaque
+    - magnetic
+    - hyperthermia
+    - natural-rubber-latex
+
+- id: doi:10.1039/C9NJ05343C
+  tags:
+    - magnetic
+    - hyperthermia
+    - nanomedicine
+
+- id: doi:10.1016/j.materresbull.2025.113339
+  tags:
+    - metal-organic-frameworks
+    - magnetic
+    - hyperthermia
+    - cancer-theranostics
+
+- id: doi:10.1016/j.ijbiomac.2024.130209
+  tags:
+    - theranostics
+    - drug-delivery
+    - imaging
+
+- title: Aqueous Cissus quadrangularis Stem Extract Integrated Biodegradable Tissue Engineering Scaffold Augments Early Biomimetic and Biomineralization In Vitroe
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - tissue-engineering
+
+- id: doi:10.1016/j.bioadv.2022.213137
+  tags:
+    - drug-delivery
+    - magnetic
+    - hyperthermia
+    - cancer
+
+- id: doi:10.1016/j.matlet.2020.127365
+  tags:
+    - electrocatalysis
+    - fuel-cells
+
+- id: doi:10.1016/j.reactfunctpolym.2022.105190
+  tags:
+    - antimicrobial
+    - natural-rubber-latex
+
+- id: doi:10.1016/j.msec.2019.110491
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - tissue-engineering
+
+- id: doi:10.1039/C5PY01058F
+  tags:
+    - fuel-cells
+    - membranes
+
+- id: doi:10.1021/acsami.5b00532
+  tags:
+    - membranes
+    - fuel-cells
+
+- id: doi:10.1186/s12929-016-0284-x
+  tags:
+    - bone-regeneration
+    - review
+
+- id: doi:10.1002/slct.201701416
+  tags:
+    - electrocatalysis
+    - fuel-cells
+
+- id: doi:10.1039/C8NJ03170C
+  tags:
+    - electrocatalysis
+    - fuel-cells
+
+- id: doi:10.1039/C8CY02232A
+  tags:
+    - electrocatalysis
+    - catalysts
+
+- id: doi:10.1039/C3TA13540C
+  tags:
+    - nanomaterials
+
+- id: doi:10.1007/s10856-010-3987-7
+  tags:
+    - bone-regeneration
+
+- id: doi:10.1002/app.34157
+  tags:
+    - polymers
+    - bone-regeneration
+
+- id: doi:10.1158/1538-7445.AM2012-4992
+  tags:
+    - cancer
+    - neuroblastoma
+
+- id: doi:10.1158/1538-7445.AM2012-4758
+  tags:
+    - magnetic
+    - nanomedicine
+    - cancer
+
+- id: doi:10.1007/s10456-012-9301-1
+  tags:
+    - cancer
+    - neuroblastoma
+
+- id: doi:10.3892/ijo.2012.1678
+  tags:
+    - cancer
+    - neuroblastoma
+
+- id: doi:10.1002/jbm.b.30725
+  tags:
+    - bone-regeneration
+    - natural-rubber-latex
+    - ceramics
+
+- id: doi:10.1089/ten.tea.2008.0454
+  tags:
+    - bone-regeneration
+    - polymers
+
+- id: doi:10.1016/j.actbio.2008.12.005
+  tags:
+    - bone-regeneration
+    - polymers
+
+- id: doi:10.1023/A:1025689701309
+  tags:
+    - bone-regeneration
+    - scaffolds
+    - ceramics
+
+- id: doi:10.4028/www.scientific.net/KEM.309-311.493
+  tags:
+    - bone-regeneration
+    - polymers
+
+- id: doi:10.1002/app.23058
+  tags:
+    - polymers
+    - ceramics
+
+- title: Biomimetically modified Poly (2-hydroxy ethyl methacrylate-co-methyl methacrylate) microspheres for bone augmentation
+  tags:
+    - bone-regeneration
+    - microspheres
+
+- id: doi:10.1016/j.actbio.2006.05.011
+  tags:
+    - osteosarcoma
+    - bone-regeneration
+    - microspheres

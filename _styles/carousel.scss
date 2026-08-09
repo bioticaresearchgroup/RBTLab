@@ -12,10 +12,6 @@
 .carousel-wrapper {
   overflow: hidden;
   margin-bottom: var(--space-md);
-  border: 1px solid var(--hairline);
-  border-radius: var(--rounded);
-  background: var(--elevated);
-  padding: var(--space-md) 0;
 }
 
 .carousel {
@@ -48,7 +44,6 @@
   width: 100%;
   height: 200px;
   overflow: hidden;
-  border-bottom: 1px solid var(--hairline);
 }
 
 .carousel-image {

@@ -6,7 +6,7 @@ nav:
 ---
 
 <section class="hero">
-  <h1>Biomaterials, nanomedicine and <span class="kw">theranostics</span> <span aria-hidden="true">&mdash;</span> engineered for clinical translation.</h1>
+  <h1><span class="kw kw-autonomy">Biomaterials</span>, <span class="kw kw-terminals">nanomedicine</span> and <span class="kw kw-maritime">theranostics</span> <span aria-hidden="true">&mdash;</span> engineered for clinical translation.</h1>
   <p class="lede">The <strong>Regenerative Biomaterials and Theranostics Laboratory</strong> at Cochin University of Science and Technology designs high-performance polymer matrices, functionalized nanocomposites, and responsive nanomedicines that bridge fundamental macromolecular engineering with clinical translation.</p>
   <p class="meta">Led by <a href="{{ "team/" | relative_url }}">Prof. G.S. Sailaja</a> at the Department of Polymer Science and Rubber Technology. Our work integrates expertise in biomaterials, nanomedicine, and theranostics.</p>
 </section>
@@ -86,7 +86,7 @@ nav:
   <h2>Lab highlights</h2>
 </div>
 
-{% include carousel.html data="highlights" link_base="" %}
+{% include carousel.html data="highlights" link_base="" captions="" %}
 
 {% include section.html %}
 
