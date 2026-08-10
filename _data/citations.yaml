@@ -32,6 +32,20 @@
   plugin: sources.py
   file: sources.yaml
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0141813024010122-ga1.jpg
+- id: doi:10.2139/ssrn.4909101
+  title: Cissus Quadrangularis L. Hexane Extract Infused Glyoxal Cross-Linked Chitosan-Collagen
+    Scaffold Elicits Early Osteoinduction
+  authors:
+  - Praseetha R. Nair
+  - Unnikrishnan P. S.
+  - Sachin  J. Shenoy
+  - Sailaja G S
+  publisher: Elsevier BV
+  date: '2024-01-01'
+  link: https://doi.org/hcddft
+  orcid: 0000-0002-6406-7293
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1021/acsapm.3c01654
   title: Chitosan-TEMPO-Oxidized Nanocellulose Magnetic Responsive Patches with Hyperthermia
     Potential for Smart Melanoma Therapy
