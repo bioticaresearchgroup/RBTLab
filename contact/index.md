@@ -33,10 +33,10 @@ The lab is part of the [Department of Polymer Science and Rubber Technology](htt
   link="https://maps.app.goo.gl/ymBYWybp94H6aDvU8"
 %}
 
-{% include section.html %}
+# {% include section.html %}
 
-<div class="contact-grid">
-  <div class="contact-block">
+# <div class="contact-grid">
+#   <div class="contact-block">
     <h2>The lab</h2>
     <p>
       The <strong>Regenerative Biomaterials and Theranostics Laboratory</strong> designs polymer matrices, functionalized nanocomposites and responsive nanomedicines that bridge biomaterials engineering with clinical translation. We welcome Ph.D. and post-doctoral applicants as well as visiting researchers.
@@ -47,8 +47,8 @@ The lab is part of the [Department of Polymer Science and Rubber Technology](htt
       Cochin University of Science and Technology<br>
       Cochin 682 022, Kerala, India
     </p>
-  </div>
-</div>
+# </div>
+# </div>
 
 {% include section.html %}
 
