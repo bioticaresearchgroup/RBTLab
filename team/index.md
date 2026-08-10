@@ -127,18 +127,18 @@ Gone but never forgotten. These are past lab members who have moved on to new po
   </div>
 {% endif %}
 
-{% include section.html %}
+# {% include section.html %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+# {% include section.html background="images/background.jpg" dark=true %}
 
-*Interested in joining us? We are always looking for motivated Ph.D. candidates and post-doctoral researchers. Check our Contact page for application pathways.*
+# *Interested in joining us? We are always looking for motivated Ph.D. candidates and post-doctoral researchers. Check our Contact page for application pathways.*
 
-{%
-  include button.html
-  icon="fa-solid fa-handshake-angle"
-  text="Join the Team"
-  link="contact"
-  style="button"
-%}
+# {%
+#   include button.html
+#   icon="fa-solid fa-handshake-angle"
+#   text="Join the Team"
+#   link="contact"
+#   style="button"
+# %}
 
-{% include section.html %}
+# {% include section.html %}
