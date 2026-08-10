@@ -72,5 +72,3 @@ The lab is part of the [Department of Polymer Science and Rubber Technology](htt
 
 {% endcapture %}
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
