@@ -12,7 +12,7 @@ nav:
 
 # Join us
 
-We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to our director, [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying — an informal conversation with the PI is the best first step.
+We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying — an informal conversation with the PI is the best first step.
 
 Prospective Ph.D. students should also review the general admission information on the [Cochin University of Science and Technology](https://www.cusat.ac.in/) website and apply through the [CUSAT admissions portal](https://admissions.cusat.ac.in).
 
@@ -22,34 +22,34 @@ Prospective Ph.D. students should also review the general admission information 
 
 ### How do you assess Ph.D. applications?
 
-Applications are assessed through an **informal discussion with the principal investigator** followed by the standard CUSAT admission process. We consider your academic record, research experience, and — above all — how closely your interests align with our ongoing research priorities.
+Applications are assessed through an **informal discussion with the principal investigator** followed by the standard CUSAT admission process. We consider your academic record, research experience, and above all how closely your interests align with our ongoing research priorities.
 
 ### What are your current research priority areas?
 
 Our research is organised into four synergistic domains, broadly spanning biomaterials engineering and clinical translation:
 
-1. **Bone tissue engineering & smart biomimetic interfaces** — bioinspired mineralization, natural–synthetic hybrid scaffolds, and osteoinductive green therapeutics for guided bone regeneration.
-2. **Magnetic nanomedicine & controlled theranostics** — smart ferrogels, microspheres, and magnetically triggered hyperthermia for targeted drug delivery.
-3. **Intrinsically radiopaque & antimicrobial formulations** — X-ray-visible polymeric implants and functionalized antimicrobial substrates for safe post-surgical monitoring.
-4. **Anion conducting membranes & graphitic electrocatalysts** — electromechanical polymer frameworks and porous doped carbons for energy conversion.
+1. **Bone tissue engineering & smart biomimetic interfaces** : bioinspired mineralization, natural–synthetic hybrid scaffolds, and osteoinductive green therapeutics for guided bone regeneration.
+2. **Magnetic nanomedicine & controlled theranostics** : smart ferrogels, microspheres, and magnetically triggered hyperthermia for targeted drug delivery.
+3. **Intrinsically radiopaque & antimicrobial formulations** : X-ray-visible polymeric implants and functionalized antimicrobial substrates for safe post-surgical monitoring.
+4. **Anion conducting membranes & graphitic electrocatalysts** : electromechanical polymer frameworks and porous doped carbons for energy conversion.
 
 Our [list of projects]({{ "projects/" | relative_url }}) and [research areas]({{ "research/" | relative_url }}) provide a fuller picture of the topics we currently pursue.
 
 ### Where can I find information regarding CUSAT's academic requirements?
 
-Admission to the Ph.D. programme in the Department of Polymer Science and Rubber Technology follows the university-wide CUSAT rules:
+Admission to the Ph.D. programme in the Department of Polymer Science and Rubber Technology follows CUSAT rules:
 
 - A Master's degree with a minimum of 55% marks in the qualifying examination (50% for SC/ST candidates).
 - Selection through the CUSAT Doctoral Admission Test (DAT) — a written test followed by an interview; candidates who qualify in national eligibility tests such as UGC–NET, CSIR–NET, GATE etc. are exempt from the written test.
-- Applications are submitted to the Head of Department through the [CUSAT admissions portal](https://admissions.cusat.ac.in); see the [department website](https://psrt.cusat.ac.in) for details.
+- Applications are submitted to the Head of Department; see the [CUSAT website](https://www.cusat.ac.in/) for details.
 - Two admission cycles per year (generally February/March and July).
 
 ### Do you have any scholarships?
 
 We have been able to offer a combination of national fellowships and project-funded positions. Available funding channels include:
 
-- **National fellowships**: UGC–CSIR–NET JRF, DBT JRF, GATE, and INSPIRE fellowships.
-- **Project Junior Research Fellowships (JRF)**: paid positions attached to current funded projects, including under the AICTE (₹31 Lakhs) and RUSA (₹58 Lakhs) grants.
+- **National fellowships**: UGC/CSIR- NET JRF, DBT JRF, GATE, and INSPIRE fellowships.
+- **Project Junior Research Fellowships (JRF)**: paid positions attached to current funded projects.
 
 We are always happy to advise on the most suitable scheme for your profile during the preliminary discussion.
 
@@ -65,7 +65,6 @@ When applying, please include a statement (2–3 pages) that covers:
 - Your thoughts on how you would address gaps in those areas.
 - An overview of your academic background, including grades, awards, and rank.
 - Any prior research outputs (dissertations, research placements).
-- A brief literature survey of recent developments in your area of interest.
 
 {% include section.html %}
 
@@ -82,7 +81,7 @@ Some indicative fellowship schemes include:
 
 ## Internships
 
-We welcome interns at all levels — undergraduate (B.Tech.), M.Tech., and postgraduate students — as well as summer research students. To apply, email the director with a short cover statement (outlining your background and what you would like to work on) together with your CV. We are glad to host motivated students who are available for the period of the internship (typically a summer term).
+We welcome interns at all levels - undergraduate (B.Tech.), M.Tech., and postgraduate students. To apply, email the PI with a short cover statement (outlining your background and what you would like to work on) together with your CV. We are glad to host motivated students who are available for the period of the internship (typically a summer term).
 
 {% include section.html %}
 
