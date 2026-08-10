@@ -3,19 +3,29 @@
 // Page container widths ($page)
 
 $page: 1280px;
-$padding: 64px;
 
 section {
-  padding: $padding max($padding, calc((100% - $page) / 2));
+  padding: var(--space-2xl) var(--gutter);
+  max-width: var(--maxw);
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
   transition: background var(--transition), color var(--transition);
 }
 
+// A section that only wraps a child section (e.g. hero inside its section
+// wrapper) carries no padding of its own - the child provides the spacing.
+section:has(> section) {
+  padding-block: 0;
+}
+
 section[data-size="wide"] {
-  padding: $padding var(--gutter);
+  padding: var(--space-2xl) var(--gutter);
 }
 
 section[data-size="full"] {
   padding: 0;
+  max-width: none;
 }
 
 section[data-size="full"] > * {
@@ -27,18 +37,12 @@ section[data-size="full"] img {
   border-radius: 0;
 }
 
+// Sections are separated by a hairline instead of alternating backgrounds
+// (matches the TSL lab homepage rhythm).
+main > section + section {
+  border-top: 1px solid var(--hairline);
+}
+
 main > section:last-of-type {
   flex-grow: 1;
-}
-
-main > section:nth-of-type(even) {
-  background: var(--background-alt);
-}
-
-main > section:first-of-type {
-  padding-top: calc(#{$padding} + 8px);
-}
-
-main > section:last-of-type {
-  padding-bottom: calc(#{$padding} + 24px);
 }

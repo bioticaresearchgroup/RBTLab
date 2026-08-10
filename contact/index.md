@@ -6,7 +6,7 @@
 description: Contact the Regenerative Biomaterials and Theranostics Laboratory at CUSAT, Kochi, Kerala for collaborations, Ph.D. and postdoc inquiries.
 title: Contact
 nav:
-  order: 7
+  order: 8
   tooltip: Email, address, and location
 ---
 

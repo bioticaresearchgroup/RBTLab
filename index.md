@@ -24,43 +24,43 @@ nav:
 </div>
 
 <div class="card-grid card-grid--3">
-  <div class="card">
-    <span class="card-image"><img src="{{ "images/CQB1.jpg" | relative_url }}" alt="Biomaterials &amp; Tissue Engineering" loading="lazy"></span>
+  <div class="card" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-biomaterials.jpg" | relative_url }}" alt="Biomaterials &amp; Tissue Engineering" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Biomaterials &amp; Tissue Engineering</span>
       <p>Bone tissue engineering and smart biomimetic interfaces that guide osteogenesis and direct bone bonding.</p>
     </span>
   </div>
-  <div class="card">
-    <span class="card-image"><img src="{{ "images/areogel.jpg" | relative_url }}" alt="Nanomedicine &amp; Theranostics" loading="lazy"></span>
+  <div class="card" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-nanomedicine-theranostics.jpg" | relative_url }}" alt="Nanomedicine &amp; Theranostics" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Nanomedicine &amp; Theranostics</span>
       <p>Dual-functional, nanopharmaceutical stimuline-loaded complexes that enable diagnostics, targeted drug delivery, and magnetic hyperthermia.</p>
     </span>
   </div>
-  <div class="card">
-    <span class="card-image"><img src="{{ "images/PCLB.jpg" | relative_url }}" alt="Radiopaque &amp; Antimicrobial Materials" loading="lazy"></span>
+  <div class="card" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-radiopaque-antimicrobial.jpg" | relative_url }}" alt="Radiopaque &amp; Antimicrobial Materials" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Radiopaque &amp; Antimicrobial Materials</span>
       <p>Biomedical arrays that are inherently visible under X-ray imaging, plus antimicrobial formulations that prevent nosocomial infections.</p>
     </span>
   </div>
-  <div class="card">
-    <span class="card-image"><img src="{{ "images/suturenew.png" | relative_url }}" alt="Regenerative scaffolds" loading="lazy"></span>
+  <div class="card" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-regenerative-scaffolds.jpg" | relative_url }}" alt="Regenerative scaffolds" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Regenerative scaffolds</span>
       <p>Synthetic-natural polymer matrices engineered for bone regeneration and soft-tissue repair.</p>
     </span>
   </div>
-  <div class="card">
-    <span class="card-image"><img src="{{ "images/project1.png" | relative_url }}" alt="Nanomedicine platforms" loading="lazy"></span>
+  <div class="card" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-nanomedicine-platforms.jpg" | relative_url }}" alt="Nanomedicine platforms" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Nanomedicine platforms</span>
       <p>Responsive nanocarrier platforms for image-guided therapy and controlled drug release.</p>
     </span>
   </div>
-  <div class="card card--ga">
-    <span class="card-image"><img src="{{ "images/radiopaque-review-ga.jpg" | relative_url }}" alt="Radiopaque implants" loading="lazy"></span>
+  <div class="card card--ga" data-style="small">
+    <span class="card-image"><img src="{{ "images/research-radiopaque-implants.jpg" | relative_url }}" alt="Radiopaque implants" loading="lazy"></span>
     <span class="card-text">
       <span class="card-title">Radiopaque implants</span>
       <p>X-ray-visible biomaterials that combine structural function with imaging compatibility.</p>

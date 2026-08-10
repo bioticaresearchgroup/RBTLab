@@ -6,7 +6,7 @@
 description: How to join the lab — PhD admission at CUSAT, postdoc fellowships, internships, and what to include in an application.
 title: Join us
 nav:
-  order: 8
+  order: 7
   tooltip: PhD, postdoc, and internship opportunities
 ---
 

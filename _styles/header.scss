@@ -8,9 +8,7 @@ header {
   position: sticky !important;
   top: 0;
   z-index: 50 !important;
-  background: rgba(250, 249, 246, 0.92);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--paper);
   border-bottom: 1px solid var(--hairline);
 }
 
@@ -103,30 +101,39 @@ header nav {
   align-items: center;
   flex-wrap: wrap;
   gap: 28px;
-  font-family: var(--display);
+  font-family: var(--heading);
   font-size: var(--fs-14);
   font-weight: var(--weight-medium);
   letter-spacing: -0.005em;
 }
 
 header nav > a {
-  padding: 6px 0;
-  border-bottom: 2px solid transparent;
+  position: relative;
+  padding: 4px 0;
+  white-space: nowrap;
   font-size: inherit;
   font-weight: var(--weight-medium);
   letter-spacing: -0.005em;
-  color: var(--muted);
-  transition: color var(--transition), border-color var(--transition);
+  color: var(--text);
+  transition: color var(--transition);
 }
 
 header nav > a:hover {
-  color: var(--ink);
-  border-bottom-color: var(--ink);
+  color: var(--imperial);
 }
 
 header nav > a[aria-current] {
   color: var(--imperial);
-  border-bottom-color: var(--imperial);
+}
+
+header nav > a[aria-current]::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -2px;
+  height: 1px;
+  background: var(--imperial);
 }
 
 @media (max-width: $collapse) {
