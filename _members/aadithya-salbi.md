@@ -1,4 +1,4 @@
-﻿---
+---
 # MEMBER: Aadithya Salbi
 # Team member bio page (member.html layout). Editing fields:
 #   - image : portrait file under /images (e.g. images/ab.jpg)
