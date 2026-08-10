@@ -12,6 +12,10 @@
 .carousel-wrapper {
   overflow: hidden;
   margin-bottom: var(--space-md);
+  border: 1px solid var(--hairline);
+  border-radius: var(--rounded);
+  background: var(--elevated);
+  padding: var(--space-md) 0;
 }
 
 .carousel {
@@ -34,7 +38,7 @@
 
 .carousel-item {
   flex: 0 0 300px;
-  margin: 0 var(--space-sm);
+  margin: 0 var(--space-md);
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -44,6 +48,7 @@
   width: 100%;
   height: 200px;
   overflow: hidden;
+  border-bottom: 1px solid var(--hairline);
 }
 
 .carousel-image {
@@ -62,7 +67,7 @@
   height: 50px;
   background: var(--elevated);
   color: var(--ink);
-  padding: var(--space-xs) var(--space-md);
+  padding: var(--space-sm) var(--space-md);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -80,7 +85,7 @@
   text-align: center;
   width: 100%;
   font-weight: var(--weight-medium);
-  font-family: var(--display);
+  font-family: var(--heading);
   letter-spacing: -0.005em;
   border-bottom: none;
   padding: 0;
@@ -126,7 +131,7 @@
 }
 
 .carousel-counter {
-  font-family: var(--display);
+  font-family: var(--heading);
   font-feature-settings: "tnum";
   font-variant-numeric: tabular-nums;
   font-size: var(--fs-14);
