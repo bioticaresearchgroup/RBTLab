@@ -20,5 +20,3 @@ bash .docker/run.sh
 ```
 
 The `update-citations` workflow maintains `_data/citations.yaml` automatically from ORCID, Google Scholar, and PubMed sources. To enable it, add the `GOOGLE_SCHOLAR_API_KEY` secret to the repository.
-
-_Built with the [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
