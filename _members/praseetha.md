@@ -1,4 +1,4 @@
----
+﻿---
 # MEMBER: Praseetha R. Nair
 # Team member bio page (member.html layout). Editing fields:
 #   - image : portrait file under /images (e.g. images/ab.jpg)
@@ -8,7 +8,7 @@
 #   - links : email / linkedin / google-scholar / orcid
 # Body   : bio text (usually a one-liner + qualifications/research area).
 name: Praseetha R. Nair
-image: images/pra.png
+image: images/pra.webp
 role: phd
 affiliation: 
 group: alum
@@ -22,7 +22,7 @@ links:
 ---
 - junior research Fellow (kscste)
 
-Dr. Praseetha R. Nair is a doctoral fellow in Prof. G.S. Sailaja’s team at the Department of Polymer Science and Rubber Technology since January 2017. She received her Bachelor’s degree in chemistry and Master’s degree in Analytical chemistry with good academic records. Then, she joined Prof. Sailaja’s group in January 2017 as a doctoral fellow and focussed on the extraction of medicinal plants and development of biodegradable polymeric scaffolds for bone tissue regeneration. She has been awarded KSCSTE- Back to Lab fellowship for her Ph. D. programme.
+Dr. Praseetha R. Nair is a doctoral fellow in Prof. G.S. Sailajaâ€™s team at the Department of Polymer Science and Rubber Technology since January 2017. She received her Bachelorâ€™s degree in chemistry and Masterâ€™s degree in Analytical chemistry with good academic records. Then, she joined Prof. Sailajaâ€™s group in January 2017 as a doctoral fellow and focussed on the extraction of medicinal plants and development of biodegradable polymeric scaffolds for bone tissue regeneration. She has been awarded KSCSTE- Back to Lab fellowship for her Ph. D. programme.
 
 - Research interests
 

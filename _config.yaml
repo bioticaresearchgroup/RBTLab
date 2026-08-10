@@ -1,4 +1,4 @@
-# =====================================================================
+﻿# =====================================================================
 # RBTLAB SITE CONFIGURATION (_config.yaml)
 # Central Jekyll configuration for the Regenerative Biomaterials and
 # Theranostics Laboratory site. All site-wide metadata (title, description,
@@ -16,7 +16,7 @@ title: Regenerative Biomaterials and Theranostics Laboratory
 subtitle:
 description: At Prof. G.S. Sailaja's lab, we are dedicated to pushing the boundaries of biomedical materials science to address critical healthcare challenges. Our research program thrives on an interdisciplinary approach, seamlessly integrating expertise in biomaterials, nanomedicine, and theranostics.
 header: images/bg-dna.jpg
-footer: images/footer.png
+footer: images/footer.webp
 proofer: false
 
 # site social media and other links

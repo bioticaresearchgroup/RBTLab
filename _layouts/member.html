@@ -21,6 +21,8 @@ layout: default
 
 {% endcapture %}
 
+<h1>{{ page.name | default: page.title | xml_escape }}</h1>
+
 {% include float.html content=floatcontent %}
 
 {{ content }}

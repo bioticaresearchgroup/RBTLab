@@ -1,4 +1,4 @@
----
+﻿---
 # MEMBER: Aadithya Salbi
 # Team member bio page (member.html layout). Editing fields:
 #   - image : portrait file under /images (e.g. images/ab.jpg)
@@ -8,7 +8,7 @@
 #   - links : email / linkedin / google-scholar / orcid
 # Body   : bio text (usually a one-liner + qualifications/research area).
 name: Aadithya Salbi
-image: images/as.png
+image: images/as.webp
 role: phd
 affiliation: 
 aliases:
@@ -21,5 +21,5 @@ links:
 ---
 - University SRF
 
-Aadithya Salbi has joined as University JRF in Prof. G. S. Sailaja’s research team at the Inter University Centre for Nanomaterials and Devices from August 2021. She received her Master’s degree in Chemistry from St. Teresa’s College (Autonomous), Ernakulam, and Bachelor’s degree from SNM College, Maliankara with good academic records.
+Aadithya Salbi has joined as University JRF in Prof. G. S. Sailajaâ€™s research team at the Inter University Centre for Nanomaterials and Devices from August 2021. She received her Masterâ€™s degree in Chemistry from St. Teresaâ€™s College (Autonomous), Ernakulam, and Bachelorâ€™s degree from SNM College, Maliankara with good academic records.
 

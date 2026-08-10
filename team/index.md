@@ -3,7 +3,7 @@
 # Director block (director.html), active members grouped by role in portrait
 # grids (postdoc / PhD / project student / intern), then alumni in the same
 # role groups shown with small portraits. Closes with a "Join the Team" CTA.
-description: Meet the members of the Regenerative Biomaterials and Theranostics Laboratory — principal investigator Prof. G.S. Sailaja, postdocs, PhD students, project students and interns.
+description: Meet the RBTLab members — principal investigator Prof. G.S. Sailaja, postdocs, PhD students, project students and interns.
 title: Team
 nav:
   order: 1
