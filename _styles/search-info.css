@@ -1,8 +1,10 @@
 .search-info {
-  margin: 20px 0;
-  text-align: center;
+  margin: 12px 0;
+  text-align: left;
   font-style: italic;
-  line-height: var(--spacing);
+  line-height: var(--line-normal);
+  color: var(--gray);
+  font-size: var(--fs-15);
 }
 
 /*# sourceMappingURL=search-info.css.map */

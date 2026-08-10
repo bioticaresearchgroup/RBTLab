@@ -1,6 +1,9 @@
-/* 
-  shows a popup of text on hover/focus of any element with the data-tooltip
-  attribute.
+/*
+  TOOLTIP.JS
+  Uses the Tippy.js library (loaded in _includes/scripts.html) to show a
+  popup on hover/focus for every element carrying a data-tooltip attribute
+  (e.g. buttons, citation author lists). Tooltips are readded after tag
+  rows finish loading (tagsfetched event) in case new elements appear.
 */
 
 {

@@ -1,12 +1,27 @@
 .search-box {
   position: relative;
-  height: 40px;
+  height: 46px;
+  max-width: 560px;
+  margin: 20px auto;
 }
 
 .search-box .search-input {
   width: 100%;
   height: 100%;
-  padding-right: 40px;
+  padding: 0 46px 0 18px;
+  border-radius: 999px;
+  border: 1px solid var(--light-gray);
+  background: var(--background);
+  color: var(--text);
+  font-family: var(--body);
+  font-size: var(--fs-15);
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+
+.search-box .search-input:focus {
+  outline: none;
+  border-color: var(--secondary);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--secondary) 20%, transparent);
 }
 
 .search-box button {
@@ -16,7 +31,7 @@
   justify-content: center;
   align-items: center;
   padding: 0;
-  aspect-ratio: 1/1;
+  width: 46px;
   background: none;
   color: var(--black);
   border: none;

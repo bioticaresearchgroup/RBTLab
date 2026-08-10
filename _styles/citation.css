@@ -4,16 +4,22 @@
 
 .citation {
   display: flex;
-  margin: 20px 0;
+  margin: 16px 0;
   border-radius: var(--rounded);
-  background: var(--background);
+  background: var(--elevated);
+  border: 1px solid var(--hairline);
   overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.citation:hover {
   box-shadow: var(--shadow);
 }
 
 .citation-image {
   position: relative;
-  width: 180px;
+  width: 150px;
   flex-shrink: 0;
 }
 
@@ -22,18 +28,18 @@
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
+  display: block;
 }
 
 .citation-text {
   position: relative;
   display: inline-flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   max-width: 100%;
   height: min-content;
-  padding: 20px;
-  padding-left: 30px;
+  padding: 22px 24px;
   text-align: left;
   overflow-wrap: break-word;
   z-index: 0;
@@ -47,31 +53,55 @@
 }
 
 .citation-title {
-  font-weight: var(--semi-bold);
+  font-family: var(--heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--fs-18);
+  letter-spacing: -0.01em;
+  line-height: var(--line-snug);
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.citation-title:hover {
+  color: var(--primary);
 }
 
 .citation-text > .icon {
   position: absolute;
-  top: 20px;
-  right: 20px;
-  color: var(--light-gray);
-  opacity: 0.5;
-  font-size: 30px;
+  top: 18px;
+  right: 18px;
+  color: var(--primary);
+  opacity: 0.15;
+  font-size: 28px;
   z-index: -1;
+}
+
+.citation-authors {
+  color: var(--muted);
+  font-size: var(--fs-15);
+  line-height: var(--line-normal);
+}
+
+.citation-details {
+  color: var(--gray);
+  font-size: var(--fs-14);
 }
 
 .citation-publisher {
   text-transform: capitalize;
+  font-weight: var(--semi-bold);
+  color: var(--primary);
 }
 
 .citation-description {
   color: var(--gray);
+  font-size: var(--fs-15);
 }
 
 .citation-buttons {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
 }
 
 .citation-buttons .button {
@@ -90,7 +120,7 @@
   }
   .citation-image {
     width: unset;
-    height: 180px;
+    height: 150px;
   }
 }
 

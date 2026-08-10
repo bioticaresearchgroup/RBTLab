@@ -7,8 +7,11 @@ body {
   background: var(--background);
   color: var(--text);
   font-family: var(--body);
-  text-align: center;
-  line-height: var(--compact);
+  font-size: var(--fs-16);
+  text-align: left;
+  line-height: var(--line-normal);
+  -webkit-font-smoothing: antialiased;
+  transition: background var(--transition), color var(--transition);
 }
 
 /*# sourceMappingURL=body.css.map */

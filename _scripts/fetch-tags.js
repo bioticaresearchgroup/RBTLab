@@ -1,6 +1,12 @@
 /*
-  fetches tags (aka "topics") from a given GitHub repo and adds them to row of
-  tag buttons. specify repo in data-repo attribute on row.
+  FETCH-TAGS.JS
+  On load, for every row with a data-repo attribute, fetches that GitHub
+  repo's "topics" from the GitHub API and appends them as extra tag links
+  (deduping against tags already in the row). Example usage:
+    <div class="tags" data-repo="greenelab/greenelab-software"
+         data-link="/projects/"></div>
+  Dispatches the custom "tagsfetched" event when finished so that
+  search.js / tooltip.js / anchors.js can re-run on the new elements.
 */
 
 {

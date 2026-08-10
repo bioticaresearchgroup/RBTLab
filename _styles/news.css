@@ -1,0 +1,71 @@
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0 0 var(--space-xl);
+}
+
+.news-item {
+  padding: var(--space-lg) 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.news-item:first-child {
+  padding-top: 0;
+}
+
+.news-item:last-child {
+  border-bottom: none;
+}
+
+.news-item:hover .news-title {
+  color: var(--imperial);
+}
+
+.news-date {
+  display: block;
+  font-family: var(--body);
+  font-weight: var(--weight-medium);
+  font-size: var(--fs-14);
+  letter-spacing: 0;
+  color: var(--imperial);
+  margin: 0 0 var(--space-xs) 0;
+}
+
+.news-body {
+  text-align: left;
+}
+
+.news-title {
+  font-family: var(--heading);
+  font-weight: var(--weight-medium);
+  font-size: var(--fs-18);
+  letter-spacing: -0.01em;
+  line-height: var(--line-snug);
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.news-title:hover {
+  color: var(--imperial);
+}
+
+.news-description {
+  margin: var(--space-sm) 0 0;
+  color: var(--muted);
+  font-size: var(--fs-15);
+  line-height: var(--line-normal);
+}
+
+.papers-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 20px 0;
+}
+
+.papers-list .citation {
+  margin: 0;
+}
+
+/*# sourceMappingURL=news.css.map */

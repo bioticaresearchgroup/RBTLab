@@ -1,21 +1,24 @@
 .tags {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   max-width: 100%;
-  margin: 20px 0;
+  margin: 16px 0;
 }
 
 .tag {
   max-width: 100%;
   margin: 0;
-  padding: 5px 10px;
+  padding: 4px 12px;
   border-radius: 999px;
-  background: var(--secondary);
-  color: var(--text);
+  border: 1px solid color-mix(in srgb, var(--secondary) 40%, transparent);
+  background: color-mix(in srgb, var(--secondary) 10%, transparent);
+  color: var(--primary);
   text-decoration: none;
+  font-size: var(--fs-14);
+  font-weight: var(--semi-bold);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -23,11 +26,13 @@
 }
 
 .tag:hover {
-  background: var(--light-gray);
+  background: var(--secondary);
+  color: var(--background);
 }
 
 .tag[data-active] {
-  background: var(--light-gray);
+  background: var(--secondary);
+  color: var(--background);
 }
 
 /*# sourceMappingURL=tags.css.map */

@@ -1,7 +1,15 @@
 p {
   margin: 20px 0;
-  text-align: justify;
-  line-height: var(--spacing);
+  text-align: left;
+  line-height: var(--line-normal);
+}
+
+/* homepage hero lead paragraph */
+b.lead,
+strong.lead {
+  font-size: var(--fs-20);
+  font-weight: var(--regular);
+  line-height: var(--line-normal);
 }
 
 /*# sourceMappingURL=paragraph.css.map */

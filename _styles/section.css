@@ -1,14 +1,23 @@
 section {
-  padding: 40px max(40px, (100% - 1000px) / 2);
+  padding: var(--space-2xl) var(--gutter);
+  max-width: var(--maxw);
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
   transition: background var(--transition), color var(--transition);
 }
 
+section:has(> section) {
+  padding-block: 0;
+}
+
 section[data-size=wide] {
-  padding: 40px;
+  padding: var(--space-2xl) var(--gutter);
 }
 
 section[data-size=full] {
   padding: 0;
+  max-width: none;
 }
 
 section[data-size=full] > * {
@@ -20,16 +29,12 @@ section[data-size=full] img {
   border-radius: 0;
 }
 
+main > section + section {
+  border-top: 1px solid var(--hairline);
+}
+
 main > section:last-of-type {
   flex-grow: 1;
-}
-
-main > section:nth-of-type(odd) {
-  background: var(--background);
-}
-
-main > section:nth-of-type(even) {
-  background: var(--background-alt);
 }
 
 /*# sourceMappingURL=section.css.map */

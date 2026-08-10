@@ -1,22 +1,44 @@
 ul,
 ol {
-  margin: 20px 0;
-  padding-left: 40px;
+  margin: 16px 0;
+  padding-left: 28px;
 }
 
 ul {
-  list-style-type: square;
+  list-style-type: none;
+}
+
+ul li {
+  position: relative;
+}
+
+ul li::before {
+  content: "";
+  position: absolute;
+  left: -18px;
+  top: 0.7em;
+  width: 7px;
+  height: 7px;
+  border-radius: 2px;
+  background: var(--secondary);
 }
 
 li {
-  margin: 5px 0;
-  padding-left: 10px;
-  text-align: justify;
+  margin: 6px 0;
+  padding-left: 6px;
+  text-align: left;
   line-height: var(--spacing);
 }
 li ul,
 li ol {
   margin: 0;
+}
+
+li ul li::before {
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--primary);
 }
 
 /*# sourceMappingURL=list.css.map */

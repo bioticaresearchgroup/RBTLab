@@ -13,8 +13,9 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50% 50%;
-  opacity: 0.25;
+  opacity: 0.18;
   z-index: -1;
+  pointer-events: none;
 }
 
 /*# sourceMappingURL=background.css.map */
