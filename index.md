@@ -20,7 +20,7 @@ nav:
 
 <div class="section-head">
   <h2>Research areas</h2>
-  <a class="section-head-more" href="{{ "research/" | relative_url }}">All projects <span aria-hidden="true">&rarr;</span></a>
+  <a class="section-head-more" href="{{ "research/" | relative_url }}">Research<span aria-hidden="true">&rarr;</span></a>
 </div>
 
 <div class="card-grid card-grid--3">
