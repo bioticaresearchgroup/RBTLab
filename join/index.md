@@ -12,7 +12,7 @@ nav:
 
 # Join us
 
-We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to our director, [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying — an informal conversation with the director is the best first step.
+We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to our director, [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying — an informal conversation with the PI is the best first step.
 
 Prospective Ph.D. students should also review the general admission information on the [Cochin University of Science and Technology](https://www.cusat.ac.in/) website and apply through the [CUSAT admissions portal](https://admissions.cusat.ac.in).
 
