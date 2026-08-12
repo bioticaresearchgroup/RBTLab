@@ -17,8 +17,8 @@ links:
   email: mailtoabhishek97@gmail.com
   linkedin: abhishekajith
   google-scholar:  
-  orcid:0000-0002-8939-9948
-  website:abhishekajith.github.io/
+  orcid: 0000-0002-8939-9948
+  home-page: https://abhishekajith.github.io/ 
 ---
 - University JRF
 
