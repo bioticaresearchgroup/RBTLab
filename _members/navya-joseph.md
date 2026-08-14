@@ -12,7 +12,8 @@ image: images/navya.jpeg
 role: postdoc
 affiliation: 
 aliases:
-  - Navya 
+  - Navya
+group: alum
 links:
   email:
   linkedin:
