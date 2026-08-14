@@ -10,7 +10,7 @@
 name: Sreeja S.
 image: images/sree.jpg
 role: postdoc
-affiliation: 
+affiliation: Lecturer & Researcher, Technological University of the Shannon, Ireland
 group: alum
 aliases:
   - Sreeja 
