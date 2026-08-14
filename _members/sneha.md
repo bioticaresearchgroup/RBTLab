@@ -10,7 +10,7 @@
 name: Sneha K. R.
 image: images/sn.webp
 role: phd
-affiliation:
+affiliation: Post-doctoral fellow, Linköping University, Sweden
 group: alum 
 aliases:
   - Sneha
