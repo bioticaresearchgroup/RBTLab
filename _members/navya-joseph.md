@@ -10,7 +10,7 @@
 name: Navya Joseph
 image: images/navya.jpeg
 role: postdoc
-affiliation: 
+affiliation: Post-doctoral fellow, Department Of Physics, Indian Institute Of Technology Madras
 aliases:
   - Navya
 group: alum
