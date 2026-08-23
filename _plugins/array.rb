@@ -1,4 +1,4 @@
-# ARRAY.RB — custom Liquid filters for working with arrays.
+# ARRAY.RB - custom Liquid filters for working with arrays.
 # Registered globally via Liquid::Template.register_filter so they can be
 # used in any page/include: {{ list | array_filter }} etc.
 require 'liquid'

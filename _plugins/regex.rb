@@ -1,4 +1,4 @@
-# REGEX.RB — custom Liquid filters for regular expressions.
+# REGEX.RB - custom Liquid filters for regular expressions.
 # Used widely: regex_scan pulls image/dark/size markers out of page content
 # (content.html), regex_strip cleans text for aria-labels and search data.
 require 'json'

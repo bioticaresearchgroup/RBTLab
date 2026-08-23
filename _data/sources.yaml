@@ -1,4 +1,4 @@
-# SOURCES — supplementary publication metadata (cover images etc.)
+# SOURCES - supplementary publication metadata (cover images etc.)
 # Used by the orcid.py updater to attach figure images to the otherwise
 # auto-generated citations.yaml entries. Each entry is matched to a
 # citation by `id` (DOI) or by exact `title`; the `image` field (usually a

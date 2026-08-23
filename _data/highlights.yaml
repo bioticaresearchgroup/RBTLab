@@ -1,4 +1,4 @@
-# HIGHLIGHTS — the homepage "Lab highlights" carousel
+# HIGHLIGHTS - the homepage "Lab highlights" carousel
 # (see index.md -> {% include carousel.html data="highlights" ... %},
 # _includes/carousel.html, _styles/carousel.scss, _scripts/carousel.js).
 # Each entry: base image plus a short caption shown under the photo.

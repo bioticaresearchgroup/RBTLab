@@ -4,7 +4,7 @@
 [![on-pull-request](https://github.com/bioticaresearchgroup/RBTLab/actions/workflows/on-pull-request.yaml/badge.svg)](https://github.com/bioticaresearchgroup/RBTLab/actions/workflows/on-pull-request.yaml)
 [![on-schedule](https://github.com/bioticaresearchgroup/RBTLab/actions/workflows/on-schedule.yaml/badge.svg)](https://github.com/bioticaresearchgroup/RBTLab/actions/workflows/on-schedule.yaml)
 
-## Regenerative Biomaterials and Theranostics Lab — Website
+## Regenerative Biomaterials and Theranostics Lab - Website
 
 Visit **[www.gssailaja.org](https://www.gssailaja.org)** 🚀
 

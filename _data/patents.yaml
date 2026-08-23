@@ -1,4 +1,4 @@
-# PATENTS — patents shown on the Patents page.
+# PATENTS - patents shown on the Patents page.
 # Rendered by list.html -> citation.html (same card layout as papers).
 # Fields: title, type ("patent"), description (patent no.), authors,
 # publisher (patent office), date, image, buttons (certificate links).

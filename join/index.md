@@ -3,7 +3,7 @@
 # how-to-apply info for the lab: PhD admission process & criteria, current
 # research priority areas, scholarships/fellowships, postdoc + internship
 # routes, all pointing back to the director email.
-description: How to join the lab — PhD admission at CUSAT, postdoc fellowships, internships, and what to include in an application.
+description: How to join the lab - PhD admission at CUSAT, postdoc fellowships, internships, and what to include in an application.
 title: Join us
 nav:
   order: 7
@@ -12,7 +12,7 @@ nav:
 
 # Join us
 
-We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying — an informal conversation with the PI is the best first step.
+We welcome applications from enthusiastic researchers at all stages. We encourage you to reach out to [Prof. G.S. Sailaja](mailto:sailajags@cusat.ac.in), for a preliminary discussion before applying - an informal conversation with the PI is the best first step.
 
 Prospective Ph.D. students should also review the general admission information on the [Cochin University of Science and Technology](https://www.cusat.ac.in/) website and apply through the [CUSAT admissions portal](https://admissions.cusat.ac.in).
 
@@ -40,7 +40,7 @@ Our [list of projects]({{ "projects/" | relative_url }}) and [research areas]({{
 Admission to the Ph.D. programme in the Department of Polymer Science and Rubber Technology follows CUSAT rules:
 
 - A Master's degree with a minimum of 55% marks in the qualifying examination (50% for SC/ST candidates).
-- Selection through the CUSAT Doctoral Admission Test (DAT) — a written test followed by an interview; candidates who qualify in national eligibility tests such as UGC–NET, CSIR–NET, GATE etc. are exempt from the written test.
+- Selection through the CUSAT Doctoral Admission Test (DAT) - a written test followed by an interview; candidates who qualify in national eligibility tests such as UGC–NET, CSIR–NET, GATE etc. are exempt from the written test.
 - Applications are submitted to the Head of Department; see the [CUSAT website](https://www.cusat.ac.in/) for details.
 - Two admission cycles per year (generally February/March and July).
 
@@ -85,4 +85,4 @@ We welcome interns at all levels - undergraduate (B.Tech.), M.Tech., and postgra
 
 {% include section.html %}
 
-*Unsure how to begin? Write to [sailajags@cusat.ac.in](mailto:sailajags@cusat.ac.in) — a short note is the best way to start a conversation.*
+*Unsure how to begin? Write to [sailajags@cusat.ac.in](mailto:sailajags@cusat.ac.in) - a short note is the best way to start a conversation.*

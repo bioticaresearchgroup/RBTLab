@@ -1,4 +1,4 @@
-# FILE.RB — custom Liquid filters for the local filesystem.
+# FILE.RB - custom Liquid filters for the local filesystem.
 # Used to detect which logo/icon file format exists (svg/png/jpg) and to
 # inline SVG logos directly into the page (see _includes/header.html,
 # _includes/meta.html).

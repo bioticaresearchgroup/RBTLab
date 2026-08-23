@@ -1,4 +1,4 @@
-# MISC.RB — miscellaneous Liquid filters + a post-build HTML proofer.
+# MISC.RB - miscellaneous Liquid filters + a post-build HTML proofer.
 # Filters: is_nil, object_items, safe_var_name, data_filter (a simple
 # Ruby-expression filter used by list.html), google_fonts.
 # Bottom block registers a Jekyll hook that runs HTMLProofer on the built

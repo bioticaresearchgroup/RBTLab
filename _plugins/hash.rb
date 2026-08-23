@@ -1,4 +1,4 @@
-# HASH.RB — custom Liquid filter for merging config-style hashes.
+# HASH.RB - custom Liquid filter for merging config-style hashes.
 # Used by _includes/button.html to let a button's inline parameters be
 # overridden by (or fall back to) defaults looked up in _data/types.yaml.
 require 'liquid'

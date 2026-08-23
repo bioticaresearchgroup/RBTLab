@@ -1,4 +1,4 @@
-# FACILITIES — lab equipment list shown on the Facilities page
+# FACILITIES - lab equipment list shown on the Facilities page
 # (see facilities/index.html, _includes/facility.html). Each entry:
 #   title        equipment name (heading)
 #   subtitle     make/model
