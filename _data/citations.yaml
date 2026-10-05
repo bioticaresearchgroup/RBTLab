@@ -277,8 +277,9 @@
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/44795f84-14f6-4639-b7d4-c321889dfc6f/app.v138.1.cover.jpg
 - id: doi:10.1039/D1NJ03687D
-  title: "Early biomineralizing chitosan\u2013collagen hybrid scaffold with <i>Cissus\
-    \ quadrangularis</i> extract for regenerative bone tissue engineering"
+  title: "Early biomineralizing chitosan\u2013collagen hybrid scaffold with\n    \
+    \                <i>Cissus quadrangularis</i>\n                    extract for\
+    \ regenerative bone tissue engineering"
   authors:
   - Praseetha R. Nair
   - S. Sreeja
@@ -291,8 +292,9 @@
   file: sources.yaml
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1NJ03687D&imageInfo.ImageIdentifier.Year=2021
 - id: doi:10.1039/D1BM01316E
-  title: Intrinsically radiopaque and antimicrobial cellulose based surgical sutures
-    from mechanically powerful<i>Agave sisalana</i>plant leaf fibers
+  title: "Intrinsically radiopaque and antimicrobial cellulose based surgical sutures\
+    \ from mechanically powerful\n                    <i>Agave sisalana</i>\n    \
+    \                plant leaf fibers"
   authors:
   - K. R. Sneha
   - P. S. Steny
@@ -318,8 +320,9 @@
   file: sources.yaml
   image: https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1TB01513C&imageInfo.ImageIdentifier.Year=2021
 - id: doi:10.1039/D1NJ01913A
-  title: Lawsone derived Zn(<scp>ii</scp>) and Fe(<scp>iii</scp>) metal organic frameworks
-    with pH dependent emission for controlled drug delivery
+  title: "Lawsone derived Zn(\n                    <scp>ii</scp>\n               \
+    \     ) and Fe(\n                    <scp>iii</scp>\n                    ) metal\
+    \ organic frameworks with pH dependent emission for controlled drug delivery"
   authors:
   - P. Sirajunnisa
   - Liz Hannah George
