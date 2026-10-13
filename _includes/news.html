@@ -1,7 +1,9 @@
 {% comment %}
   NEWS LIST (homepage snippet)
   Shows the 4 most recent items from _data/news.yaml (newest first) as
-  compact date+title+description rows.
+  compact date+title+description rows, with an optional thumbnail when the
+  item provides an `image` field. Images may be site-relative
+  (images/foo.jpg) or an absolute URL.
 {% endcomment %}
 {{ " " }}
 <div class="news-list">
@@ -12,9 +14,24 @@
     | slice: 0, 4
   %}
   {% for item in news %}
+    {% assign thumb = item.image | default: "" %}
+    {% unless thumb contains "://" %}
+      {% assign thumb = thumb | relative_url | uri_escape %}
+    {% endunless %}
     <div class="news-item">
-      <span class="news-date">{{ item.date | date: "%d %b %Y" }}</span>
+      {% if item.image %}
+        <span class="news-thumb">
+          <img
+            src="{{ thumb }}"
+            class="news-thumb-image"
+            alt="{{ item.image_alt | default: "" | strip }}"
+            loading="lazy"
+            {% include fallback.html %}
+          >
+        </span>
+      {% endif %}
       <div class="news-body">
+        <span class="news-date">{{ item.date | date: "%d %b %Y" }}</span>
         <a
           {% if item.url %}
             href="{{ item.url }}"
