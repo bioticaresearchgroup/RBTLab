@@ -2,6 +2,10 @@
 # (see index.md -> {% include carousel.html data="highlights" ... %},
 # _includes/carousel.html, _styles/carousel.scss, _scripts/carousel.js).
 # Each entry: base image plus a short caption shown under the photo.
+# NOTE: index.md renders this carousel with captions="" and link_base="",
+# so `title` is used only as the image alt text and is never shown on screen.
+- title: Nano Innovation Challenge first prize for Nidhi G Krishna
+  image: images/nidhi-nanofest-award-2026.jpg
 - title: Lab activity
   image: images/G3.jpg
 - title: Research in progress
